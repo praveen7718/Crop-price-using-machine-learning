@@ -1,0 +1,2001 @@
+Year,Location,Area,Rainfall,Soil,temperature,Irrigation,Yeilds,Humidity,crop,Demand,Price
+2020,Punjab,28,581.0,Alluvial,23,Drip,100286.79,50,Wheat,8.0,28.08
+2020,Andhra Pradesh,48,801.0,Black,27,Sprinkler,113508.56,60,Groundnut,2.0,67.32
+2020,Odisha,27,1786.0,Red,41,Basin,22526.6,50,Groundnut,2.0,69.36
+2020,Uttar Pradesh,7,961.0,Alluvial,40,Drip,1981.66,40,Cotton,-15.0,49.3
+2020,Odisha,7,1226.0,Red,36,Surface,1979.53,40,Cotton,-15.0,54.4
+2020,Telangana,18,1076.0,Red,43,Sprinkler,21826.34,50,Groundnut,2.0,69.36
+2020,Telangana,19,876.0,Red,33,Drip,52288.57,35,Paddy,5.0,31.5
+2020,Chhattisgarh,42,1374.0,Red,28,Basin,109030.16,60,Paddy,5.0,28.35
+2020,Chhattisgarh,50,1348.0,Laterite,35,Basin,124848.34,35,Wheat,8.0,27.0
+2020,Andhra Pradesh,27,932.0,Black,26,Drip,62012.48,45,Groundnut,2.0,67.32
+2020,Uttar Pradesh,39,614.0,Black,44,Sprinkler,9627.49,50,Cotton,-15.0,49.3
+2020,Punjab,50,612.0,Black,34,Drip,35225.44,50,Cotton,-15.0,47.6
+2020,Chhattisgarh,8,1267.0,Laterite,39,Surface,15167.46,50,Paddy,5.0,28.35
+2020,Assam,8,2579.0,Laterite,38,Surface,16863.96,40,Paddy,5.0,29.4
+2020,Tamil Nadu,36,848.0,Red,37,Sprinkler,78057.44,50,Paddy,5.0,29.4
+2020,Punjab,28,792.0,Black,40,Sprinkler,15644.0,40,Cotton,-15.0,47.6
+2020,Telangana,38,1130.0,Red,40,Drip,20922.84,50,Cotton,-15.0,54.4
+2020,Assam,4,2665.0,Alluvial,30,Surface,8790.23,50,Paddy,5.0,29.4
+2020,Punjab,43,628.0,Black,37,Drip,153470.08,50,Wheat,8.0,28.08
+2020,West Bengal,16,2453.0,Saline,23,Surface,8143.45,60,Greengram,-5.0,86.45
+2020,Odisha,8,1513.0,Laterite,43,Surface,1805.47,50,Cotton,-15.0,54.4
+2020,Assam,47,2419.0,Red,33,Surface,45020.46,40,Tea,3.0,170.98
+2020,Telangana,2,1042.0,Red,38,Sprinkler,1020.22,35,Cotton,-15.0,54.4
+2020,Uttar Pradesh,44,1160.0,Alluvial,36,Basin,22871.7,50,Greengram,-5.0,81.7
+2020,Tamil Nadu,21,874.0,Red,39,Furrow,7610.09,50,Cotton,-15.0,51.85
+2020,Tamil Nadu,25,1065.0,Red,38,Sprinkler,8854.72,35,Cotton,-15.0,51.85
+2020,Andhra Pradesh,16,1193.0,Black,38,Basin,30699.69,50,Paddy,5.0,30.45
+2020,Chhattisgarh,34,1312.0,Red,26,Basin,72681.78,60,Maize,-5.0,22.8
+2020,Chhattisgarh,46,1064.0,Laterite,23,Drip,144608.21,45,Wheat,8.0,27.0
+2020,Odisha,47,1426.0,Red,43,Surface,28039.39,50,Groundnut,2.0,69.36
+2020,Telangana,33,837.0,Black,23,Sprinkler,75930.96,60,Groundnut,2.0,69.36
+2020,Assam,48,3255.0,Alluvial,23,Surface,59318.88,50,Tea,3.0,170.98
+2020,Uttar Pradesh,44,750.0,Black,32,Sprinkler,26383.89,50,Greengram,-5.0,81.7
+2020,Punjab,48,653.0,Black,34,Furrow,141262.76,40,Paddy,5.0,29.4
+2020,Tamil Nadu,39,970.0,Laterite,23,Sprinkler,51437.97,60,Groundnut,2.0,65.28
+2020,Assam,1,2803.0,Alluvial,42,Surface,1899.16,40,Paddy,5.0,29.4
+2020,Punjab,28,571.0,Black,26,Drip,65485.41,50,Paddy,5.0,29.4
+2020,Tamil Nadu,48,1157.0,Red,32,Surface,18303.28,35,Cotton,-15.0,51.85
+2020,Tamil Nadu,7,870.0,Laterite,24,Furrow,2418.16,60,Cotton,-15.0,51.85
+2020,West Bengal,42,2883.0,Alluvial,29,Surface,88187.64,60,Paddy,5.0,27.3
+2020,Punjab,27,710.0,Black,37,Furrow,91754.42,40,Wheat,8.0,28.08
+2020,Punjab,36,511.0,Black,27,Furrow,79959.09,50,Paddy,5.0,29.4
+2020,Punjab,15,752.0,Black,31,Sprinkler,10173.51,50,Cotton,-15.0,47.6
+2020,Telangana,23,1129.0,Laterite,24,Sprinkler,24172.76,60,Groundnut,2.0,69.36
+2020,Punjab,4,623.0,Alluvial,40,Sprinkler,13827.47,40,Wheat,8.0,28.08
+2020,Odisha,11,1568.0,Laterite,39,Basin,2836.0,35,Cotton,-15.0,54.4
+2020,Andhra Pradesh,41,897.0,Black,33,Sprinkler,14396.07,50,Cotton,-15.0,52.7
+2020,Andhra Pradesh,35,817.0,Laterite,25,Sprinkler,50668.79,45,Paddy,5.0,30.45
+2020,West Bengal,37,1569.0,Alluvial,39,Surface,6488.96,50,Cotton,-15.0,47.6
+2020,Assam,44,2009.0,Alluvial,23,Surface,94900.96,60,Paddy,5.0,29.4
+2020,Tamil Nadu,15,1149.0,Laterite,25,Sprinkler,34418.85,45,Paddy,5.0,29.4
+2020,Punjab,12,791.0,Alluvial,35,Furrow,28021.96,40,Paddy,5.0,29.4
+2020,Assam,46,3488.0,Laterite,44,Surface,79839.3,40,Paddy,5.0,29.4
+2020,Chhattisgarh,34,1014.0,Laterite,36,Sprinkler,88208.38,35,Maize,-5.0,22.8
+2020,Assam,27,2670.0,Alluvial,36,Basin,31612.44,50,Jute,-10.0,45.9
+2020,Telangana,46,1039.0,Laterite,32,Sprinkler,84608.86,50,Groundnut,2.0,69.36
+2020,West Bengal,35,2030.0,Laterite,27,Surface,62363.43,50,Paddy,5.0,27.3
+2020,Andhra Pradesh,26,1183.0,Red,33,Basin,29990.05,50,Paddy,5.0,30.45
+2020,West Bengal,28,1902.0,Laterite,36,Basin,39430.62,40,Groundnut,2.0,62.22
+2020,Chhattisgarh,3,1496.0,Laterite,42,Surface,5217.04,35,Maize,-5.0,22.8
+2020,Punjab,8,642.0,Alluvial,23,Drip,5794.16,60,Cotton,-15.0,47.6
+2020,Uttar Pradesh,20,877.0,Black,40,Sprinkler,43124.7,50,Groundnut,2.0,57.12
+2020,Punjab,46,656.0,Black,33,Sprinkler,117779.05,50,Paddy,5.0,29.4
+2020,Chhattisgarh,28,1266.0,Red,24,Basin,44979.38,45,Paddy,5.0,28.35
+2020,Tamil Nadu,11,1014.0,Laterite,32,Drip,16401.35,50,Groundnut,2.0,65.28
+2020,Uttar Pradesh,16,1161.0,Black,30,Basin,36756.16,50,Paddy,5.0,28.35
+2020,Assam,12,3183.0,Alluvial,30,Basin,17585.41,50,Jute,-10.0,45.9
+2020,Telangana,4,836.0,Red,42,Drip,6523.42,50,Paddy,5.0,31.5
+2020,Odisha,4,1722.0,Red,26,Surface,8808.29,45,Paddy,5.0,31.5
+2020,Assam,28,2061.0,Laterite,40,Basin,29679.63,40,Jute,-10.0,45.9
+2020,Odisha,5,1436.0,Red,35,Surface,9128.85,35,Paddy,5.0,31.5
+2020,Telangana,43,1026.0,Red,35,Sprinkler,117217.46,50,Paddy,5.0,31.5
+2020,Andhra Pradesh,6,1033.0,Black,34,Drip,2187.09,50,Cotton,-15.0,52.7
+2020,Chhattisgarh,50,1578.0,Red,43,Basin,93531.02,35,Maize,-5.0,22.8
+2020,West Bengal,47,2368.0,Alluvial,40,Surface,7001.21,40,Cotton,-15.0,47.6
+2020,Odisha,29,1758.0,Red,37,Surface,6823.48,50,Cotton,-15.0,54.4
+2020,Telangana,42,883.0,Laterite,30,Sprinkler,59881.34,45,Groundnut,2.0,69.36
+2020,Punjab,41,570.0,Alluvial,43,Drip,22282.2,50,Cotton,-15.0,47.6
+2020,Chhattisgarh,3,1248.0,Red,32,Surface,8302.05,35,Wheat,8.0,27.0
+2020,Assam,18,3402.0,Alluvial,42,Surface,30253.07,40,Paddy,5.0,29.4
+2020,Uttar Pradesh,25,958.0,Black,25,Sprinkler,6731.03,60,Cotton,-15.0,49.3
+2020,Tamil Nadu,31,844.0,Laterite,29,Furrow,46210.73,60,Groundnut,2.0,65.28
+2020,Andhra Pradesh,9,1002.0,Black,31,Sprinkler,17121.81,50,Paddy,5.0,30.45
+2020,Andhra Pradesh,24,1089.0,Black,30,Sprinkler,49720.63,60,Groundnut,2.0,67.32
+2020,Uttar Pradesh,31,600.0,Black,40,Drip,10916.36,50,Cotton,-15.0,49.3
+2020,Tamil Nadu,31,988.0,Laterite,41,Sprinkler,8588.91,35,Cotton,-15.0,51.85
+2020,Chhattisgarh,18,1100.0,Red,34,Drip,54856.36,35,Maize,-5.0,22.8
+2020,Assam,47,2534.0,Laterite,35,Surface,53720.08,40,Jute,-10.0,45.9
+2020,Tamil Nadu,37,936.0,Red,23,Drip,23409.68,60,Groundnut,2.0,65.28
+2020,Uttar Pradesh,12,953.0,Black,33,Drip,30651.51,40,Paddy,5.0,28.35
+2020,Tamil Nadu,27,854.0,Laterite,43,Sprinkler,35238.56,35,Groundnut,2.0,65.28
+2020,Uttar Pradesh,11,725.0,Alluvial,32,Sprinkler,33028.47,50,Groundnut,2.0,57.12
+2020,Uttar Pradesh,19,905.0,Black,32,Drip,6170.58,50,Cotton,-15.0,49.3
+2020,Odisha,28,1207.0,Laterite,23,Surface,6188.76,60,Cotton,-15.0,54.4
+2020,Uttar Pradesh,15,1064.0,Black,36,Sprinkler,4282.34,40,Groundnut,2.0,57.12
+2020,Andhra Pradesh,6,919.0,Black,36,Drip,1740.92,50,Cotton,-15.0,52.7
+2020,Telangana,1,1000.0,Black,23,Drip,2047.82,60,Paddy,5.0,31.5
+2020,Assam,8,3200.0,Alluvial,36,Surface,12854.28,40,Jute,-10.0,45.9
+2020,West Bengal,43,1617.0,Saline,36,Basin,20701.32,40,Greengram,-5.0,86.45
+2020,Tamil Nadu,41,1071.0,Red,28,Sprinkler,116356.03,45,Paddy,5.0,29.4
+2020,Odisha,2,1564.0,Laterite,42,Basin,422.41,50,Cotton,-15.0,54.4
+2020,West Bengal,41,2370.0,Alluvial,34,Basin,23799.54,50,Greengram,-5.0,86.45
+2020,Tamil Nadu,9,898.0,Laterite,23,Furrow,5850.41,45,Groundnut,2.0,65.28
+2020,Tamil Nadu,17,1022.0,Red,25,Sprinkler,43403.04,60,Paddy,5.0,29.4
+2020,Chhattisgarh,8,1019.0,Red,26,Drip,22746.96,60,Paddy,5.0,28.35
+2020,Tamil Nadu,11,1026.0,Laterite,25,Sprinkler,30344.68,60,Paddy,5.0,29.4
+2020,Odisha,34,1694.0,Red,34,Surface,22311.1,35,Groundnut,2.0,69.36
+2020,Odisha,40,1503.0,Laterite,28,Surface,25641.45,45,Groundnut,2.0,69.36
+2020,Odisha,38,1212.0,Laterite,40,Surface,34439.59,40,Groundnut,2.0,69.36
+2020,Odisha,8,1706.0,Laterite,42,Surface,3785.17,40,Groundnut,2.0,69.36
+2020,Chhattisgarh,26,1422.0,Red,38,Surface,58491.95,50,Wheat,8.0,27.0
+2020,Uttar Pradesh,23,1002.0,Alluvial,24,Sprinkler,12746.82,60,Greengram,-5.0,81.7
+2020,Andhra Pradesh,20,1012.0,Laterite,36,Sprinkler,20122.48,35,Paddy,5.0,30.45
+2020,Assam,31,2149.0,Alluvial,38,Surface,60030.9,40,Paddy,5.0,29.4
+2020,Odisha,35,1324.0,Laterite,23,Surface,27179.42,45,Groundnut,2.0,69.36
+2020,Telangana,20,833.0,Black,36,Furrow,9393.83,35,Cotton,-15.0,54.4
+2020,Punjab,13,642.0,Alluvial,32,Furrow,36899.93,40,Wheat,8.0,28.08
+2020,Uttar Pradesh,45,1113.0,Black,26,Drip,25496.42,60,Greengram,-5.0,81.7
+2020,West Bengal,18,2922.0,Alluvial,38,Basin,1797.21,50,Cotton,-15.0,47.6
+2020,Odisha,10,1554.0,Red,43,Basin,7041.52,50,Groundnut,2.0,69.36
+2020,Chhattisgarh,44,1560.0,Laterite,25,Basin,101360.0,60,Paddy,5.0,28.35
+2020,Punjab,33,680.0,Black,24,Drip,20689.73,60,Cotton,-15.0,47.6
+2020,Odisha,45,1463.0,Red,33,Surface,30194.08,35,Groundnut,2.0,69.36
+2020,West Bengal,25,1813.0,Alluvial,33,Surface,14222.75,40,Greengram,-5.0,86.45
+2020,Odisha,47,1322.0,Laterite,39,Basin,103236.57,50,Paddy,5.0,31.5
+2020,Odisha,11,1397.0,Laterite,42,Surface,14982.64,50,Paddy,5.0,31.5
+2020,Tamil Nadu,5,855.0,Red,38,Sprinkler,6998.33,50,Groundnut,2.0,65.28
+2020,Chhattisgarh,47,1269.0,Laterite,42,Surface,92184.02,50,Maize,-5.0,22.8
+2020,Andhra Pradesh,33,1112.0,Red,25,Drip,28300.79,60,Groundnut,2.0,67.32
+2020,Assam,29,2360.0,Red,30,Basin,38791.57,50,Tea,3.0,170.98
+2020,Odisha,5,1777.0,Laterite,23,Surface,1133.04,45,Cotton,-15.0,54.4
+2020,Telangana,37,1111.0,Laterite,29,Drip,87538.33,60,Paddy,5.0,31.5
+2020,Odisha,45,1483.0,Laterite,38,Basin,38687.33,50,Groundnut,2.0,69.36
+2020,Andhra Pradesh,38,870.0,Black,37,Sprinkler,8391.34,50,Cotton,-15.0,52.7
+2020,Andhra Pradesh,9,1055.0,Laterite,37,Sprinkler,7947.96,50,Groundnut,2.0,67.32
+2020,West Bengal,21,2017.0,Saline,26,Surface,10020.15,60,Greengram,-5.0,86.45
+2020,Odisha,9,1204.0,Laterite,24,Surface,19195.76,50,Paddy,5.0,31.5
+2020,Tamil Nadu,15,1085.0,Red,32,Sprinkler,10318.53,35,Groundnut,2.0,65.28
+2020,West Bengal,4,2491.0,Laterite,29,Surface,639.79,50,Cotton,-15.0,47.6
+2020,Tamil Nadu,22,1103.0,Laterite,28,Drip,23936.68,60,Groundnut,2.0,65.28
+2020,Andhra Pradesh,29,852.0,Laterite,29,Furrow,56461.93,60,Paddy,5.0,30.45
+2020,West Bengal,2,1278.0,Alluvial,40,Basin,433.34,50,Cotton,-15.0,47.6
+2020,Odisha,16,1693.0,Red,27,Basin,26214.96,50,Paddy,5.0,31.5
+2020,West Bengal,9,1269.0,Saline,30,Surface,5059.0,50,Greengram,-5.0,86.45
+2020,Uttar Pradesh,6,732.0,Black,28,Drip,10316.72,60,Groundnut,2.0,57.12
+2020,Andhra Pradesh,45,825.0,Black,27,Furrow,10621.28,60,Cotton,-15.0,52.7
+2020,Uttar Pradesh,45,1109.0,Laterite,25,Sprinkler,114142.76,60,Paddy,5.0,28.35
+2020,Andhra Pradesh,33,965.0,Red,38,Drip,39361.78,50,Paddy,5.0,30.45
+2020,Assam,44,2463.0,Alluvial,26,Basin,46663.73,60,Tea,3.0,170.98
+2020,Punjab,33,575.0,Alluvial,36,Sprinkler,93906.8,40,Wheat,8.0,28.08
+2020,Assam,1,2700.0,Laterite,25,Basin,1240.97,60,Jute,-10.0,45.9
+2020,Tamil Nadu,10,1077.0,Red,36,Sprinkler,4365.39,50,Cotton,-15.0,51.85
+2020,Tamil Nadu,11,1020.0,Red,36,Drip,14413.82,50,Groundnut,2.0,65.28
+2020,Tamil Nadu,3,1015.0,Red,26,Sprinkler,4396.96,45,Groundnut,2.0,65.28
+2020,Odisha,40,1418.0,Laterite,34,Surface,40497.81,40,Groundnut,2.0,69.36
+2020,Punjab,29,598.0,Black,34,Furrow,12320.77,40,Cotton,-15.0,47.6
+2020,Uttar Pradesh,19,934.0,Alluvial,26,Drip,10106.91,60,Greengram,-5.0,81.7
+2020,Assam,6,2585.0,Red,26,Surface,6379.71,50,Tea,3.0,170.98
+2020,Andhra Pradesh,39,1011.0,Red,37,Sprinkler,76616.47,35,Groundnut,2.0,67.32
+2020,Chhattisgarh,36,1146.0,Laterite,33,Drip,118574.43,50,Wheat,8.0,27.0
+2020,Uttar Pradesh,46,911.0,Alluvial,24,Drip,133839.0,50,Paddy,5.0,28.35
+2020,Assam,38,3190.0,Red,44,Surface,41819.54,40,Tea,3.0,170.98
+2020,Telangana,13,1035.0,Laterite,43,Sprinkler,12717.1,35,Groundnut,2.0,69.36
+2020,Chhattisgarh,2,1228.0,Laterite,34,Basin,3886.16,50,Paddy,5.0,28.35
+2020,Telangana,35,1039.0,Laterite,38,Sprinkler,35843.38,50,Groundnut,2.0,69.36
+2020,Assam,24,2748.0,Red,39,Surface,25382.65,50,Tea,3.0,170.98
+2020,Assam,43,2778.0,Alluvial,30,Basin,54665.5,50,Jute,-10.0,45.9
+2020,West Bengal,24,2271.0,Laterite,42,Basin,39326.74,40,Paddy,5.0,27.3
+2020,West Bengal,19,1294.0,Alluvial,27,Surface,35290.83,50,Groundnut,2.0,62.22
+2020,Uttar Pradesh,3,892.0,Black,25,Sprinkler,1651.28,60,Greengram,-5.0,81.7
+2020,Tamil Nadu,46,961.0,Red,36,Sprinkler,18673.66,50,Cotton,-15.0,51.85
+2020,Telangana,38,1057.0,Black,24,Drip,20663.03,60,Cotton,-15.0,54.4
+2020,Chhattisgarh,22,1388.0,Laterite,44,Surface,45571.73,50,Paddy,5.0,28.35
+2020,Punjab,8,651.0,Black,30,Sprinkler,32268.46,50,Wheat,8.0,28.08
+2020,Uttar Pradesh,20,614.0,Alluvial,28,Sprinkler,11628.98,60,Greengram,-5.0,81.7
+2020,Assam,5,3303.0,Laterite,32,Basin,9458.2,40,Paddy,5.0,29.4
+2020,Punjab,50,679.0,Black,30,Drip,129789.14,60,Paddy,5.0,29.4
+2020,Punjab,32,646.0,Alluvial,35,Drip,16693.8,50,Cotton,-15.0,47.6
+2020,Uttar Pradesh,46,780.0,Black,40,Drip,22752.15,40,Groundnut,2.0,57.12
+2020,Assam,4,3032.0,Laterite,23,Basin,4517.28,60,Jute,-10.0,45.9
+2020,West Bengal,44,2233.0,Alluvial,34,Surface,94274.53,50,Paddy,5.0,27.3
+2020,Punjab,22,707.0,Black,25,Sprinkler,11154.81,60,Cotton,-15.0,47.6
+2020,Uttar Pradesh,7,994.0,Black,40,Drip,3440.07,50,Greengram,-5.0,81.7
+2020,Andhra Pradesh,49,842.0,Red,30,Drip,112968.16,45,Groundnut,2.0,67.32
+2020,Andhra Pradesh,7,830.0,Laterite,25,Drip,7513.1,60,Groundnut,2.0,67.32
+2020,Punjab,2,761.0,Alluvial,31,Furrow,1188.58,40,Cotton,-15.0,47.6
+2020,Odisha,29,1559.0,Laterite,24,Surface,14649.03,50,Groundnut,2.0,69.36
+2020,Chhattisgarh,9,1280.0,Red,31,Surface,25840.32,35,Wheat,8.0,27.0
+2020,Tamil Nadu,50,939.0,Laterite,41,Sprinkler,18496.23,50,Cotton,-15.0,51.85
+2020,Chhattisgarh,37,1060.0,Red,44,Sprinkler,109787.27,50,Wheat,8.0,27.0
+2020,Odisha,16,1481.0,Red,33,Basin,14252.52,40,Groundnut,2.0,69.36
+2020,West Bengal,22,1957.0,Laterite,38,Basin,3732.1,40,Cotton,-15.0,47.6
+2020,Uttar Pradesh,44,823.0,Black,24,Furrow,20871.3,60,Greengram,-5.0,81.7
+2020,Chhattisgarh,1,1428.0,Red,42,Surface,2503.26,35,Wheat,8.0,27.0
+2020,Andhra Pradesh,21,1179.0,Red,44,Surface,46829.82,50,Paddy,5.0,30.45
+2020,Andhra Pradesh,45,816.0,Laterite,34,Furrow,62151.8,35,Paddy,5.0,30.45
+2020,Uttar Pradesh,21,1041.0,Laterite,26,Sprinkler,57559.86,60,Groundnut,2.0,57.12
+2020,Andhra Pradesh,36,1110.0,Red,23,Sprinkler,72037.64,60,Groundnut,2.0,67.32
+2020,Odisha,31,1586.0,Red,24,Basin,6541.77,50,Cotton,-15.0,54.4
+2020,Chhattisgarh,41,1375.0,Laterite,23,Basin,114938.43,60,Wheat,8.0,27.0
+2020,Uttar Pradesh,13,972.0,Black,43,Drip,2952.34,50,Cotton,-15.0,49.3
+2020,Punjab,47,610.0,Black,31,Sprinkler,160975.89,50,Wheat,8.0,28.08
+2020,Chhattisgarh,48,1489.0,Red,29,Basin,99530.72,60,Paddy,5.0,28.35
+2020,Andhra Pradesh,42,919.0,Black,40,Drip,70274.9,35,Groundnut,2.0,67.32
+2020,Assam,13,3066.0,Alluvial,27,Surface,25888.86,50,Paddy,5.0,29.4
+2020,Punjab,13,509.0,Black,28,Sprinkler,42324.29,60,Paddy,5.0,29.4
+2020,Tamil Nadu,1,1062.0,Laterite,42,Drip,1881.04,50,Paddy,5.0,29.4
+2020,Uttar Pradesh,23,1137.0,Alluvial,40,Sprinkler,13051.3,50,Greengram,-5.0,81.7
+2020,Telangana,29,960.0,Black,35,Drip,59078.09,50,Groundnut,2.0,69.36
+2020,Odisha,36,1487.0,Laterite,39,Surface,9579.16,35,Cotton,-15.0,54.4
+2020,Andhra Pradesh,31,1135.0,Red,39,Sprinkler,6234.39,35,Cotton,-15.0,52.7
+2020,Andhra Pradesh,32,880.0,Laterite,23,Furrow,39781.86,45,Paddy,5.0,30.45
+2020,Odisha,38,1656.0,Red,38,Basin,78068.73,35,Paddy,5.0,31.5
+2020,Assam,20,3445.0,Alluvial,42,Basin,25464.01,40,Jute,-10.0,45.9
+2020,Punjab,21,733.0,Black,24,Drip,58128.27,50,Paddy,5.0,29.4
+2020,Uttar Pradesh,19,865.0,Alluvial,30,Sprinkler,5770.53,50,Cotton,-15.0,49.3
+2020,Chhattisgarh,6,1254.0,Laterite,40,Basin,13242.59,50,Paddy,5.0,28.35
+2020,Tamil Nadu,44,1019.0,Red,34,Sprinkler,71656.88,50,Groundnut,2.0,65.28
+2020,Odisha,38,1622.0,Laterite,42,Surface,6347.63,40,Cotton,-15.0,54.4
+2020,Andhra Pradesh,36,946.0,Black,38,Sprinkler,100757.91,50,Paddy,5.0,30.45
+2020,Tamil Nadu,47,1049.0,Red,34,Sprinkler,111191.55,35,Paddy,5.0,29.4
+2020,West Bengal,22,1221.0,Laterite,25,Basin,2892.51,50,Cotton,-15.0,47.6
+2020,Telangana,37,904.0,Black,33,Drip,75427.66,50,Paddy,5.0,31.5
+2020,Assam,18,2389.0,Alluvial,24,Surface,17947.55,50,Tea,3.0,170.98
+2020,Uttar Pradesh,21,680.0,Black,26,Furrow,5930.74,60,Cotton,-15.0,49.3
+2020,Tamil Nadu,5,811.0,Red,40,Sprinkler,12684.23,50,Paddy,5.0,29.4
+2020,Assam,41,2811.0,Alluvial,39,Basin,80479.93,50,Paddy,5.0,29.4
+2020,Uttar Pradesh,32,742.0,Alluvial,31,Drip,37413.71,50,Groundnut,2.0,57.12
+2020,Tamil Nadu,24,927.0,Laterite,24,Sprinkler,29668.1,60,Groundnut,2.0,65.28
+2020,Tamil Nadu,31,1106.0,Laterite,27,Sprinkler,43680.08,60,Groundnut,2.0,65.28
+2020,Uttar Pradesh,41,1136.0,Black,32,Drip,14787.48,40,Cotton,-15.0,49.3
+2020,Punjab,17,585.0,Alluvial,34,Sprinkler,59537.53,50,Wheat,8.0,28.08
+2020,West Bengal,16,1542.0,Alluvial,30,Basin,2590.98,50,Cotton,-15.0,47.6
+2020,Punjab,17,602.0,Black,34,Furrow,9646.87,40,Cotton,-15.0,47.6
+2020,Chhattisgarh,25,1396.0,Laterite,27,Surface,56628.05,60,Maize,-5.0,22.8
+2020,Punjab,31,574.0,Alluvial,27,Drip,20001.1,50,Cotton,-15.0,47.6
+2020,Andhra Pradesh,30,928.0,Black,38,Sprinkler,9993.54,50,Cotton,-15.0,52.7
+2020,Assam,45,2385.0,Alluvial,34,Basin,106128.49,40,Paddy,5.0,29.4
+2020,Uttar Pradesh,8,951.0,Alluvial,23,Drip,16746.22,60,Groundnut,2.0,57.12
+2020,Punjab,38,523.0,Alluvial,27,Furrow,16875.28,60,Cotton,-15.0,47.6
+2020,Chhattisgarh,43,1229.0,Red,29,Basin,101161.28,60,Maize,-5.0,22.8
+2020,West Bengal,1,1588.0,Laterite,25,Basin,160.33,50,Cotton,-15.0,47.6
+2020,Uttar Pradesh,16,974.0,Black,25,Drip,43735.48,60,Groundnut,2.0,57.12
+2020,Assam,46,3118.0,Alluvial,26,Surface,61534.56,50,Jute,-10.0,45.9
+2020,Telangana,26,1055.0,Black,34,Drip,59859.36,35,Groundnut,2.0,69.36
+2020,West Bengal,39,1754.0,Alluvial,32,Surface,8004.25,40,Cotton,-15.0,47.6
+2020,Assam,40,3230.0,Alluvial,38,Surface,49791.18,40,Tea,3.0,170.98
+2020,Telangana,24,1071.0,Black,36,Sprinkler,48496.21,35,Paddy,5.0,31.5
+2020,Uttar Pradesh,9,681.0,Black,32,Furrow,24321.88,50,Paddy,5.0,28.35
+2020,Telangana,26,826.0,Black,27,Sprinkler,34247.1,60,Groundnut,2.0,69.36
+2020,West Bengal,16,1999.0,Saline,40,Basin,31066.39,40,Paddy,5.0,27.3
+2020,Punjab,10,703.0,Black,36,Furrow,5156.72,40,Cotton,-15.0,47.6
+2020,Telangana,48,1149.0,Black,26,Drip,30286.55,45,Cotton,-15.0,54.4
+2020,Andhra Pradesh,35,809.0,Red,23,Furrow,58423.28,60,Paddy,5.0,30.45
+2020,Chhattisgarh,8,1161.0,Laterite,26,Surface,19133.09,60,Paddy,5.0,28.35
+2020,Tamil Nadu,25,1064.0,Laterite,40,Sprinkler,8683.93,50,Cotton,-15.0,51.85
+2020,Telangana,23,1055.0,Red,24,Drip,10913.69,45,Cotton,-15.0,54.4
+2020,Telangana,10,994.0,Laterite,43,Drip,16285.06,50,Paddy,5.0,31.5
+2020,Andhra Pradesh,6,847.0,Black,26,Furrow,10869.84,60,Groundnut,2.0,67.32
+2020,Tamil Nadu,1,865.0,Laterite,39,Drip,3033.46,50,Paddy,5.0,29.4
+2020,Telangana,41,1181.0,Black,43,Surface,67434.63,35,Paddy,5.0,31.5
+2020,Odisha,50,1370.0,Laterite,38,Surface,29661.3,50,Groundnut,2.0,69.36
+2020,Chhattisgarh,18,1447.0,Laterite,24,Basin,48178.33,45,Wheat,8.0,27.0
+2020,Telangana,10,905.0,Black,27,Sprinkler,5818.39,60,Cotton,-15.0,54.4
+2020,Telangana,36,1110.0,Black,33,Drip,72502.48,50,Groundnut,2.0,69.36
+2020,Tamil Nadu,11,909.0,Red,27,Sprinkler,4608.84,60,Cotton,-15.0,51.85
+2020,West Bengal,36,1886.0,Alluvial,38,Basin,20397.18,40,Greengram,-5.0,86.45
+2020,Andhra Pradesh,50,815.0,Black,23,Furrow,40920.64,60,Groundnut,2.0,67.32
+2020,Chhattisgarh,45,1493.0,Laterite,36,Basin,82707.87,35,Paddy,5.0,28.35
+2020,Assam,43,2244.0,Red,24,Surface,49604.86,60,Tea,3.0,170.98
+2020,Punjab,4,653.0,Black,38,Sprinkler,2124.9,40,Cotton,-15.0,47.6
+2020,Andhra Pradesh,12,883.0,Red,43,Sprinkler,3384.44,50,Cotton,-15.0,52.7
+2020,Andhra Pradesh,32,844.0,Black,43,Drip,23424.55,50,Groundnut,2.0,67.32
+2020,Uttar Pradesh,48,852.0,Alluvial,24,Furrow,83203.98,60,Paddy,5.0,28.35
+2020,Odisha,34,1283.0,Laterite,38,Basin,55878.59,50,Paddy,5.0,31.5
+2020,West Bengal,12,2998.0,Laterite,25,Basin,18173.58,60,Groundnut,2.0,62.22
+2020,West Bengal,35,2901.0,Laterite,31,Surface,61551.28,40,Paddy,5.0,27.3
+2020,Tamil Nadu,3,835.0,Laterite,34,Drip,2705.8,35,Groundnut,2.0,65.28
+2020,Odisha,25,1713.0,Laterite,32,Basin,25999.01,35,Groundnut,2.0,69.36
+2020,Assam,36,3380.0,Laterite,32,Basin,77777.95,40,Paddy,5.0,29.4
+2020,Assam,40,2253.0,Laterite,40,Surface,43475.3,50,Jute,-10.0,45.9
+2020,West Bengal,13,2906.0,Laterite,23,Basin,25228.6,60,Paddy,5.0,27.3
+2020,West Bengal,42,1577.0,Laterite,40,Basin,7269.8,40,Cotton,-15.0,47.6
+2020,Assam,35,2637.0,Laterite,38,Surface,72891.46,50,Paddy,5.0,29.4
+2020,Assam,24,2803.0,Laterite,35,Basin,51952.24,40,Paddy,5.0,29.4
+2020,Uttar Pradesh,40,798.0,Alluvial,36,Furrow,98849.06,50,Paddy,5.0,28.35
+2020,Telangana,44,1069.0,Black,34,Drip,134790.14,50,Paddy,5.0,31.5
+2020,Odisha,33,1474.0,Laterite,24,Surface,71343.99,45,Paddy,5.0,31.5
+2020,Chhattisgarh,35,1123.0,Laterite,38,Drip,78958.65,50,Paddy,5.0,28.35
+2020,Chhattisgarh,9,1108.0,Laterite,35,Sprinkler,20189.49,50,Maize,-5.0,22.8
+2020,Odisha,11,1652.0,Laterite,44,Surface,14652.97,50,Paddy,5.0,31.5
+2020,Andhra Pradesh,26,814.0,Laterite,33,Furrow,45687.11,50,Groundnut,2.0,67.32
+2020,West Bengal,39,2849.0,Alluvial,43,Basin,4455.27,40,Cotton,-15.0,47.6
+2020,Chhattisgarh,8,1385.0,Laterite,41,Surface,16321.54,50,Maize,-5.0,22.8
+2020,Andhra Pradesh,32,809.0,Red,30,Sprinkler,9310.5,45,Cotton,-15.0,52.7
+2020,West Bengal,41,1362.0,Alluvial,33,Surface,81818.65,40,Groundnut,2.0,62.22
+2020,Odisha,44,1383.0,Red,41,Basin,10557.31,40,Cotton,-15.0,54.4
+2020,Chhattisgarh,31,1039.0,Red,33,Drip,86792.02,35,Paddy,5.0,28.35
+2020,Chhattisgarh,37,1342.0,Laterite,31,Surface,104284.41,35,Wheat,8.0,27.0
+2020,West Bengal,9,2231.0,Saline,34,Basin,16591.33,50,Paddy,5.0,27.3
+2020,Assam,14,2220.0,Red,44,Surface,15143.31,40,Tea,3.0,170.98
+2020,Chhattisgarh,27,1359.0,Laterite,32,Basin,64024.81,35,Maize,-5.0,22.8
+2020,West Bengal,48,2422.0,Alluvial,29,Surface,90286.99,50,Groundnut,2.0,62.22
+2020,West Bengal,1,1619.0,Laterite,35,Surface,1958.27,40,Paddy,5.0,27.3
+2020,Punjab,14,566.0,Black,36,Furrow,43383.68,40,Wheat,8.0,28.08
+2020,Punjab,13,608.0,Alluvial,26,Furrow,41600.07,60,Paddy,5.0,29.4
+2020,Tamil Nadu,31,1173.0,Laterite,27,Surface,70400.78,45,Paddy,5.0,29.4
+2020,West Bengal,44,2220.0,Saline,44,Basin,18468.05,50,Greengram,-5.0,86.45
+2020,Odisha,19,1247.0,Red,26,Surface,20451.43,45,Groundnut,2.0,69.36
+2020,West Bengal,14,1742.0,Alluvial,41,Surface,27740.69,40,Paddy,5.0,27.3
+2020,West Bengal,41,1269.0,Alluvial,41,Surface,20495.47,40,Greengram,-5.0,86.45
+2020,Punjab,34,747.0,Alluvial,42,Drip,16436.28,50,Cotton,-15.0,47.6
+2020,Tamil Nadu,18,915.0,Laterite,31,Drip,38344.84,50,Paddy,5.0,29.4
+2020,Chhattisgarh,40,1291.0,Laterite,32,Basin,103999.2,50,Maize,-5.0,22.8
+2020,Odisha,3,1648.0,Laterite,39,Basin,6130.52,50,Paddy,5.0,31.5
+2020,Punjab,35,622.0,Black,37,Sprinkler,121045.59,40,Wheat,8.0,28.08
+2020,Uttar Pradesh,10,1079.0,Black,30,Drip,15552.33,60,Groundnut,2.0,57.12
+2020,Telangana,34,839.0,Red,43,Sprinkler,14547.05,50,Cotton,-15.0,54.4
+2020,Tamil Nadu,23,931.0,Laterite,40,Sprinkler,25440.19,50,Groundnut,2.0,65.28
+2020,Assam,37,3225.0,Laterite,26,Basin,79985.53,60,Paddy,5.0,29.4
+2020,Odisha,1,1215.0,Laterite,25,Surface,987.93,60,Groundnut,2.0,69.36
+2020,Tamil Nadu,7,846.0,Laterite,36,Furrow,4960.69,50,Groundnut,2.0,65.28
+2020,Tamil Nadu,49,1061.0,Laterite,28,Drip,70919.28,45,Groundnut,2.0,65.28
+2020,Telangana,33,986.0,Black,29,Sprinkler,60654.02,45,Paddy,5.0,31.5
+2020,Punjab,25,630.0,Alluvial,35,Drip,15702.63,40,Cotton,-15.0,47.6
+2020,Andhra Pradesh,20,1008.0,Laterite,24,Sprinkler,51430.23,60,Paddy,5.0,30.45
+2020,Tamil Nadu,1,1076.0,Laterite,43,Drip,2581.15,50,Paddy,5.0,29.4
+2020,Tamil Nadu,45,978.0,Laterite,32,Sprinkler,108495.14,50,Paddy,5.0,29.4
+2020,West Bengal,49,2240.0,Alluvial,37,Basin,85653.32,40,Paddy,5.0,27.3
+2020,Punjab,48,702.0,Alluvial,37,Sprinkler,148086.3,40,Wheat,8.0,28.08
+2020,Telangana,46,910.0,Black,35,Sprinkler,112271.77,50,Paddy,5.0,31.5
+2020,Assam,20,2759.0,Alluvial,43,Basin,27941.51,40,Jute,-10.0,45.9
+2020,Telangana,1,822.0,Black,25,Furrow,1426.51,45,Groundnut,2.0,69.36
+2020,Uttar Pradesh,46,724.0,Black,32,Drip,132526.47,40,Paddy,5.0,28.35
+2020,Uttar Pradesh,31,940.0,Alluvial,23,Sprinkler,14923.76,60,Greengram,-5.0,81.7
+2020,Chhattisgarh,12,1572.0,Laterite,44,Basin,18272.91,35,Maize,-5.0,22.8
+2020,Assam,16,2565.0,Laterite,31,Surface,36310.3,50,Paddy,5.0,29.4
+2020,Assam,49,3201.0,Laterite,31,Surface,81561.91,40,Paddy,5.0,29.4
+2020,Telangana,20,825.0,Red,26,Furrow,19746.74,60,Groundnut,2.0,69.36
+2020,Telangana,6,878.0,Black,35,Furrow,12980.59,50,Groundnut,2.0,69.36
+2020,Uttar Pradesh,39,749.0,Alluvial,29,Furrow,74121.53,50,Paddy,5.0,28.35
+2020,Tamil Nadu,6,924.0,Red,39,Drip,2373.92,50,Cotton,-15.0,51.85
+2020,Punjab,19,742.0,Alluvial,27,Furrow,11652.6,50,Cotton,-15.0,47.6
+2020,Chhattisgarh,17,1067.0,Red,36,Sprinkler,32275.05,35,Paddy,5.0,28.35
+2020,Odisha,11,1576.0,Laterite,41,Basin,2276.26,50,Cotton,-15.0,54.4
+2020,Andhra Pradesh,8,957.0,Red,38,Sprinkler,15828.08,35,Groundnut,2.0,67.32
+2020,Punjab,33,754.0,Alluvial,44,Drip,113613.68,40,Wheat,8.0,28.08
+2020,Odisha,3,1630.0,Red,23,Surface,2748.93,45,Groundnut,2.0,69.36
+2020,Assam,9,3393.0,Laterite,28,Surface,10593.17,50,Jute,-10.0,45.9
+2020,Telangana,5,848.0,Black,36,Furrow,8261.72,35,Groundnut,2.0,69.36
+2020,Punjab,33,572.0,Black,33,Furrow,83551.36,40,Wheat,8.0,28.08
+2020,Odisha,16,1478.0,Red,36,Surface,26762.72,40,Paddy,5.0,31.5
+2020,Punjab,2,696.0,Black,32,Furrow,1265.69,50,Cotton,-15.0,47.6
+2020,Tamil Nadu,18,1194.0,Laterite,29,Basin,5775.91,60,Cotton,-15.0,51.85
+2020,Chhattisgarh,10,1256.0,Laterite,28,Surface,22515.58,45,Maize,-5.0,22.8
+2020,Telangana,3,903.0,Laterite,31,Sprinkler,4302.49,35,Groundnut,2.0,69.36
+2020,Telangana,47,987.0,Red,29,Drip,26857.33,60,Cotton,-15.0,54.4
+2020,Andhra Pradesh,13,962.0,Laterite,40,Drip,20912.32,50,Groundnut,2.0,67.32
+2020,Punjab,44,671.0,Black,32,Sprinkler,24374.74,40,Cotton,-15.0,47.6
+2020,Uttar Pradesh,32,935.0,Alluvial,33,Drip,11903.7,50,Cotton,-15.0,49.3
+2020,Andhra Pradesh,25,1109.0,Black,35,Drip,7287.25,50,Cotton,-15.0,52.7
+2020,Assam,26,2688.0,Laterite,25,Basin,36633.71,50,Jute,-10.0,45.9
+2020,West Bengal,20,1868.0,Alluvial,39,Basin,41134.93,40,Paddy,5.0,27.3
+2020,Tamil Nadu,17,811.0,Laterite,40,Furrow,21926.61,50,Groundnut,2.0,65.28
+2020,Telangana,46,842.0,Black,38,Sprinkler,23357.79,35,Cotton,-15.0,54.4
+2020,Chhattisgarh,15,1226.0,Red,36,Basin,34747.63,35,Wheat,8.0,27.0
+2020,Odisha,30,1542.0,Laterite,34,Surface,60735.45,50,Paddy,5.0,31.5
+2020,Assam,22,3356.0,Alluvial,37,Surface,28733.78,40,Jute,-10.0,45.9
+2020,Punjab,2,638.0,Black,24,Furrow,1160.33,60,Cotton,-15.0,47.6
+2020,Tamil Nadu,34,1092.0,Laterite,33,Drip,15107.35,35,Cotton,-15.0,51.85
+2020,Chhattisgarh,18,1222.0,Red,23,Basin,40370.65,60,Paddy,5.0,28.35
+2020,Punjab,5,579.0,Black,25,Furrow,13417.16,50,Wheat,8.0,28.08
+2020,Telangana,48,843.0,Red,28,Drip,95093.12,60,Groundnut,2.0,69.36
+2020,Odisha,40,1741.0,Laterite,26,Surface,21333.95,45,Groundnut,2.0,69.36
+2020,Assam,32,2403.0,Red,24,Basin,42621.3,50,Tea,3.0,170.98
+2020,Telangana,38,1116.0,Laterite,27,Drip,79284.38,45,Groundnut,2.0,69.36
+2020,Tamil Nadu,50,884.0,Laterite,23,Sprinkler,102574.48,60,Paddy,5.0,29.4
+2020,Tamil Nadu,29,958.0,Laterite,43,Sprinkler,15071.57,50,Groundnut,2.0,65.28
+2020,Tamil Nadu,43,887.0,Laterite,25,Furrow,76542.35,45,Paddy,5.0,29.4
+2020,West Bengal,22,2154.0,Saline,24,Surface,37667.91,50,Paddy,5.0,27.3
+2020,Odisha,50,1452.0,Laterite,36,Basin,39710.78,50,Groundnut,2.0,69.36
+2020,Uttar Pradesh,39,1049.0,Alluvial,37,Sprinkler,14017.23,50,Cotton,-15.0,49.3
+2020,West Bengal,34,2422.0,Laterite,24,Basin,5128.39,50,Cotton,-15.0,47.6
+2020,Andhra Pradesh,45,1021.0,Black,32,Drip,120166.63,50,Paddy,5.0,30.45
+2020,West Bengal,7,2642.0,Laterite,38,Basin,11001.6,50,Groundnut,2.0,62.22
+2020,Tamil Nadu,25,908.0,Red,28,Sprinkler,23939.38,45,Groundnut,2.0,65.28
+2020,Odisha,4,1598.0,Red,32,Surface,2833.47,50,Groundnut,2.0,69.36
+2020,Tamil Nadu,44,1118.0,Laterite,26,Sprinkler,112553.67,60,Paddy,5.0,29.4
+2020,Tamil Nadu,21,1176.0,Laterite,24,Basin,6384.27,45,Cotton,-15.0,51.85
+2020,Uttar Pradesh,1,714.0,Alluvial,36,Sprinkler,323.77,50,Cotton,-15.0,49.3
+2020,Punjab,48,598.0,Alluvial,27,Drip,24505.5,60,Cotton,-15.0,47.6
+2020,Tamil Nadu,47,979.0,Laterite,44,Sprinkler,49163.86,35,Groundnut,2.0,65.28
+2020,Chhattisgarh,35,1304.0,Laterite,42,Surface,85792.48,50,Wheat,8.0,27.0
+2020,Chhattisgarh,41,1537.0,Red,25,Basin,78995.17,45,Maize,-5.0,22.8
+2020,Tamil Nadu,50,1192.0,Laterite,36,Surface,18269.31,35,Cotton,-15.0,51.85
+2020,Uttar Pradesh,14,705.0,Alluvial,24,Furrow,31594.94,50,Paddy,5.0,28.35
+2020,Andhra Pradesh,16,833.0,Black,23,Sprinkler,27398.95,60,Groundnut,2.0,67.32
+2020,Assam,38,2073.0,Laterite,34,Basin,68855.49,40,Paddy,5.0,29.4
+2020,Assam,29,3349.0,Red,32,Surface,26600.14,40,Tea,3.0,170.98
+2020,Chhattisgarh,5,1436.0,Laterite,35,Basin,13991.75,50,Wheat,8.0,27.0
+2020,Punjab,9,678.0,Black,28,Furrow,31892.14,50,Wheat,8.0,28.08
+2020,Andhra Pradesh,29,1048.0,Black,35,Sprinkler,8935.89,50,Cotton,-15.0,52.7
+2020,Telangana,5,1056.0,Laterite,37,Drip,5864.75,35,Groundnut,2.0,69.36
+2020,Tamil Nadu,41,1094.0,Laterite,39,Sprinkler,82667.53,50,Paddy,5.0,29.4
+2020,Telangana,21,940.0,Red,33,Drip,12118.93,35,Cotton,-15.0,54.4
+2020,Uttar Pradesh,32,1139.0,Black,24,Drip,17893.31,50,Greengram,-5.0,81.7
+2020,Odisha,8,1391.0,Red,28,Surface,17735.27,50,Paddy,5.0,31.5
+2020,West Bengal,21,1398.0,Laterite,23,Basin,37346.68,50,Groundnut,2.0,62.22
+2020,Assam,35,2763.0,Red,44,Surface,38147.51,40,Tea,3.0,170.98
+2020,Odisha,25,1445.0,Red,34,Surface,49098.16,50,Paddy,5.0,31.5
+2020,Andhra Pradesh,24,868.0,Black,43,Furrow,3996.64,35,Cotton,-15.0,52.7
+2020,Andhra Pradesh,8,835.0,Red,33,Drip,6370.98,50,Groundnut,2.0,67.32
+2020,West Bengal,18,1492.0,Laterite,36,Basin,2500.92,50,Cotton,-15.0,47.6
+2020,Andhra Pradesh,25,1099.0,Black,39,Drip,23093.83,50,Groundnut,2.0,67.32
+2020,West Bengal,45,1842.0,Alluvial,29,Surface,106810.6,60,Paddy,5.0,27.3
+2020,Tamil Nadu,4,854.0,Laterite,34,Sprinkler,3457.46,50,Groundnut,2.0,65.28
+2020,Punjab,21,662.0,Alluvial,23,Sprinkler,14254.51,60,Cotton,-15.0,47.6
+2020,West Bengal,37,1941.0,Alluvial,34,Basin,58314.48,40,Groundnut,2.0,62.22
+2020,Odisha,39,1302.0,Red,26,Basin,94861.35,60,Paddy,5.0,31.5
+2020,West Bengal,9,2770.0,Laterite,43,Basin,10652.68,50,Groundnut,2.0,62.22
+2020,Tamil Nadu,30,894.0,Red,32,Sprinkler,35896.63,50,Groundnut,2.0,65.28
+2020,Tamil Nadu,23,1187.0,Laterite,27,Basin,59274.28,45,Paddy,5.0,29.4
+2020,Tamil Nadu,33,871.0,Red,26,Sprinkler,46888.61,45,Groundnut,2.0,65.28
+2020,Punjab,38,792.0,Black,44,Drip,19158.75,50,Cotton,-15.0,47.6
+2020,Assam,5,3110.0,Red,26,Surface,4820.86,60,Tea,3.0,170.98
+2020,Chhattisgarh,20,1219.0,Laterite,36,Surface,44319.44,50,Wheat,8.0,27.0
+2020,Telangana,38,1048.0,Black,39,Sprinkler,20309.11,50,Cotton,-15.0,54.4
+2020,Andhra Pradesh,16,1032.0,Red,32,Sprinkler,5243.06,35,Cotton,-15.0,52.7
+2020,Punjab,23,754.0,Alluvial,43,Furrow,12131.89,40,Cotton,-15.0,47.6
+2020,Assam,47,2905.0,Alluvial,35,Basin,50665.48,50,Tea,3.0,170.98
+2020,Telangana,39,884.0,Red,30,Sprinkler,19176.74,60,Cotton,-15.0,54.4
+2020,Tamil Nadu,35,874.0,Laterite,23,Drip,95990.18,45,Paddy,5.0,29.4
+2020,West Bengal,36,1942.0,Laterite,28,Basin,82080.47,50,Paddy,5.0,27.3
+2020,West Bengal,41,2078.0,Alluvial,36,Surface,6675.2,40,Cotton,-15.0,47.6
+2020,Assam,23,2351.0,Alluvial,35,Basin,38895.83,40,Jute,-10.0,45.9
+2020,Uttar Pradesh,14,784.0,Alluvial,43,Drip,7677.05,50,Groundnut,2.0,57.12
+2020,Odisha,9,1302.0,Red,27,Basin,10605.51,50,Groundnut,2.0,69.36
+2020,Assam,50,3104.0,Alluvial,26,Basin,72207.39,50,Jute,-10.0,45.9
+2020,West Bengal,16,2620.0,Saline,39,Surface,6932.71,40,Greengram,-5.0,86.45
+2020,Punjab,22,563.0,Alluvial,26,Furrow,55446.57,50,Paddy,5.0,29.4
+2020,Uttar Pradesh,2,672.0,Alluvial,31,Sprinkler,1115.62,40,Greengram,-5.0,81.7
+2020,West Bengal,31,2377.0,Saline,41,Surface,12243.69,40,Greengram,-5.0,86.45
+2020,Odisha,41,1522.0,Red,36,Basin,9726.61,50,Cotton,-15.0,54.4
+2020,Punjab,25,655.0,Black,25,Sprinkler,15255.69,50,Cotton,-15.0,47.6
+2020,Assam,5,2887.0,Alluvial,43,Basin,5051.87,40,Jute,-10.0,45.9
+2020,Andhra Pradesh,22,1127.0,Black,44,Sprinkler,18240.34,35,Groundnut,2.0,67.32
+2020,Assam,32,2257.0,Alluvial,23,Basin,37364.11,50,Tea,3.0,170.98
+2020,West Bengal,45,2633.0,Saline,24,Surface,19928.26,60,Greengram,-5.0,86.45
+2020,West Bengal,14,1839.0,Alluvial,39,Surface,26643.69,40,Groundnut,2.0,62.22
+2020,Andhra Pradesh,40,849.0,Red,29,Drip,55089.6,60,Paddy,5.0,30.45
+2020,Punjab,19,522.0,Alluvial,40,Drip,61368.83,40,Wheat,8.0,28.08
+2020,Punjab,49,702.0,Black,36,Sprinkler,121529.81,50,Paddy,5.0,29.4
+2020,Telangana,11,1016.0,Laterite,29,Drip,23502.19,45,Groundnut,2.0,69.36
+2020,Andhra Pradesh,19,1050.0,Red,37,Sprinkler,5732.12,50,Cotton,-15.0,52.7
+2020,Andhra Pradesh,42,806.0,Red,39,Furrow,11209.22,50,Cotton,-15.0,52.7
+2020,Tamil Nadu,47,881.0,Red,33,Sprinkler,40841.03,50,Groundnut,2.0,65.28
+2020,Chhattisgarh,39,1116.0,Red,32,Drip,131990.92,50,Wheat,8.0,27.0
+2020,Tamil Nadu,6,1171.0,Red,37,Basin,1958.6,50,Cotton,-15.0,51.85
+2020,Chhattisgarh,2,1500.0,Laterite,38,Basin,4596.81,35,Wheat,8.0,27.0
+2020,Telangana,44,1145.0,Black,28,Sprinkler,145190.2,60,Paddy,5.0,31.5
+2020,Tamil Nadu,44,953.0,Red,39,Sprinkler,90513.84,50,Paddy,5.0,29.4
+2020,Chhattisgarh,5,1218.0,Red,39,Basin,9342.03,50,Paddy,5.0,28.35
+2020,Uttar Pradesh,33,964.0,Alluvial,38,Sprinkler,10768.69,50,Cotton,-15.0,49.3
+2020,Telangana,14,970.0,Red,25,Sprinkler,6517.81,45,Cotton,-15.0,54.4
+2020,Assam,44,2842.0,Alluvial,26,Basin,59336.21,60,Tea,3.0,170.98
+2020,Tamil Nadu,50,1166.0,Laterite,29,Basin,16792.56,45,Cotton,-15.0,51.85
+2020,Andhra Pradesh,8,1067.0,Black,40,Drip,2416.48,50,Cotton,-15.0,52.7
+2020,West Bengal,17,1970.0,Laterite,41,Basin,1669.14,50,Cotton,-15.0,47.6
+2020,Assam,25,2038.0,Laterite,39,Surface,26918.65,40,Jute,-10.0,45.9
+2020,Assam,47,3374.0,Alluvial,33,Basin,75346.27,40,Jute,-10.0,45.9
+2020,Assam,25,3403.0,Alluvial,30,Surface,52936.87,50,Paddy,5.0,29.4
+2020,Tamil Nadu,2,986.0,Laterite,32,Drip,5084.74,35,Paddy,5.0,29.4
+2020,Andhra Pradesh,8,1180.0,Black,29,Basin,1860.98,60,Cotton,-15.0,52.7
+2020,Assam,41,3065.0,Laterite,39,Basin,55715.65,50,Jute,-10.0,45.9
+2020,Odisha,29,1768.0,Red,43,Surface,54585.75,50,Paddy,5.0,31.5
+2020,Assam,15,2879.0,Alluvial,30,Surface,28649.64,60,Paddy,5.0,29.4
+2020,Telangana,27,987.0,Black,25,Sprinkler,14513.6,45,Cotton,-15.0,54.4
+2020,Assam,35,2659.0,Alluvial,43,Surface,39745.13,40,Jute,-10.0,45.9
+2020,Tamil Nadu,10,974.0,Laterite,34,Drip,4487.78,50,Cotton,-15.0,51.85
+2020,Punjab,30,687.0,Black,23,Drip,106383.42,60,Paddy,5.0,29.4
+2020,Andhra Pradesh,19,816.0,Black,34,Sprinkler,35997.63,50,Groundnut,2.0,67.32
+2020,Odisha,18,1528.0,Laterite,35,Basin,40873.88,50,Paddy,5.0,31.5
+2020,Telangana,48,1082.0,Black,39,Drip,145203.09,50,Paddy,5.0,31.5
+2020,Andhra Pradesh,23,820.0,Black,39,Furrow,6508.95,35,Cotton,-15.0,52.7
+2020,Assam,42,3050.0,Laterite,44,Basin,66077.72,40,Paddy,5.0,29.4
+2020,Odisha,7,1655.0,Laterite,34,Basin,13035.43,40,Paddy,5.0,31.5
+2020,Tamil Nadu,49,1166.0,Red,26,Basin,36270.3,60,Groundnut,2.0,65.28
+2020,Punjab,3,787.0,Black,32,Sprinkler,11607.27,50,Wheat,8.0,28.08
+2020,Chhattisgarh,9,1046.0,Red,37,Sprinkler,22851.5,35,Maize,-5.0,22.8
+2020,Uttar Pradesh,45,1121.0,Laterite,27,Sprinkler,93233.32,60,Paddy,5.0,28.35
+2020,Chhattisgarh,15,1179.0,Laterite,38,Basin,29490.63,35,Paddy,5.0,28.35
+2020,West Bengal,10,2693.0,Saline,38,Basin,4760.91,50,Greengram,-5.0,86.45
+2020,Tamil Nadu,50,912.0,Laterite,27,Drip,111099.44,60,Paddy,5.0,29.4
+2020,Punjab,27,589.0,Black,30,Sprinkler,101881.34,60,Wheat,8.0,28.08
+2020,Tamil Nadu,47,813.0,Laterite,25,Drip,16373.16,60,Cotton,-15.0,51.85
+2020,Telangana,44,1061.0,Black,30,Sprinkler,24087.66,60,Cotton,-15.0,54.4
+2020,Telangana,6,942.0,Black,29,Sprinkler,7301.53,60,Groundnut,2.0,69.36
+2020,West Bengal,39,1983.0,Alluvial,39,Surface,22099.85,40,Greengram,-5.0,86.45
+2020,Andhra Pradesh,42,947.0,Red,33,Drip,10635.34,50,Cotton,-15.0,52.7
+2020,Tamil Nadu,38,972.0,Red,33,Drip,16835.02,50,Cotton,-15.0,51.85
+2021,Uttar Pradesh,25,1175.0,Alluvial,36,Surface,11388.58,40,Greengram,5.0,100.38
+2021,Chhattisgarh,12,1234.0,Laterite,44,Surface,20019.67,50,Maize,0.3,26.24
+2021,Andhra Pradesh,6,851.0,Red,31,Furrow,11814.69,50,Groundnut,6.0,77.59
+2021,Tamil Nadu,40,1189.0,Laterite,43,Surface,34869.89,35,Groundnut,6.0,75.22
+2021,Odisha,34,1403.0,Red,23,Basin,81582.21,50,Paddy,10.0,36.17
+2021,Uttar Pradesh,39,953.0,Black,37,Sprinkler,69190.66,40,Paddy,10.0,32.47
+2021,Andhra Pradesh,20,901.0,Laterite,29,Sprinkler,48284.14,60,Paddy,10.0,34.94
+2021,Telangana,29,1008.0,Laterite,41,Drip,32725.33,35,Groundnut,6.0,79.97
+2021,Tamil Nadu,8,1171.0,Laterite,39,Surface,6288.85,50,Groundnut,6.0,75.22
+2021,Chhattisgarh,36,1155.0,Red,29,Basin,65714.62,60,Paddy,10.0,32.47
+2021,Telangana,44,911.0,Red,42,Drip,71728.19,50,Groundnut,6.0,79.97
+2021,Uttar Pradesh,47,666.0,Black,26,Sprinkler,23403.94,60,Greengram,5.0,100.38
+2021,Odisha,14,1670.0,Red,29,Basin,2865.65,45,Cotton,5.0,74.51
+2021,Uttar Pradesh,10,871.0,Alluvial,27,Sprinkler,5546.23,60,Greengram,5.0,100.38
+2021,Assam,14,2403.0,Alluvial,23,Surface,28160.17,60,Paddy,10.0,33.7
+2021,Telangana,24,1198.0,Red,37,Surface,43413.21,50,Paddy,10.0,36.17
+2021,Punjab,36,538.0,Alluvial,36,Furrow,102749.19,40,Wheat,7.0,30.39
+2021,Andhra Pradesh,46,1107.0,Black,35,Drip,129966.57,35,Paddy,10.0,34.94
+2021,Andhra Pradesh,28,1179.0,Black,38,Basin,9074.14,50,Cotton,5.0,72.16
+2021,Assam,36,2925.0,Laterite,26,Basin,64008.22,50,Paddy,10.0,33.7
+2021,Telangana,29,929.0,Black,35,Drip,92126.61,50,Paddy,10.0,36.17
+2021,Telangana,41,810.0,Red,38,Drip,23159.11,50,Cotton,5.0,74.51
+2021,Punjab,33,683.0,Black,37,Drip,17804.3,40,Cotton,5.0,65.1
+2021,Odisha,49,1448.0,Red,35,Basin,13695.55,40,Cotton,5.0,74.51
+2021,Tamil Nadu,36,1118.0,Red,25,Drip,64328.14,60,Groundnut,6.0,75.22
+2021,Odisha,36,1271.0,Laterite,36,Surface,72582.73,35,Paddy,10.0,36.17
+2021,Chhattisgarh,30,1562.0,Red,40,Basin,72618.52,50,Maize,0.3,26.24
+2021,Assam,11,3343.0,Laterite,27,Basin,18219.31,60,Paddy,10.0,33.7
+2021,Punjab,33,576.0,Alluvial,36,Sprinkler,14660.16,40,Cotton,5.0,65.1
+2021,Andhra Pradesh,32,1130.0,Black,39,Drip,54012.3,35,Groundnut,6.0,77.59
+2021,Odisha,44,1783.0,Laterite,40,Surface,61292.19,35,Paddy,10.0,36.17
+2021,Uttar Pradesh,41,1161.0,Black,32,Basin,99023.12,50,Paddy,10.0,32.47
+2021,Telangana,29,960.0,Black,30,Drip,16880.71,45,Cotton,5.0,74.51
+2021,West Bengal,13,2148.0,Alluvial,28,Basin,20755.11,50,Groundnut,6.0,71.66
+2021,Tamil Nadu,14,1137.0,Laterite,24,Drip,41112.3,60,Paddy,10.0,33.7
+2021,Tamil Nadu,16,1061.0,Laterite,41,Drip,5257.95,50,Cotton,5.0,70.98
+2021,Andhra Pradesh,10,954.0,Red,39,Drip,26229.36,35,Paddy,10.0,34.94
+2021,Telangana,38,832.0,Black,42,Furrow,41063.26,35,Groundnut,6.0,79.97
+2021,Uttar Pradesh,23,826.0,Laterite,37,Sprinkler,52710.92,50,Groundnut,6.0,65.72
+2021,Tamil Nadu,42,1014.0,Laterite,36,Drip,69438.1,50,Groundnut,6.0,75.22
+2021,West Bengal,31,1511.0,Laterite,40,Surface,47078.37,50,Groundnut,6.0,71.66
+2021,Tamil Nadu,26,885.0,Laterite,38,Sprinkler,10405.1,50,Cotton,5.0,70.98
+2021,Odisha,25,1667.0,Laterite,40,Basin,13945.51,40,Groundnut,6.0,79.97
+2021,Chhattisgarh,50,1484.0,Red,23,Surface,114254.76,45,Wheat,7.0,29.19
+2021,Odisha,44,1352.0,Red,41,Basin,36280.92,35,Groundnut,6.0,79.97
+2021,Assam,18,2166.0,Alluvial,23,Surface,21110.99,50,Tea,-6.0,174.09
+2021,Telangana,37,825.0,Black,37,Sprinkler,17596.28,50,Cotton,5.0,74.51
+2021,Chhattisgarh,1,1286.0,Red,35,Surface,2865.97,50,Wheat,7.0,29.19
+2021,Andhra Pradesh,27,1176.0,Black,32,Basin,31400.7,50,Groundnut,6.0,77.59
+2021,Assam,12,3312.0,Alluvial,37,Basin,14988.67,40,Jute,4.0,58.66
+2021,Uttar Pradesh,2,951.0,Alluvial,28,Sprinkler,508.12,50,Cotton,5.0,67.45
+2021,Telangana,27,1149.0,Red,44,Drip,12416.09,35,Cotton,5.0,74.51
+2021,Odisha,44,1394.0,Laterite,28,Basin,43676.06,50,Groundnut,6.0,79.97
+2021,Odisha,7,1229.0,Red,26,Basin,13281.47,45,Paddy,10.0,36.17
+2021,Punjab,36,732.0,Alluvial,33,Furrow,85350.82,50,Paddy,10.0,33.7
+2021,Uttar Pradesh,38,807.0,Black,40,Sprinkler,83815.98,50,Groundnut,6.0,65.72
+2021,Tamil Nadu,1,851.0,Laterite,24,Furrow,355.16,45,Cotton,5.0,70.98
+2021,Andhra Pradesh,21,1034.0,Laterite,41,Sprinkler,18057.94,50,Groundnut,6.0,77.59
+2021,Telangana,8,1133.0,Red,23,Drip,3906.41,45,Cotton,5.0,74.51
+2021,Odisha,21,1217.0,Red,44,Surface,15799.19,40,Groundnut,6.0,79.97
+2021,Odisha,41,1716.0,Red,26,Surface,9505.5,45,Cotton,5.0,74.51
+2021,Assam,1,2687.0,Laterite,28,Surface,2226.12,50,Paddy,10.0,33.7
+2021,Tamil Nadu,24,1159.0,Red,25,Surface,59044.41,60,Paddy,10.0,33.7
+2021,Andhra Pradesh,43,1038.0,Red,30,Sprinkler,12466.1,60,Cotton,5.0,72.16
+2021,Uttar Pradesh,39,842.0,Alluvial,26,Furrow,31662.34,60,Groundnut,6.0,65.72
+2021,Punjab,48,544.0,Black,33,Drip,144443.49,40,Paddy,10.0,33.7
+2021,Punjab,17,659.0,Alluvial,33,Drip,60669.71,50,Wheat,7.0,30.39
+2021,Uttar Pradesh,28,1198.0,Black,33,Surface,61114.94,50,Groundnut,6.0,65.72
+2021,Punjab,37,681.0,Black,23,Sprinkler,86745.24,50,Paddy,10.0,33.7
+2021,Tamil Nadu,18,868.0,Red,37,Drip,23243.86,50,Groundnut,6.0,75.22
+2021,Tamil Nadu,4,1059.0,Red,43,Drip,1527.99,50,Cotton,5.0,70.98
+2021,Punjab,43,610.0,Alluvial,39,Furrow,17350.09,40,Cotton,5.0,65.1
+2021,Punjab,50,612.0,Alluvial,31,Sprinkler,33214.86,50,Cotton,5.0,65.1
+2021,West Bengal,17,2496.0,Alluvial,42,Basin,31014.95,50,Paddy,10.0,31.24
+2021,Tamil Nadu,45,824.0,Laterite,37,Sprinkler,15861.58,50,Cotton,5.0,70.98
+2021,Chhattisgarh,5,1412.0,Laterite,30,Surface,12892.28,45,Maize,0.3,26.24
+2021,Andhra Pradesh,10,911.0,Laterite,35,Drip,20707.46,50,Groundnut,6.0,77.59
+2021,West Bengal,44,2308.0,Alluvial,24,Surface,21126.2,50,Greengram,5.0,106.26
+2021,Odisha,33,1388.0,Red,38,Surface,74931.32,40,Paddy,10.0,36.17
+2021,Chhattisgarh,18,1420.0,Red,31,Basin,42627.5,35,Maize,0.3,26.24
+2021,Odisha,22,1704.0,Red,33,Basin,13531.2,35,Groundnut,6.0,79.97
+2021,Punjab,20,572.0,Black,37,Furrow,49713.58,50,Paddy,10.0,33.7
+2021,Punjab,9,603.0,Alluvial,43,Drip,31183.92,50,Wheat,7.0,30.39
+2021,Assam,25,3110.0,Alluvial,36,Basin,46800.87,50,Paddy,10.0,33.7
+2021,Andhra Pradesh,5,825.0,Black,24,Sprinkler,1301.6,60,Cotton,5.0,72.16
+2021,West Bengal,24,1302.0,Alluvial,37,Basin,4221.35,40,Cotton,5.0,65.1
+2021,Tamil Nadu,39,1016.0,Red,26,Sprinkler,50334.25,60,Groundnut,6.0,75.22
+2021,Chhattisgarh,27,1529.0,Laterite,27,Basin,52547.42,45,Maize,0.3,26.24
+2021,Punjab,43,750.0,Alluvial,42,Sprinkler,128464.77,50,Wheat,7.0,30.39
+2021,Chhattisgarh,27,1127.0,Laterite,25,Drip,63145.57,45,Maize,0.3,26.24
+2021,Odisha,30,1221.0,Red,34,Basin,30308.67,40,Groundnut,6.0,79.97
+2021,Assam,28,2596.0,Laterite,34,Basin,57935.54,50,Paddy,10.0,33.7
+2021,Andhra Pradesh,19,841.0,Red,30,Drip,6418.3,60,Cotton,5.0,72.16
+2021,Odisha,21,1716.0,Red,29,Basin,40882.29,60,Paddy,10.0,36.17
+2021,Tamil Nadu,31,1119.0,Laterite,41,Drip,29897.85,35,Groundnut,6.0,75.22
+2021,Tamil Nadu,13,1008.0,Red,44,Sprinkler,10451.23,50,Groundnut,6.0,75.22
+2021,Telangana,5,1069.0,Red,42,Sprinkler,8761.86,50,Paddy,10.0,36.17
+2021,West Bengal,11,1542.0,Alluvial,32,Surface,23172.84,40,Paddy,10.0,31.24
+2021,Andhra Pradesh,24,1086.0,Red,38,Drip,5945.06,50,Cotton,5.0,72.16
+2021,Chhattisgarh,3,1368.0,Red,25,Surface,6223.74,60,Maize,0.3,26.24
+2021,Tamil Nadu,44,1196.0,Laterite,44,Basin,24484.42,50,Groundnut,6.0,75.22
+2021,Punjab,7,605.0,Alluvial,42,Drip,3262.58,50,Cotton,5.0,65.1
+2021,Uttar Pradesh,17,694.0,Black,43,Drip,4722.4,40,Cotton,5.0,67.45
+2021,Telangana,22,1033.0,Laterite,32,Sprinkler,40986.54,50,Paddy,10.0,36.17
+2021,Chhattisgarh,28,1173.0,Red,38,Surface,65255.63,50,Wheat,7.0,29.19
+2021,Chhattisgarh,48,1492.0,Red,29,Surface,96781.96,60,Paddy,10.0,32.47
+2021,Uttar Pradesh,44,1119.0,Black,43,Drip,105632.84,50,Groundnut,6.0,65.72
+2021,Assam,26,2669.0,Alluvial,42,Basin,34421.2,50,Jute,4.0,58.66
+2021,Andhra Pradesh,10,903.0,Black,36,Sprinkler,2391.49,50,Cotton,5.0,72.16
+2021,Odisha,22,1373.0,Red,27,Surface,6589.61,45,Cotton,5.0,74.51
+2021,Chhattisgarh,38,1011.0,Red,42,Drip,80584.64,35,Paddy,10.0,32.47
+2021,West Bengal,27,2882.0,Laterite,41,Surface,42167.18,50,Paddy,10.0,31.24
+2021,Andhra Pradesh,48,1001.0,Red,24,Sprinkler,72190.31,60,Paddy,10.0,34.94
+2021,Chhattisgarh,3,1085.0,Laterite,36,Sprinkler,8013.15,50,Wheat,7.0,29.19
+2021,Andhra Pradesh,45,1124.0,Red,39,Sprinkler,12094.95,50,Cotton,5.0,72.16
+2021,Odisha,20,1580.0,Laterite,37,Surface,36056.06,40,Paddy,10.0,36.17
+2021,West Bengal,10,1349.0,Alluvial,35,Basin,5630.78,40,Greengram,5.0,106.26
+2021,Assam,39,2786.0,Red,36,Basin,41987.42,40,Tea,-6.0,174.09
+2021,West Bengal,43,1921.0,Saline,26,Basin,21830.41,60,Greengram,5.0,106.26
+2021,Odisha,6,1387.0,Laterite,33,Basin,1538.31,40,Cotton,5.0,74.51
+2021,Chhattisgarh,45,1597.0,Laterite,28,Basin,118247.49,45,Wheat,7.0,29.19
+2021,Odisha,30,1751.0,Laterite,31,Basin,59206.6,40,Paddy,10.0,36.17
+2021,West Bengal,34,2247.0,Alluvial,25,Surface,18327.16,50,Greengram,5.0,106.26
+2021,Andhra Pradesh,31,1167.0,Red,43,Surface,21150.92,50,Groundnut,6.0,77.59
+2021,Chhattisgarh,18,1093.0,Red,40,Sprinkler,43971.1,50,Paddy,10.0,32.47
+2021,West Bengal,39,1931.0,Laterite,24,Basin,70968.18,60,Paddy,10.0,31.24
+2021,West Bengal,39,1727.0,Laterite,29,Basin,5021.26,60,Cotton,5.0,65.1
+2021,Odisha,40,1456.0,Laterite,38,Basin,11271.56,40,Cotton,5.0,74.51
+2021,Andhra Pradesh,50,854.0,Red,44,Sprinkler,11600.95,50,Cotton,5.0,72.16
+2021,West Bengal,17,2540.0,Laterite,26,Basin,1912.36,60,Cotton,5.0,65.1
+2021,Chhattisgarh,38,1118.0,Laterite,34,Drip,114058.64,50,Maize,0.3,26.24
+2021,Odisha,39,1320.0,Red,43,Basin,56026.29,50,Paddy,10.0,36.17
+2021,Odisha,47,1729.0,Red,35,Surface,11004.91,35,Cotton,5.0,74.51
+2021,Punjab,9,543.0,Alluvial,34,Drip,21189.68,50,Paddy,10.0,33.7
+2021,Uttar Pradesh,39,839.0,Black,25,Drip,70793.09,60,Groundnut,6.0,65.72
+2021,Tamil Nadu,11,1002.0,Red,23,Drip,8052.41,45,Groundnut,6.0,75.22
+2021,Uttar Pradesh,29,816.0,Black,32,Drip,8375.1,40,Cotton,5.0,67.45
+2021,Assam,38,3050.0,Red,34,Basin,40799.3,40,Tea,-6.0,174.09
+2021,Andhra Pradesh,38,910.0,Laterite,39,Drip,94802.41,35,Paddy,10.0,34.94
+2021,Andhra Pradesh,44,1043.0,Black,26,Sprinkler,12539.87,60,Cotton,5.0,72.16
+2021,Odisha,12,1660.0,Laterite,42,Surface,11135.47,50,Groundnut,6.0,79.97
+2021,Punjab,25,673.0,Black,27,Drip,108294.47,50,Wheat,7.0,30.39
+2021,Assam,39,2108.0,Alluvial,35,Surface,58005.54,40,Jute,4.0,58.66
+2021,Odisha,33,1530.0,Red,31,Basin,25215.33,40,Groundnut,6.0,79.97
+2021,Telangana,28,1019.0,Black,27,Sprinkler,80840.9,45,Paddy,10.0,36.17
+2021,West Bengal,49,1354.0,Saline,36,Surface,26530.73,40,Greengram,5.0,106.26
+2021,Chhattisgarh,29,1366.0,Red,38,Basin,77729.94,50,Wheat,7.0,29.19
+2021,Uttar Pradesh,40,864.0,Alluvial,25,Sprinkler,24143.72,60,Greengram,5.0,100.38
+2021,Tamil Nadu,31,939.0,Laterite,23,Sprinkler,10049.08,45,Cotton,5.0,70.98
+2021,Andhra Pradesh,22,977.0,Black,42,Drip,33667.01,35,Paddy,10.0,34.94
+2021,Telangana,28,1040.0,Laterite,30,Drip,59175.26,45,Groundnut,6.0,79.97
+2021,Uttar Pradesh,41,619.0,Black,31,Drip,74776.59,40,Paddy,10.0,32.47
+2021,Uttar Pradesh,20,774.0,Black,36,Sprinkler,9403.88,40,Greengram,5.0,100.38
+2021,Assam,35,3070.0,Alluvial,25,Surface,58385.17,50,Jute,4.0,58.66
+2021,Andhra Pradesh,8,816.0,Black,26,Furrow,20676.19,60,Paddy,10.0,34.94
+2021,Tamil Nadu,28,845.0,Red,23,Drip,68117.42,45,Paddy,10.0,33.7
+2021,Telangana,11,1156.0,Black,27,Surface,14349.94,45,Groundnut,6.0,79.97
+2021,Andhra Pradesh,21,993.0,Black,43,Sprinkler,5282.58,50,Cotton,5.0,72.16
+2021,Telangana,37,1068.0,Red,25,Sprinkler,19590.29,60,Cotton,5.0,74.51
+2021,Andhra Pradesh,6,1119.0,Red,26,Sprinkler,1621.04,60,Cotton,5.0,72.16
+2021,Odisha,37,1736.0,Laterite,34,Basin,37732.12,40,Groundnut,6.0,79.97
+2021,Chhattisgarh,36,1109.0,Red,29,Drip,90899.82,45,Maize,0.3,26.24
+2021,Andhra Pradesh,14,1098.0,Laterite,44,Drip,11360.71,50,Groundnut,6.0,77.59
+2021,Punjab,21,675.0,Alluvial,35,Drip,79388.75,40,Wheat,7.0,30.39
+2021,West Bengal,37,2774.0,Alluvial,29,Basin,6142.3,50,Cotton,5.0,65.1
+2021,Telangana,4,889.0,Red,39,Sprinkler,7824.71,50,Groundnut,6.0,79.97
+2021,Odisha,26,1625.0,Laterite,30,Basin,6938.4,60,Cotton,5.0,74.51
+2021,West Bengal,29,2166.0,Laterite,26,Surface,49793.66,50,Groundnut,6.0,71.66
+2021,Punjab,34,634.0,Alluvial,31,Furrow,19612.39,50,Cotton,5.0,65.1
+2021,Chhattisgarh,6,1214.0,Laterite,27,Basin,14185.37,60,Paddy,10.0,32.47
+2021,Punjab,27,741.0,Alluvial,37,Sprinkler,92737.58,40,Wheat,7.0,30.39
+2021,Andhra Pradesh,20,1116.0,Black,26,Sprinkler,29822.21,60,Paddy,10.0,34.94
+2021,Uttar Pradesh,21,614.0,Alluvial,42,Drip,6346.89,40,Cotton,5.0,67.45
+2021,Chhattisgarh,21,1135.0,Red,32,Drip,63654.99,50,Maize,0.3,26.24
+2021,Assam,19,2582.0,Alluvial,43,Surface,32512.33,40,Paddy,10.0,33.7
+2021,Andhra Pradesh,34,901.0,Red,24,Sprinkler,73263.48,60,Groundnut,6.0,77.59
+2021,Tamil Nadu,8,1195.0,Laterite,41,Surface,15035.77,35,Paddy,10.0,33.7
+2021,Telangana,50,1129.0,Red,39,Sprinkler,25714.95,35,Cotton,5.0,74.51
+2021,Uttar Pradesh,20,649.0,Alluvial,34,Furrow,6055.41,50,Cotton,5.0,67.45
+2021,Telangana,35,900.0,Laterite,41,Drip,53095.45,50,Groundnut,6.0,79.97
+2021,Uttar Pradesh,28,966.0,Laterite,30,Drip,60803.59,60,Paddy,10.0,32.47
+2021,Andhra Pradesh,7,897.0,Black,37,Sprinkler,9629.87,35,Groundnut,6.0,77.59
+2021,Tamil Nadu,11,1172.0,Laterite,24,Basin,9249.98,60,Groundnut,6.0,75.22
+2021,Andhra Pradesh,48,836.0,Red,39,Drip,58166.02,35,Paddy,10.0,34.94
+2021,Telangana,12,998.0,Black,30,Sprinkler,6793.25,60,Cotton,5.0,74.51
+2021,Odisha,31,1736.0,Red,30,Surface,28845.59,45,Groundnut,6.0,79.97
+2021,Punjab,24,576.0,Black,42,Furrow,10048.2,40,Cotton,5.0,65.1
+2021,Telangana,25,915.0,Laterite,42,Drip,36895.02,35,Groundnut,6.0,79.97
+2021,Andhra Pradesh,15,1070.0,Black,28,Sprinkler,34600.3,45,Groundnut,6.0,77.59
+2021,Assam,11,2508.0,Laterite,37,Surface,18541.25,40,Paddy,10.0,33.7
+2021,Chhattisgarh,24,1304.0,Red,37,Surface,54885.96,35,Maize,0.3,26.24
+2021,Punjab,5,593.0,Black,33,Drip,2899.18,50,Cotton,5.0,65.1
+2021,Odisha,37,1260.0,Red,34,Basin,11435.49,50,Cotton,5.0,74.51
+2021,Assam,32,3041.0,Laterite,33,Basin,59510.79,40,Paddy,10.0,33.7
+2021,Andhra Pradesh,28,824.0,Red,24,Furrow,6078.48,60,Cotton,5.0,72.16
+2021,Telangana,22,1141.0,Red,31,Drip,12833.3,50,Cotton,5.0,74.51
+2021,Uttar Pradesh,48,708.0,Alluvial,27,Furrow,11723.97,60,Cotton,5.0,67.45
+2021,West Bengal,4,1774.0,Saline,37,Surface,1893.35,40,Greengram,5.0,106.26
+2021,Assam,19,2415.0,Laterite,25,Surface,24720.4,50,Jute,4.0,58.66
+2021,Uttar Pradesh,49,837.0,Black,31,Drip,107334.97,40,Groundnut,6.0,65.72
+2021,Telangana,37,1046.0,Red,37,Drip,61627.51,50,Groundnut,6.0,79.97
+2021,Odisha,27,1517.0,Laterite,32,Surface,6867.43,40,Cotton,5.0,74.51
+2021,Assam,24,3009.0,Alluvial,39,Basin,44302.61,40,Paddy,10.0,33.7
+2021,Punjab,31,560.0,Black,41,Furrow,13923.21,50,Cotton,5.0,65.1
+2021,Uttar Pradesh,44,932.0,Alluvial,27,Sprinkler,25546.92,60,Greengram,5.0,100.38
+2021,Uttar Pradesh,49,735.0,Alluvial,29,Furrow,25205.22,60,Greengram,5.0,100.38
+2021,Assam,3,2712.0,Laterite,28,Surface,6632.8,60,Paddy,10.0,33.7
+2021,Odisha,49,1286.0,Red,40,Surface,59453.73,50,Groundnut,6.0,79.97
+2021,Odisha,26,1772.0,Red,31,Surface,5650.91,50,Cotton,5.0,74.51
+2021,Assam,13,2451.0,Laterite,23,Basin,16245.47,60,Jute,4.0,58.66
+2021,Tamil Nadu,11,800.0,Red,35,Drip,13942.59,50,Groundnut,6.0,75.22
+2021,Punjab,48,776.0,Black,26,Furrow,152296.51,60,Paddy,10.0,33.7
+2021,Tamil Nadu,20,847.0,Laterite,27,Furrow,7673.48,60,Cotton,5.0,70.98
+2021,Punjab,34,796.0,Alluvial,26,Drip,23382.2,50,Cotton,5.0,65.1
+2021,Andhra Pradesh,4,980.0,Black,37,Drip,4520.92,35,Paddy,10.0,34.94
+2021,Assam,6,2287.0,Laterite,38,Surface,6952.67,40,Jute,4.0,58.66
+2021,Punjab,37,637.0,Alluvial,26,Drip,125675.49,60,Wheat,7.0,30.39
+2021,Assam,34,2750.0,Laterite,39,Basin,49482.73,50,Jute,4.0,58.66
+2021,Odisha,41,1341.0,Red,41,Surface,11193.97,50,Cotton,5.0,74.51
+2021,Assam,11,2745.0,Red,30,Surface,10686.81,60,Tea,-6.0,174.09
+2021,Tamil Nadu,21,1044.0,Red,30,Drip,8326.7,45,Cotton,5.0,70.98
+2021,Chhattisgarh,16,1455.0,Red,29,Basin,39883.95,60,Maize,0.3,26.24
+2021,Andhra Pradesh,31,900.0,Laterite,32,Drip,24094.02,50,Groundnut,6.0,77.59
+2021,Punjab,17,722.0,Black,32,Furrow,48151.5,50,Wheat,7.0,30.39
+2021,Chhattisgarh,12,1447.0,Red,40,Surface,31338.12,50,Wheat,7.0,29.19
+2021,Telangana,11,1193.0,Black,24,Surface,20717.02,60,Paddy,10.0,36.17
+2021,Andhra Pradesh,31,1129.0,Black,30,Drip,7944.34,60,Cotton,5.0,72.16
+2021,Telangana,25,1109.0,Black,31,Drip,15202.72,35,Cotton,5.0,74.51
+2021,Chhattisgarh,4,1237.0,Red,37,Surface,11829.84,35,Wheat,7.0,29.19
+2021,Odisha,4,1739.0,Red,40,Surface,7672.55,50,Paddy,10.0,36.17
+2021,Odisha,27,1764.0,Laterite,36,Surface,5142.1,35,Cotton,5.0,74.51
+2021,Andhra Pradesh,4,1165.0,Black,41,Basin,860.26,35,Cotton,5.0,72.16
+2021,Uttar Pradesh,1,664.0,Laterite,23,Sprinkler,920.06,60,Groundnut,6.0,65.72
+2021,Andhra Pradesh,22,1055.0,Red,33,Sprinkler,5597.13,35,Cotton,5.0,72.16
+2021,Punjab,26,546.0,Black,36,Furrow,71702.05,50,Paddy,10.0,33.7
+2021,Tamil Nadu,38,1083.0,Red,27,Sprinkler,49614.74,60,Groundnut,6.0,75.22
+2021,Assam,32,3320.0,Laterite,25,Basin,53326.05,50,Paddy,10.0,33.7
+2021,Punjab,4,695.0,Black,30,Drip,11543.65,50,Paddy,10.0,33.7
+2021,Punjab,23,774.0,Black,24,Drip,77213.03,60,Wheat,7.0,30.39
+2021,Telangana,42,993.0,Black,38,Drip,115653.99,35,Paddy,10.0,36.17
+2021,Tamil Nadu,46,816.0,Laterite,37,Sprinkler,60507.81,50,Groundnut,6.0,75.22
+2021,Odisha,28,1340.0,Laterite,38,Surface,7402.66,50,Cotton,5.0,74.51
+2021,Uttar Pradesh,38,975.0,Laterite,35,Drip,34180.05,50,Groundnut,6.0,65.72
+2021,Odisha,13,1618.0,Laterite,34,Basin,23475.14,40,Paddy,10.0,36.17
+2021,Assam,5,2779.0,Red,37,Surface,6132.32,40,Tea,-6.0,174.09
+2021,Assam,28,3392.0,Red,39,Basin,30501.46,50,Tea,-6.0,174.09
+2021,Chhattisgarh,46,1264.0,Laterite,25,Surface,95566.08,45,Paddy,10.0,32.47
+2021,Punjab,41,685.0,Black,31,Furrow,115846.36,50,Wheat,7.0,30.39
+2021,Uttar Pradesh,49,1054.0,Alluvial,44,Sprinkler,12737.66,50,Cotton,5.0,67.45
+2021,Andhra Pradesh,7,984.0,Laterite,40,Sprinkler,11694.39,35,Paddy,10.0,34.94
+2021,Uttar Pradesh,33,603.0,Alluvial,29,Drip,10907.49,60,Cotton,5.0,67.45
+2021,Uttar Pradesh,27,1024.0,Laterite,44,Sprinkler,30765.63,50,Groundnut,6.0,65.72
+2021,Odisha,12,1621.0,Red,32,Basin,2465.3,40,Cotton,5.0,74.51
+2021,Punjab,2,558.0,Alluvial,42,Sprinkler,5744.66,50,Wheat,7.0,30.39
+2021,Punjab,48,555.0,Alluvial,43,Furrow,120893.38,40,Wheat,7.0,30.39
+2021,Andhra Pradesh,12,1079.0,Black,29,Sprinkler,24840.7,60,Paddy,10.0,34.94
+2021,Assam,35,2377.0,Laterite,40,Surface,45094.34,40,Jute,4.0,58.66
+2021,Assam,15,2180.0,Red,35,Surface,18081.08,40,Tea,-6.0,174.09
+2021,Chhattisgarh,34,1207.0,Laterite,29,Surface,77485.39,60,Maize,0.3,26.24
+2021,West Bengal,33,1208.0,Alluvial,44,Basin,5527.73,40,Cotton,5.0,65.1
+2021,Odisha,36,1400.0,Red,33,Basin,57928.38,40,Paddy,10.0,36.17
+2021,Tamil Nadu,6,839.0,Laterite,26,Furrow,13721.98,60,Paddy,10.0,33.7
+2021,Andhra Pradesh,15,965.0,Black,29,Drip,24624.46,60,Paddy,10.0,34.94
+2021,Punjab,6,602.0,Alluvial,32,Drip,21715.03,40,Wheat,7.0,30.39
+2021,Andhra Pradesh,8,1027.0,Red,39,Drip,2020.47,50,Cotton,5.0,72.16
+2021,Andhra Pradesh,47,1059.0,Laterite,24,Sprinkler,91139.03,45,Groundnut,6.0,77.59
+2021,Uttar Pradesh,2,779.0,Alluvial,44,Sprinkler,3316.46,40,Paddy,10.0,32.47
+2021,Punjab,4,538.0,Black,28,Drip,2144.0,60,Cotton,5.0,65.1
+2021,Andhra Pradesh,33,1176.0,Laterite,23,Surface,63141.9,60,Paddy,10.0,34.94
+2021,West Bengal,49,2420.0,Saline,23,Surface,23323.48,50,Greengram,5.0,106.26
+2021,Tamil Nadu,9,1196.0,Red,40,Basin,23503.93,50,Paddy,10.0,33.7
+2021,Telangana,5,859.0,Black,39,Drip,9252.49,35,Paddy,10.0,36.17
+2021,Tamil Nadu,38,811.0,Laterite,41,Sprinkler,12122.05,35,Cotton,5.0,70.98
+2021,Chhattisgarh,46,1032.0,Red,34,Sprinkler,158136.05,50,Wheat,7.0,29.19
+2021,Tamil Nadu,48,846.0,Laterite,40,Furrow,107127.07,35,Paddy,10.0,33.7
+2021,Telangana,49,1023.0,Laterite,38,Sprinkler,58596.65,50,Groundnut,6.0,79.97
+2021,Assam,47,2351.0,Laterite,29,Basin,74679.57,50,Jute,4.0,58.66
+2021,Punjab,49,794.0,Black,31,Drip,156244.12,50,Wheat,7.0,30.39
+2021,Tamil Nadu,40,953.0,Red,35,Sprinkler,32632.07,50,Groundnut,6.0,75.22
+2021,Andhra Pradesh,37,993.0,Black,33,Drip,100235.54,50,Paddy,10.0,34.94
+2021,Chhattisgarh,48,1288.0,Laterite,31,Basin,108068.57,35,Paddy,10.0,32.47
+2021,Chhattisgarh,23,1283.0,Red,39,Basin,57595.68,35,Wheat,7.0,29.19
+2021,Chhattisgarh,7,1568.0,Red,33,Basin,13764.02,50,Maize,0.3,26.24
+2021,West Bengal,45,2379.0,Saline,34,Surface,22509.55,40,Greengram,5.0,106.26
+2021,Tamil Nadu,31,1167.0,Red,30,Surface,33170.85,45,Groundnut,6.0,75.22
+2021,Andhra Pradesh,28,1176.0,Black,42,Basin,24380.67,35,Groundnut,6.0,77.59
+2021,West Bengal,27,2619.0,Alluvial,35,Basin,4037.83,40,Cotton,5.0,65.1
+2021,Uttar Pradesh,39,772.0,Black,43,Sprinkler,18727.08,50,Greengram,5.0,100.38
+2021,Chhattisgarh,49,1090.0,Red,23,Sprinkler,123674.2,60,Maize,0.3,26.24
+2021,Uttar Pradesh,7,907.0,Laterite,34,Sprinkler,13521.69,50,Paddy,10.0,32.47
+2021,Telangana,9,1047.0,Black,23,Sprinkler,26346.92,60,Paddy,10.0,36.17
+2021,Andhra Pradesh,3,926.0,Red,25,Sprinkler,4590.09,45,Groundnut,6.0,77.59
+2021,Telangana,42,978.0,Laterite,41,Drip,69469.54,50,Paddy,10.0,36.17
+2021,Tamil Nadu,35,905.0,Laterite,31,Sprinkler,71742.16,50,Paddy,10.0,33.7
+2021,Telangana,18,861.0,Red,38,Sprinkler,40374.66,50,Paddy,10.0,36.17
+2021,Assam,1,2800.0,Alluvial,43,Basin,890.08,40,Tea,-6.0,174.09
+2021,Punjab,10,729.0,Black,26,Sprinkler,36445.48,60,Wheat,7.0,30.39
+2021,Tamil Nadu,24,1070.0,Red,30,Drip,61445.16,60,Paddy,10.0,33.7
+2021,Odisha,14,1308.0,Red,27,Basin,3762.71,45,Cotton,5.0,74.51
+2021,Odisha,40,1312.0,Laterite,36,Basin,8543.01,35,Cotton,5.0,74.51
+2021,Assam,3,2122.0,Red,24,Surface,3351.36,50,Tea,-6.0,174.09
+2021,West Bengal,47,1961.0,Alluvial,43,Basin,6936.01,40,Cotton,5.0,65.1
+2021,Andhra Pradesh,39,972.0,Red,37,Drip,67168.5,50,Groundnut,6.0,77.59
+2021,Assam,41,2744.0,Alluvial,23,Surface,50570.44,50,Jute,4.0,58.66
+2021,Andhra Pradesh,7,955.0,Black,30,Sprinkler,16594.9,60,Paddy,10.0,34.94
+2021,Punjab,18,509.0,Alluvial,40,Drip,9315.41,50,Cotton,5.0,65.1
+2021,Uttar Pradesh,32,1088.0,Black,28,Drip,21199.96,50,Greengram,5.0,100.38
+2021,Andhra Pradesh,2,1093.0,Red,31,Sprinkler,578.43,50,Cotton,5.0,72.16
+2021,Punjab,39,698.0,Alluvial,33,Sprinkler,131266.95,50,Paddy,10.0,33.7
+2021,Odisha,8,1469.0,Red,33,Basin,13602.05,40,Paddy,10.0,36.17
+2021,Assam,35,2707.0,Laterite,30,Basin,51144.33,60,Jute,4.0,58.66
+2021,Andhra Pradesh,8,1099.0,Red,42,Drip,17152.81,50,Paddy,10.0,34.94
+2021,Telangana,4,942.0,Laterite,41,Sprinkler,3816.89,50,Groundnut,6.0,79.97
+2021,Punjab,12,600.0,Alluvial,23,Sprinkler,37390.18,50,Paddy,10.0,33.7
+2021,Assam,48,2181.0,Alluvial,44,Surface,94497.1,40,Paddy,10.0,33.7
+2021,Andhra Pradesh,11,1141.0,Red,41,Sprinkler,3002.11,50,Cotton,5.0,72.16
+2021,Odisha,10,1734.0,Laterite,24,Basin,2235.79,50,Cotton,5.0,74.51
+2021,Assam,3,2126.0,Red,40,Surface,3348.18,40,Tea,-6.0,174.09
+2021,Chhattisgarh,50,1000.0,Laterite,42,Drip,93314.41,50,Paddy,10.0,32.47
+2021,Andhra Pradesh,34,806.0,Black,43,Furrow,59634.47,50,Groundnut,6.0,77.59
+2021,Telangana,2,1168.0,Red,25,Surface,879.54,45,Cotton,5.0,74.51
+2021,West Bengal,33,2407.0,Laterite,28,Basin,5566.86,50,Cotton,5.0,65.1
+2021,Uttar Pradesh,31,979.0,Alluvial,25,Drip,11778.05,60,Cotton,5.0,67.45
+2021,Assam,14,3163.0,Alluvial,23,Surface,32618.24,50,Paddy,10.0,33.7
+2021,Punjab,34,558.0,Black,29,Sprinkler,18292.48,50,Cotton,5.0,65.1
+2021,Odisha,11,1210.0,Laterite,34,Surface,17991.64,35,Paddy,10.0,36.17
+2021,Chhattisgarh,36,1584.0,Laterite,35,Basin,86998.61,50,Wheat,7.0,29.19
+2021,West Bengal,13,2046.0,Saline,26,Surface,5910.82,50,Greengram,5.0,106.26
+2021,Punjab,40,532.0,Black,42,Sprinkler,119008.25,40,Wheat,7.0,30.39
+2021,Odisha,4,1705.0,Laterite,42,Surface,964.64,35,Cotton,5.0,74.51
+2021,Telangana,35,818.0,Red,38,Furrow,14640.59,50,Cotton,5.0,74.51
+2021,Telangana,27,1137.0,Red,32,Sprinkler,76760.41,35,Paddy,10.0,36.17
+2021,West Bengal,14,1511.0,Saline,40,Surface,6963.75,50,Greengram,5.0,106.26
+2021,Odisha,22,1485.0,Red,31,Basin,14264.94,50,Groundnut,6.0,79.97
+2021,Tamil Nadu,23,848.0,Red,25,Furrow,27655.24,60,Groundnut,6.0,75.22
+2021,Odisha,50,1326.0,Red,36,Surface,33922.2,50,Groundnut,6.0,79.97
+2021,West Bengal,31,1519.0,Alluvial,24,Basin,68033.14,60,Paddy,10.0,31.24
+2021,Andhra Pradesh,30,873.0,Black,33,Furrow,34290.08,35,Groundnut,6.0,77.59
+2021,Punjab,31,506.0,Alluvial,36,Furrow,13259.92,50,Cotton,5.0,65.1
+2021,Uttar Pradesh,39,1092.0,Alluvial,32,Drip,51241.09,40,Groundnut,6.0,65.72
+2021,Tamil Nadu,50,1125.0,Red,39,Sprinkler,118551.98,50,Paddy,10.0,33.7
+2021,Odisha,4,1486.0,Red,41,Surface,800.43,40,Cotton,5.0,74.51
+2021,West Bengal,28,1501.0,Laterite,41,Surface,42830.49,40,Groundnut,6.0,71.66
+2021,Uttar Pradesh,32,625.0,Alluvial,42,Drip,7568.72,50,Cotton,5.0,67.45
+2021,Andhra Pradesh,22,1028.0,Laterite,43,Sprinkler,19580.42,35,Paddy,10.0,34.94
+2021,Odisha,3,1520.0,Red,41,Surface,4259.75,50,Paddy,10.0,36.17
+2021,Telangana,1,1095.0,Black,41,Sprinkler,1475.31,35,Groundnut,6.0,79.97
+2021,West Bengal,5,1606.0,Alluvial,27,Surface,698.89,60,Cotton,5.0,65.1
+2021,Telangana,46,1058.0,Red,23,Sprinkler,23116.18,60,Cotton,5.0,74.51
+2021,Telangana,4,941.0,Black,40,Drip,7863.32,50,Paddy,10.0,36.17
+2021,Andhra Pradesh,42,862.0,Red,25,Furrow,28341.56,45,Groundnut,6.0,77.59
+2021,Odisha,30,1610.0,Laterite,40,Surface,59533.58,35,Paddy,10.0,36.17
+2021,Odisha,33,1519.0,Laterite,42,Basin,42457.4,50,Paddy,10.0,36.17
+2021,West Bengal,15,2697.0,Alluvial,39,Surface,2064.92,40,Cotton,5.0,65.1
+2021,Uttar Pradesh,25,1170.0,Black,30,Basin,62100.9,50,Paddy,10.0,32.47
+2021,Odisha,1,1321.0,Red,43,Basin,1031.5,50,Groundnut,6.0,79.97
+2021,Chhattisgarh,29,1587.0,Laterite,44,Surface,44384.94,35,Paddy,10.0,32.47
+2021,Odisha,9,1645.0,Red,43,Surface,5040.6,50,Groundnut,6.0,79.97
+2021,Punjab,28,673.0,Black,36,Drip,97777.31,50,Wheat,7.0,30.39
+2021,Andhra Pradesh,31,942.0,Black,35,Drip,41417.36,35,Groundnut,6.0,77.59
+2021,Tamil Nadu,29,1060.0,Red,43,Drip,25670.25,35,Groundnut,6.0,75.22
+2021,Telangana,38,833.0,Black,42,Furrow,15479.74,50,Cotton,5.0,74.51
+2021,Andhra Pradesh,17,865.0,Laterite,33,Furrow,32342.13,35,Paddy,10.0,34.94
+2021,Punjab,11,581.0,Black,33,Sprinkler,4968.87,50,Cotton,5.0,65.1
+2021,Odisha,36,1615.0,Red,34,Basin,56952.93,40,Paddy,10.0,36.17
+2021,Andhra Pradesh,39,1105.0,Red,38,Drip,48552.91,50,Groundnut,6.0,77.59
+2021,Odisha,36,1340.0,Laterite,42,Basin,24049.09,40,Groundnut,6.0,79.97
+2021,Tamil Nadu,49,1093.0,Laterite,44,Drip,129460.15,50,Paddy,10.0,33.7
+2021,Chhattisgarh,18,1394.0,Laterite,24,Basin,30117.83,45,Paddy,10.0,32.47
+2021,Telangana,49,898.0,Laterite,37,Sprinkler,114033.04,50,Paddy,10.0,36.17
+2021,Odisha,50,1742.0,Red,25,Surface,55684.09,50,Groundnut,6.0,79.97
+2021,Chhattisgarh,29,1273.0,Laterite,41,Basin,63708.92,50,Maize,0.3,26.24
+2021,Andhra Pradesh,17,1013.0,Red,36,Drip,6058.66,50,Cotton,5.0,72.16
+2021,Tamil Nadu,19,940.0,Red,33,Drip,17208.3,35,Groundnut,6.0,75.22
+2021,Andhra Pradesh,12,1093.0,Black,40,Sprinkler,18893.04,50,Groundnut,6.0,77.59
+2021,Odisha,42,1549.0,Red,38,Basin,94784.81,50,Paddy,10.0,36.17
+2021,Punjab,18,666.0,Black,35,Drip,9419.56,40,Cotton,5.0,65.1
+2021,Uttar Pradesh,15,804.0,Black,35,Sprinkler,38568.44,50,Paddy,10.0,32.47
+2021,Tamil Nadu,16,1009.0,Red,43,Drip,44805.98,35,Paddy,10.0,33.7
+2021,Chhattisgarh,41,1057.0,Red,32,Drip,91166.97,35,Maize,0.3,26.24
+2021,Uttar Pradesh,13,1173.0,Alluvial,34,Basin,6756.59,50,Greengram,5.0,100.38
+2021,West Bengal,49,2817.0,Saline,31,Basin,80537.36,40,Paddy,10.0,31.24
+2021,West Bengal,15,2153.0,Alluvial,27,Surface,2036.61,50,Cotton,5.0,65.1
+2021,West Bengal,43,2978.0,Alluvial,37,Surface,5230.51,40,Cotton,5.0,65.1
+2021,Uttar Pradesh,48,621.0,Alluvial,38,Furrow,68486.81,40,Groundnut,6.0,65.72
+2021,Chhattisgarh,1,1153.0,Laterite,31,Basin,2026.21,50,Maize,0.3,26.24
+2021,Uttar Pradesh,29,676.0,Black,44,Drip,7149.29,50,Cotton,5.0,67.45
+2021,Punjab,48,722.0,Alluvial,41,Sprinkler,25963.27,50,Cotton,5.0,65.1
+2021,West Bengal,47,1740.0,Alluvial,44,Surface,21866.18,40,Greengram,5.0,106.26
+2021,Telangana,45,982.0,Red,44,Drip,90457.65,50,Groundnut,6.0,79.97
+2021,Andhra Pradesh,2,972.0,Black,24,Sprinkler,555.28,45,Cotton,5.0,72.16
+2021,Chhattisgarh,41,1170.0,Laterite,29,Surface,87028.61,45,Paddy,10.0,32.47
+2021,Chhattisgarh,13,1511.0,Laterite,42,Surface,26293.7,50,Maize,0.3,26.24
+2021,Punjab,49,706.0,Black,34,Drip,24376.16,40,Cotton,5.0,65.1
+2021,Andhra Pradesh,50,939.0,Red,33,Drip,91092.92,35,Groundnut,6.0,77.59
+2021,West Bengal,27,1921.0,Alluvial,24,Surface,5032.5,50,Cotton,5.0,65.1
+2021,West Bengal,26,1871.0,Alluvial,33,Basin,2884.61,40,Cotton,5.0,65.1
+2021,Chhattisgarh,25,1154.0,Laterite,38,Surface,57479.13,50,Maize,0.3,26.24
+2021,West Bengal,16,1280.0,Alluvial,23,Surface,9936.61,50,Greengram,5.0,106.26
+2021,Andhra Pradesh,46,840.0,Laterite,38,Drip,107555.84,50,Paddy,10.0,34.94
+2021,Andhra Pradesh,15,874.0,Black,34,Drip,5261.87,50,Cotton,5.0,72.16
+2021,West Bengal,21,1335.0,Alluvial,24,Surface,12619.72,50,Greengram,5.0,106.26
+2021,Punjab,18,586.0,Black,35,Furrow,50063.75,50,Wheat,7.0,30.39
+2021,Tamil Nadu,20,1138.0,Laterite,40,Drip,44314.66,50,Paddy,10.0,33.7
+2021,Chhattisgarh,31,1477.0,Red,32,Basin,91440.33,50,Wheat,7.0,29.19
+2021,Chhattisgarh,24,1216.0,Red,37,Surface,45148.62,50,Paddy,10.0,32.47
+2021,Tamil Nadu,35,1053.0,Red,28,Drip,95287.34,60,Paddy,10.0,33.7
+2021,Tamil Nadu,16,1185.0,Laterite,37,Basin,30351.2,50,Paddy,10.0,33.7
+2021,Assam,39,2132.0,Alluvial,38,Basin,58679.65,50,Jute,4.0,58.66
+2021,Odisha,50,1795.0,Laterite,28,Surface,11948.45,60,Cotton,5.0,74.51
+2021,Uttar Pradesh,22,677.0,Laterite,30,Furrow,38294.69,60,Paddy,10.0,32.47
+2021,Chhattisgarh,6,1195.0,Red,30,Basin,12350.17,45,Maize,0.3,26.24
+2021,Assam,21,3135.0,Laterite,42,Basin,25348.53,50,Jute,4.0,58.66
+2021,Telangana,36,1101.0,Black,23,Sprinkler,102516.75,60,Paddy,10.0,36.17
+2021,Chhattisgarh,36,1104.0,Laterite,38,Sprinkler,72669.95,50,Maize,0.3,26.24
+2021,Odisha,39,1356.0,Laterite,26,Surface,11973.55,60,Cotton,5.0,74.51
+2021,Punjab,7,674.0,Alluvial,36,Furrow,18322.36,40,Paddy,10.0,33.7
+2021,West Bengal,2,1850.0,Laterite,24,Surface,283.08,60,Cotton,5.0,65.1
+2021,Punjab,35,747.0,Black,43,Furrow,67078.88,50,Paddy,10.0,33.7
+2021,Chhattisgarh,38,1285.0,Red,34,Basin,81420.59,35,Maize,0.3,26.24
+2021,Punjab,8,700.0,Alluvial,42,Sprinkler,3946.62,50,Cotton,5.0,65.1
+2021,Andhra Pradesh,42,999.0,Black,38,Sprinkler,71468.51,50,Groundnut,6.0,77.59
+2021,Uttar Pradesh,47,788.0,Laterite,36,Sprinkler,78473.94,50,Paddy,10.0,32.47
+2021,Punjab,3,748.0,Alluvial,34,Furrow,8169.2,40,Wheat,7.0,30.39
+2021,Tamil Nadu,6,1186.0,Laterite,36,Surface,1848.37,50,Cotton,5.0,70.98
+2021,Assam,36,3145.0,Alluvial,27,Surface,48293.86,50,Tea,-6.0,174.09
+2021,Assam,12,3199.0,Laterite,28,Surface,24498.9,50,Paddy,10.0,33.7
+2021,Assam,22,3054.0,Laterite,36,Surface,25665.08,40,Jute,4.0,58.66
+2021,Telangana,35,1019.0,Black,38,Sprinkler,49238.96,50,Groundnut,6.0,79.97
+2021,West Bengal,45,1612.0,Alluvial,41,Basin,68293.63,40,Groundnut,6.0,71.66
+2021,West Bengal,27,1750.0,Laterite,26,Surface,51663.64,50,Paddy,10.0,31.24
+2021,Punjab,25,670.0,Black,36,Furrow,55817.99,50,Paddy,10.0,33.7
+2021,West Bengal,47,2882.0,Laterite,41,Basin,61449.06,40,Groundnut,6.0,71.66
+2021,Chhattisgarh,22,1063.0,Laterite,29,Drip,58017.71,60,Maize,0.3,26.24
+2021,West Bengal,46,1866.0,Saline,30,Surface,26553.49,50,Greengram,5.0,106.26
+2021,Punjab,27,772.0,Black,25,Drip,20183.13,60,Cotton,5.0,65.1
+2021,Punjab,49,539.0,Black,23,Furrow,120743.36,50,Paddy,10.0,33.7
+2021,Uttar Pradesh,38,982.0,Alluvial,43,Sprinkler,26265.35,50,Groundnut,6.0,65.72
+2021,Andhra Pradesh,14,1049.0,Red,33,Drip,4821.2,50,Cotton,5.0,72.16
+2021,Odisha,47,1673.0,Red,35,Basin,56049.17,40,Groundnut,6.0,79.97
+2021,West Bengal,4,1591.0,Alluvial,33,Surface,8747.19,40,Paddy,10.0,31.24
+2021,Odisha,14,1287.0,Red,40,Surface,22800.66,40,Paddy,10.0,36.17
+2021,Tamil Nadu,13,1127.0,Laterite,33,Drip,13198.3,35,Groundnut,6.0,75.22
+2021,Telangana,34,1165.0,Black,23,Basin,52127.45,45,Groundnut,6.0,79.97
+2021,Andhra Pradesh,33,906.0,Red,43,Drip,7973.83,50,Cotton,5.0,72.16
+2021,Andhra Pradesh,11,1150.0,Laterite,28,Basin,14651.61,45,Groundnut,6.0,77.59
+2021,Tamil Nadu,20,910.0,Red,42,Sprinkler,11986.0,50,Groundnut,6.0,75.22
+2021,Assam,42,2254.0,Laterite,37,Surface,72722.55,40,Paddy,10.0,33.7
+2021,Assam,16,3452.0,Laterite,27,Basin,27369.42,50,Paddy,10.0,33.7
+2021,Uttar Pradesh,3,1124.0,Black,33,Drip,805.97,50,Cotton,5.0,67.45
+2021,Chhattisgarh,25,1132.0,Red,34,Sprinkler,59256.1,50,Paddy,10.0,32.47
+2021,Telangana,49,1122.0,Black,43,Sprinkler,80817.61,50,Groundnut,6.0,79.97
+2021,Uttar Pradesh,15,1071.0,Alluvial,30,Drip,45927.92,60,Paddy,10.0,32.47
+2021,Chhattisgarh,27,1577.0,Laterite,33,Surface,51128.28,50,Paddy,10.0,32.47
+2021,West Bengal,25,1479.0,Laterite,35,Surface,55721.28,50,Paddy,10.0,31.24
+2021,Telangana,6,1100.0,Black,40,Drip,3485.21,50,Cotton,5.0,74.51
+2021,Chhattisgarh,43,1073.0,Laterite,23,Drip,82279.1,60,Paddy,10.0,32.47
+2021,Assam,35,2885.0,Alluvial,43,Basin,46707.22,40,Jute,4.0,58.66
+2021,Chhattisgarh,3,1067.0,Red,31,Sprinkler,8158.13,50,Maize,0.3,26.24
+2021,Chhattisgarh,16,1137.0,Laterite,38,Drip,30398.74,50,Paddy,10.0,32.47
+2021,Tamil Nadu,38,867.0,Laterite,44,Drip,86791.1,35,Paddy,10.0,33.7
+2021,Chhattisgarh,43,1427.0,Red,41,Basin,81531.13,50,Wheat,7.0,29.19
+2021,Uttar Pradesh,30,967.0,Laterite,41,Sprinkler,50309.27,50,Paddy,10.0,32.47
+2021,Telangana,9,861.0,Red,30,Drip,12754.14,45,Groundnut,6.0,79.97
+2021,West Bengal,32,2033.0,Alluvial,35,Surface,58539.12,40,Paddy,10.0,31.24
+2021,Uttar Pradesh,19,822.0,Alluvial,41,Drip,12297.85,50,Groundnut,6.0,65.72
+2021,Telangana,32,1152.0,Red,39,Surface,73838.99,50,Paddy,10.0,36.17
+2021,Assam,44,3120.0,Laterite,37,Basin,87190.58,40,Paddy,10.0,33.7
+2021,Tamil Nadu,39,879.0,Red,38,Sprinkler,95712.9,50,Paddy,10.0,33.7
+2021,Andhra Pradesh,50,1049.0,Laterite,44,Drip,41433.51,35,Groundnut,6.0,77.59
+2021,Assam,46,2914.0,Red,33,Surface,43517.06,40,Tea,-6.0,174.09
+2021,Uttar Pradesh,17,748.0,Laterite,44,Sprinkler,4425.25,40,Groundnut,6.0,65.72
+2021,Uttar Pradesh,49,993.0,Laterite,39,Drip,110219.12,50,Paddy,10.0,32.47
+2021,Uttar Pradesh,50,1077.0,Black,41,Drip,14399.23,50,Cotton,5.0,67.45
+2021,Punjab,18,760.0,Alluvial,28,Furrow,9029.77,60,Cotton,5.0,65.1
+2021,Chhattisgarh,45,1040.0,Red,32,Drip,98407.81,35,Paddy,10.0,32.47
+2021,West Bengal,29,2145.0,Alluvial,28,Surface,4760.61,60,Cotton,5.0,65.1
+2021,Andhra Pradesh,18,888.0,Black,26,Drip,24636.96,60,Paddy,10.0,34.94
+2021,Odisha,14,1609.0,Laterite,36,Basin,12734.83,50,Groundnut,6.0,79.97
+2021,Uttar Pradesh,45,1182.0,Black,35,Surface,21638.57,50,Greengram,5.0,100.38
+2021,Tamil Nadu,27,1187.0,Laterite,42,Surface,16855.11,50,Groundnut,6.0,75.22
+2021,Chhattisgarh,14,1470.0,Red,25,Basin,33039.88,45,Maize,0.3,26.24
+2021,Odisha,12,1366.0,Laterite,39,Surface,13341.97,35,Groundnut,6.0,79.97
+2021,West Bengal,33,2137.0,Saline,31,Surface,57262.32,40,Paddy,10.0,31.24
+2021,Uttar Pradesh,48,971.0,Alluvial,28,Sprinkler,13307.15,50,Cotton,5.0,67.45
+2021,Chhattisgarh,32,1393.0,Red,39,Surface,85441.16,50,Wheat,7.0,29.19
+2021,Telangana,23,924.0,Black,42,Sprinkler,10346.64,35,Cotton,5.0,74.51
+2021,Assam,37,2282.0,Laterite,25,Surface,67139.74,50,Paddy,10.0,33.7
+2021,Andhra Pradesh,28,1186.0,Black,30,Surface,7146.51,60,Cotton,5.0,72.16
+2021,Uttar Pradesh,30,607.0,Alluvial,35,Furrow,38499.65,50,Groundnut,6.0,65.72
+2021,Punjab,32,570.0,Black,27,Sprinkler,14631.45,60,Cotton,5.0,65.1
+2021,Punjab,33,651.0,Alluvial,35,Sprinkler,123054.76,40,Wheat,7.0,30.39
+2021,Tamil Nadu,15,819.0,Red,30,Furrow,8037.23,45,Groundnut,6.0,75.22
+2021,Tamil Nadu,40,993.0,Red,37,Sprinkler,47655.22,50,Groundnut,6.0,75.22
+2021,Odisha,45,1350.0,Red,24,Basin,37507.34,50,Groundnut,6.0,79.97
+2021,Odisha,13,1426.0,Laterite,41,Basin,25693.17,50,Paddy,10.0,36.17
+2021,Assam,34,3169.0,Alluvial,28,Basin,81999.68,50,Paddy,10.0,33.7
+2021,Tamil Nadu,24,975.0,Red,24,Drip,24888.54,45,Groundnut,6.0,75.22
+2021,Andhra Pradesh,45,912.0,Red,38,Sprinkler,43089.58,35,Paddy,10.0,34.94
+2021,Tamil Nadu,11,1116.0,Red,28,Drip,5185.83,60,Cotton,5.0,70.98
+2022,Telangana,24,992.0,Black,43,Drip,42899.02,35,Groundnut,5.0,87.96
+2022,Punjab,8,554.0,Black,33,Sprinkler,25452.73,50,Wheat,6.0,32.96
+2022,Tamil Nadu,9,1196.0,Red,32,Surface,9750.78,50,Groundnut,5.0,82.7
+2022,Assam,40,2284.0,Laterite,31,Basin,62311.14,50,Jute,5.0,65.57
+2022,Telangana,15,1070.0,Black,43,Drip,8054.18,50,Cotton,0.12,78.85
+2022,Andhra Pradesh,34,1134.0,Black,24,Drip,11118.17,45,Cotton,0.12,76.34
+2022,West Bengal,37,1639.0,Saline,35,Surface,21781.92,50,Greengram,-7.0,104.74
+2022,West Bengal,6,2613.0,Saline,35,Basin,2755.28,50,Greengram,-7.0,104.74
+2022,Odisha,37,1551.0,Red,26,Basin,59369.09,60,Paddy,7.0,38.64
+2022,Chhattisgarh,5,1161.0,Red,25,Surface,15244.06,60,Wheat,6.0,31.62
+2022,Assam,38,2133.0,Alluvial,44,Surface,44668.16,50,Jute,5.0,65.57
+2022,Chhattisgarh,31,1175.0,Laterite,28,Surface,80004.98,60,Maize,1.9,29.12
+2022,Uttar Pradesh,50,677.0,Alluvial,35,Furrow,22280.96,50,Greengram,-7.0,98.91
+2022,West Bengal,31,2836.0,Alluvial,35,Surface,4015.32,50,Cotton,0.12,68.8
+2022,Odisha,13,1598.0,Red,32,Basin,3695.09,50,Cotton,0.12,78.85
+2022,Punjab,38,513.0,Alluvial,32,Drip,121659.09,40,Wheat,6.0,32.96
+2022,Tamil Nadu,7,1161.0,Laterite,28,Surface,2432.39,60,Cotton,0.12,75.08
+2022,Tamil Nadu,22,924.0,Red,37,Drip,60291.69,50,Paddy,7.0,35.95
+2022,West Bengal,33,1693.0,Laterite,26,Surface,65998.92,60,Paddy,7.0,33.27
+2022,Tamil Nadu,44,989.0,Red,36,Drip,47545.85,50,Groundnut,5.0,82.7
+2022,Tamil Nadu,35,837.0,Red,39,Furrow,86007.82,50,Paddy,7.0,35.95
+2022,West Bengal,29,1346.0,Alluvial,34,Surface,57026.38,40,Groundnut,5.0,78.74
+2022,Chhattisgarh,34,1259.0,Red,24,Basin,58230.34,60,Paddy,7.0,34.6
+2022,Tamil Nadu,27,979.0,Laterite,39,Drip,21888.28,50,Groundnut,5.0,82.7
+2022,Tamil Nadu,25,901.0,Laterite,38,Drip,39104.77,35,Groundnut,5.0,82.7
+2022,Andhra Pradesh,43,888.0,Red,44,Drip,43514.96,50,Paddy,7.0,37.29
+2022,Punjab,34,741.0,Alluvial,28,Sprinkler,96981.89,50,Paddy,7.0,35.95
+2022,Chhattisgarh,8,1079.0,Laterite,37,Sprinkler,18547.03,35,Maize,1.9,29.12
+2022,Telangana,20,1158.0,Black,26,Basin,53676.8,60,Paddy,7.0,38.64
+2022,West Bengal,34,2716.0,Laterite,41,Basin,50994.43,50,Groundnut,5.0,78.74
+2022,West Bengal,21,2756.0,Alluvial,34,Basin,32250.21,50,Groundnut,5.0,78.74
+2022,Punjab,28,600.0,Black,38,Drip,111956.47,50,Wheat,6.0,32.96
+2022,West Bengal,12,2195.0,Laterite,28,Basin,2092.91,60,Cotton,0.12,68.8
+2022,Chhattisgarh,43,1268.0,Red,37,Surface,125682.92,50,Wheat,6.0,31.62
+2022,Chhattisgarh,15,1440.0,Red,29,Surface,42496.45,60,Maize,1.9,29.12
+2022,Chhattisgarh,36,1454.0,Red,28,Basin,84099.26,60,Wheat,6.0,31.62
+2022,Odisha,34,1301.0,Red,35,Basin,10588.13,40,Cotton,0.12,78.85
+2022,West Bengal,35,2000.0,Saline,40,Basin,16374.3,40,Greengram,-7.0,104.74
+2022,Chhattisgarh,14,1534.0,Red,31,Basin,26217.9,50,Paddy,7.0,34.6
+2022,West Bengal,22,1862.0,Saline,35,Basin,46735.34,40,Paddy,7.0,33.27
+2022,Uttar Pradesh,6,901.0,Alluvial,23,Drip,3312.66,60,Greengram,-7.0,98.91
+2022,Telangana,15,976.0,Red,25,Drip,8643.33,60,Cotton,0.12,78.85
+2022,Assam,32,2060.0,Laterite,23,Surface,34024.11,60,Jute,5.0,65.57
+2022,Chhattisgarh,4,1334.0,Laterite,36,Surface,11646.24,50,Wheat,6.0,31.62
+2022,Odisha,32,1393.0,Laterite,24,Surface,6460.09,60,Cotton,0.12,78.85
+2022,Punjab,14,651.0,Alluvial,35,Furrow,7511.64,40,Cotton,0.12,68.8
+2022,Andhra Pradesh,9,1124.0,Red,31,Sprinkler,13123.81,35,Groundnut,5.0,85.32
+2022,Odisha,36,1393.0,Red,43,Surface,17848.28,50,Groundnut,5.0,87.96
+2022,Uttar Pradesh,16,788.0,Black,44,Furrow,21933.83,40,Paddy,7.0,34.6
+2022,Odisha,29,1725.0,Red,28,Surface,20202.73,50,Groundnut,5.0,87.96
+2022,Assam,4,3448.0,Laterite,36,Basin,5620.09,40,Jute,5.0,65.57
+2022,Punjab,47,787.0,Alluvial,33,Sprinkler,122368.47,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,11,605.0,Laterite,43,Drip,11284.04,40,Groundnut,5.0,72.16
+2022,Uttar Pradesh,40,607.0,Laterite,27,Sprinkler,82075.03,60,Paddy,7.0,34.6
+2022,Andhra Pradesh,15,1013.0,Laterite,38,Sprinkler,28162.81,50,Groundnut,5.0,85.32
+2022,Uttar Pradesh,8,924.0,Black,42,Sprinkler,3819.15,40,Greengram,-7.0,98.91
+2022,Tamil Nadu,43,983.0,Laterite,40,Sprinkler,52578.53,50,Groundnut,5.0,82.7
+2022,Uttar Pradesh,10,882.0,Alluvial,33,Sprinkler,5565.19,50,Greengram,-7.0,98.91
+2022,Chhattisgarh,20,1058.0,Laterite,29,Drip,43078.58,60,Paddy,7.0,34.6
+2022,Odisha,20,1631.0,Laterite,41,Basin,24573.26,40,Paddy,7.0,38.64
+2022,West Bengal,40,1820.0,Alluvial,28,Surface,24916.85,50,Greengram,-7.0,104.74
+2022,Odisha,40,1211.0,Red,41,Surface,80038.34,50,Paddy,7.0,38.64
+2022,West Bengal,24,1696.0,Alluvial,36,Surface,13739.76,40,Greengram,-7.0,104.74
+2022,Tamil Nadu,38,808.0,Laterite,44,Drip,11670.62,35,Cotton,0.12,75.08
+2022,Andhra Pradesh,41,1081.0,Red,26,Drip,77296.48,45,Groundnut,5.0,85.32
+2022,Odisha,19,1797.0,Laterite,30,Surface,5554.38,60,Cotton,0.12,78.85
+2022,Andhra Pradesh,35,868.0,Laterite,32,Sprinkler,58281.65,50,Groundnut,5.0,85.32
+2022,Tamil Nadu,5,914.0,Laterite,41,Drip,4026.08,35,Groundnut,5.0,82.7
+2022,Assam,3,2583.0,Alluvial,25,Basin,5502.12,60,Paddy,7.0,35.95
+2022,Punjab,17,638.0,Black,26,Sprinkler,48779.78,60,Paddy,7.0,35.95
+2022,Uttar Pradesh,15,793.0,Black,40,Sprinkler,14258.67,40,Groundnut,5.0,72.16
+2022,Odisha,4,1715.0,Red,43,Basin,1781.27,35,Groundnut,5.0,87.96
+2022,Andhra Pradesh,27,940.0,Black,33,Drip,6982.91,35,Cotton,0.12,76.34
+2022,Chhattisgarh,2,1232.0,Laterite,32,Surface,5247.27,50,Wheat,6.0,31.62
+2022,Odisha,22,1547.0,Red,44,Basin,41340.85,50,Paddy,7.0,38.64
+2022,Chhattisgarh,35,1403.0,Red,38,Basin,60656.6,35,Paddy,7.0,34.6
+2022,Telangana,1,1039.0,Laterite,29,Drip,2090.12,45,Groundnut,5.0,87.96
+2022,Chhattisgarh,43,1578.0,Red,43,Surface,77094.76,35,Paddy,7.0,34.6
+2022,West Bengal,39,2743.0,Alluvial,41,Surface,18582.89,40,Greengram,-7.0,104.74
+2022,Uttar Pradesh,31,644.0,Laterite,29,Drip,52706.02,60,Groundnut,5.0,72.16
+2022,Andhra Pradesh,4,880.0,Red,40,Drip,1271.92,35,Cotton,0.12,76.34
+2022,Andhra Pradesh,44,1047.0,Black,39,Drip,101037.39,50,Groundnut,5.0,85.32
+2022,Chhattisgarh,33,1061.0,Red,40,Drip,73993.88,50,Paddy,7.0,34.6
+2022,Andhra Pradesh,14,990.0,Red,32,Drip,38083.31,50,Paddy,7.0,37.29
+2022,Tamil Nadu,23,1189.0,Red,35,Basin,23065.19,50,Groundnut,5.0,82.7
+2022,Chhattisgarh,44,1144.0,Red,34,Sprinkler,120478.87,35,Maize,1.9,29.12
+2022,Tamil Nadu,12,1199.0,Laterite,38,Basin,25680.48,50,Paddy,7.0,35.95
+2022,Odisha,32,1622.0,Laterite,31,Surface,29227.47,35,Groundnut,5.0,87.96
+2022,Andhra Pradesh,48,1168.0,Laterite,35,Basin,83239.81,35,Groundnut,5.0,85.32
+2022,Odisha,32,1642.0,Laterite,23,Surface,7251.24,45,Cotton,0.12,78.85
+2022,Uttar Pradesh,4,1178.0,Alluvial,33,Basin,1097.37,50,Cotton,0.12,71.32
+2022,Odisha,22,1381.0,Red,28,Basin,26114.47,50,Groundnut,5.0,87.96
+2022,Chhattisgarh,6,1201.0,Red,41,Surface,12380.89,50,Maize,1.9,29.12
+2022,Punjab,44,609.0,Alluvial,32,Furrow,109422.89,50,Paddy,7.0,35.95
+2022,Punjab,36,664.0,Alluvial,43,Sprinkler,20631.42,40,Cotton,0.12,68.8
+2022,Assam,13,2715.0,Alluvial,25,Basin,33385.16,50,Paddy,7.0,35.95
+2022,Chhattisgarh,19,1352.0,Laterite,28,Basin,54100.8,60,Wheat,6.0,31.62
+2022,Telangana,2,1002.0,Red,37,Drip,1009.24,50,Cotton,0.12,78.85
+2022,West Bengal,32,2140.0,Alluvial,30,Surface,5478.52,60,Cotton,0.12,68.8
+2022,Assam,10,3425.0,Laterite,40,Surface,15869.32,40,Paddy,7.0,35.95
+2022,Chhattisgarh,45,1534.0,Laterite,23,Surface,92911.65,60,Maize,1.9,29.12
+2022,Assam,20,2495.0,Red,41,Basin,18619.51,40,Tea,4.0,214.97
+2022,Tamil Nadu,26,914.0,Laterite,42,Drip,23428.19,50,Groundnut,5.0,82.7
+2022,Punjab,17,575.0,Black,38,Drip,61139.3,40,Wheat,6.0,32.96
+2022,Telangana,3,1118.0,Laterite,28,Sprinkler,7594.12,60,Paddy,7.0,38.64
+2022,Odisha,35,1202.0,Red,44,Basin,30131.45,40,Groundnut,5.0,87.96
+2022,Odisha,44,1523.0,Laterite,39,Surface,63280.24,50,Paddy,7.0,38.64
+2022,Telangana,48,1083.0,Red,44,Drip,22308.43,35,Cotton,0.12,78.85
+2022,Telangana,30,947.0,Black,33,Sprinkler,17525.4,50,Cotton,0.12,78.85
+2022,Chhattisgarh,5,1134.0,Laterite,32,Drip,12678.09,50,Paddy,7.0,34.6
+2022,Chhattisgarh,23,1250.0,Laterite,38,Basin,47089.03,50,Paddy,7.0,34.6
+2022,Chhattisgarh,46,1401.0,Laterite,39,Basin,101168.47,50,Paddy,7.0,34.6
+2022,Assam,44,3461.0,Alluvial,36,Basin,57082.96,40,Jute,5.0,65.57
+2022,Uttar Pradesh,13,720.0,Black,24,Furrow,3735.18,60,Cotton,0.12,71.32
+2022,Uttar Pradesh,19,881.0,Black,28,Furrow,51287.28,60,Paddy,7.0,34.6
+2022,Punjab,27,668.0,Black,39,Furrow,63789.26,40,Paddy,7.0,35.95
+2022,Punjab,37,517.0,Black,34,Sprinkler,78449.03,40,Paddy,7.0,35.95
+2022,Punjab,5,679.0,Black,37,Furrow,16591.92,40,Wheat,6.0,32.96
+2022,West Bengal,3,2457.0,Alluvial,26,Basin,5548.03,60,Groundnut,5.0,78.74
+2022,Chhattisgarh,41,1496.0,Red,42,Basin,72241.85,50,Maize,1.9,29.12
+2022,Punjab,21,512.0,Alluvial,28,Drip,63972.63,50,Wheat,6.0,32.96
+2022,Odisha,43,1737.0,Red,27,Surface,97869.85,50,Paddy,7.0,38.64
+2022,Telangana,20,902.0,Laterite,34,Sprinkler,41184.65,50,Paddy,7.0,38.64
+2022,Telangana,28,1096.0,Black,26,Drip,75570.08,60,Paddy,7.0,38.64
+2022,Assam,15,2455.0,Laterite,42,Surface,16621.93,40,Jute,5.0,65.57
+2022,Chhattisgarh,35,1077.0,Laterite,24,Drip,91874.21,45,Maize,1.9,29.12
+2022,Tamil Nadu,36,1047.0,Red,43,Drip,106958.19,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,6,714.0,Black,25,Furrow,3168.1,60,Greengram,-7.0,98.91
+2022,Punjab,36,622.0,Black,26,Furrow,17715.6,60,Cotton,0.12,68.8
+2022,Uttar Pradesh,35,849.0,Alluvial,24,Sprinkler,84801.72,60,Paddy,7.0,34.6
+2022,Odisha,16,1487.0,Red,43,Basin,11689.23,40,Groundnut,5.0,87.96
+2022,Punjab,22,554.0,Alluvial,34,Drip,62055.62,40,Wheat,6.0,32.96
+2022,Andhra Pradesh,40,1120.0,Red,39,Drip,10632.18,50,Cotton,0.12,76.34
+2022,Odisha,45,1386.0,Laterite,38,Surface,9825.09,35,Cotton,0.12,78.85
+2022,Tamil Nadu,43,967.0,Laterite,38,Drip,16358.74,35,Cotton,0.12,75.08
+2022,Chhattisgarh,39,1087.0,Laterite,40,Drip,101131.05,50,Maize,1.9,29.12
+2022,Chhattisgarh,32,1061.0,Laterite,27,Drip,76587.48,45,Maize,1.9,29.12
+2022,Assam,14,2197.0,Alluvial,38,Surface,20941.81,40,Jute,5.0,65.57
+2022,Uttar Pradesh,33,612.0,Alluvial,24,Furrow,14706.08,60,Greengram,-7.0,98.91
+2022,Uttar Pradesh,13,948.0,Black,25,Drip,3500.81,60,Cotton,0.12,71.32
+2022,Chhattisgarh,34,1009.0,Red,37,Sprinkler,72057.57,50,Maize,1.9,29.12
+2022,Telangana,44,1137.0,Black,36,Drip,114806.93,50,Paddy,7.0,38.64
+2022,Punjab,47,716.0,Alluvial,37,Sprinkler,117722.51,40,Paddy,7.0,35.95
+2022,Odisha,11,1702.0,Laterite,41,Surface,15138.95,35,Paddy,7.0,38.64
+2022,Tamil Nadu,7,1199.0,Red,29,Basin,2390.42,60,Cotton,0.12,75.08
+2022,Assam,22,2777.0,Red,30,Surface,23025.46,50,Tea,4.0,214.97
+2022,Uttar Pradesh,23,995.0,Laterite,25,Sprinkler,58441.92,60,Paddy,7.0,34.6
+2022,Punjab,26,626.0,Alluvial,39,Sprinkler,16856.49,40,Cotton,0.12,68.8
+2022,Telangana,50,1140.0,Laterite,31,Drip,105034.36,50,Groundnut,5.0,87.96
+2022,Andhra Pradesh,29,906.0,Black,29,Drip,52887.13,60,Paddy,7.0,37.29
+2022,Telangana,15,865.0,Black,40,Drip,46756.84,50,Paddy,7.0,38.64
+2022,Assam,13,3467.0,Red,39,Surface,15251.33,40,Tea,4.0,214.97
+2022,Odisha,5,1427.0,Red,29,Surface,5567.11,45,Groundnut,5.0,87.96
+2022,Uttar Pradesh,37,1109.0,Black,31,Drip,77362.2,40,Groundnut,5.0,72.16
+2022,Punjab,8,745.0,Alluvial,36,Furrow,28284.29,50,Wheat,6.0,32.96
+2022,Odisha,34,1421.0,Laterite,24,Basin,40253.92,60,Groundnut,5.0,87.96
+2022,Uttar Pradesh,6,797.0,Laterite,41,Drip,7667.28,50,Groundnut,5.0,72.16
+2022,Telangana,37,972.0,Black,32,Drip,48526.42,35,Groundnut,5.0,87.96
+2022,Uttar Pradesh,36,647.0,Laterite,38,Sprinkler,60313.52,50,Paddy,7.0,34.6
+2022,Punjab,35,603.0,Black,25,Furrow,95448.04,60,Paddy,7.0,35.95
+2022,Andhra Pradesh,4,1006.0,Black,31,Sprinkler,12337.41,50,Paddy,7.0,37.29
+2022,Punjab,19,625.0,Black,27,Drip,10873.75,60,Cotton,0.12,68.8
+2022,Tamil Nadu,23,1063.0,Red,28,Drip,32917.11,60,Groundnut,5.0,82.7
+2022,Odisha,30,1785.0,Red,23,Surface,25650.11,60,Groundnut,5.0,87.96
+2022,Odisha,18,1767.0,Red,25,Basin,30908.71,50,Paddy,7.0,38.64
+2022,Punjab,36,719.0,Alluvial,39,Sprinkler,86617.54,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,19,715.0,Alluvial,36,Furrow,25812.7,50,Groundnut,5.0,72.16
+2022,Andhra Pradesh,47,944.0,Red,28,Sprinkler,56616.04,60,Groundnut,5.0,85.32
+2022,Odisha,50,1344.0,Laterite,43,Surface,82366.72,50,Paddy,7.0,38.64
+2022,Chhattisgarh,46,1367.0,Laterite,23,Basin,86399.19,60,Maize,1.9,29.12
+2022,Punjab,28,623.0,Alluvial,32,Furrow,96716.59,40,Wheat,6.0,32.96
+2022,Andhra Pradesh,49,902.0,Laterite,39,Sprinkler,85667.93,35,Paddy,7.0,37.29
+2022,Andhra Pradesh,3,1145.0,Black,39,Sprinkler,812.84,50,Cotton,0.12,76.34
+2022,West Bengal,23,1878.0,Alluvial,25,Basin,13528.88,60,Greengram,-7.0,104.74
+2022,Uttar Pradesh,35,1059.0,Alluvial,37,Sprinkler,64205.61,50,Paddy,7.0,34.6
+2022,Telangana,48,820.0,Red,39,Furrow,19933.32,50,Cotton,0.12,78.85
+2022,Punjab,19,739.0,Alluvial,26,Drip,66007.33,50,Paddy,7.0,35.95
+2022,Odisha,12,1304.0,Red,42,Basin,2779.99,40,Cotton,0.12,78.85
+2022,Assam,45,2941.0,Alluvial,34,Surface,74197.88,40,Jute,5.0,65.57
+2022,Punjab,24,767.0,Black,38,Sprinkler,14067.46,50,Cotton,0.12,68.8
+2022,Odisha,36,1225.0,Laterite,28,Surface,7640.3,50,Cotton,0.12,78.85
+2022,Assam,37,2508.0,Laterite,38,Surface,65583.14,40,Paddy,7.0,35.95
+2022,Tamil Nadu,41,961.0,Red,29,Drip,72337.16,60,Groundnut,5.0,82.7
+2022,Punjab,11,676.0,Alluvial,29,Furrow,32411.8,60,Wheat,6.0,32.96
+2022,Assam,32,2044.0,Alluvial,25,Basin,35608.54,60,Tea,4.0,214.97
+2022,Chhattisgarh,41,1499.0,Laterite,40,Basin,65992.88,50,Paddy,7.0,34.6
+2022,Assam,38,2255.0,Alluvial,35,Surface,52180.27,50,Tea,4.0,214.97
+2022,Uttar Pradesh,41,782.0,Alluvial,41,Furrow,87261.72,40,Groundnut,5.0,72.16
+2022,Telangana,38,803.0,Laterite,27,Furrow,69740.83,60,Paddy,7.0,38.64
+2022,Uttar Pradesh,32,728.0,Black,38,Sprinkler,17885.57,50,Greengram,-7.0,98.91
+2022,Andhra Pradesh,31,804.0,Red,26,Furrow,47853.47,60,Groundnut,5.0,85.32
+2022,Uttar Pradesh,35,1124.0,Alluvial,33,Sprinkler,97972.32,50,Paddy,7.0,34.6
+2022,West Bengal,22,2636.0,Alluvial,36,Surface,3189.51,50,Cotton,0.12,68.8
+2022,Assam,10,2799.0,Laterite,37,Surface,22068.48,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,38,1171.0,Black,38,Surface,80829.31,40,Paddy,7.0,34.6
+2022,Assam,6,2416.0,Alluvial,24,Surface,7379.69,50,Jute,5.0,65.57
+2022,Punjab,50,585.0,Alluvial,34,Drip,131481.43,40,Paddy,7.0,35.95
+2022,Punjab,47,794.0,Black,39,Furrow,139509.03,40,Paddy,7.0,35.95
+2022,Tamil Nadu,33,1110.0,Red,26,Drip,48923.4,45,Groundnut,5.0,82.7
+2022,Odisha,27,1404.0,Red,25,Surface,24367.88,45,Groundnut,5.0,87.96
+2022,Andhra Pradesh,13,805.0,Red,43,Drip,3461.05,35,Cotton,0.12,76.34
+2022,Assam,32,2102.0,Red,31,Basin,43792.41,50,Tea,4.0,214.97
+2022,Assam,34,2394.0,Red,27,Surface,35836.69,50,Tea,4.0,214.97
+2022,Uttar Pradesh,15,831.0,Alluvial,37,Furrow,6631.08,50,Greengram,-7.0,98.91
+2022,Odisha,14,1789.0,Laterite,34,Basin,13887.76,40,Groundnut,5.0,87.96
+2022,Telangana,11,805.0,Black,39,Sprinkler,19243.25,35,Paddy,7.0,38.64
+2022,Uttar Pradesh,9,912.0,Black,40,Drip,4710.31,50,Greengram,-7.0,98.91
+2022,Assam,14,2393.0,Red,27,Surface,14647.65,50,Tea,4.0,214.97
+2022,West Bengal,3,1433.0,Alluvial,27,Basin,2051.97,50,Greengram,-7.0,104.74
+2022,Chhattisgarh,8,1484.0,Laterite,29,Surface,16391.63,60,Paddy,7.0,34.6
+2022,Punjab,16,759.0,Black,35,Furrow,46857.86,50,Paddy,7.0,35.95
+2022,Telangana,30,1073.0,Red,36,Sprinkler,13819.12,35,Cotton,0.12,78.85
+2022,Punjab,26,799.0,Black,44,Sprinkler,71089.42,50,Wheat,6.0,32.96
+2022,Chhattisgarh,27,1204.0,Red,39,Basin,54747.72,50,Paddy,7.0,34.6
+2022,West Bengal,2,2968.0,Laterite,26,Surface,3282.92,60,Groundnut,5.0,78.74
+2022,Chhattisgarh,20,1484.0,Laterite,35,Surface,46119.0,50,Wheat,6.0,31.62
+2022,Telangana,33,956.0,Black,34,Drip,97574.0,50,Paddy,7.0,38.64
+2022,West Bengal,34,2878.0,Laterite,39,Basin,65353.88,50,Paddy,7.0,33.27
+2022,West Bengal,39,1542.0,Alluvial,40,Surface,80832.61,50,Paddy,7.0,33.27
+2022,Chhattisgarh,15,1417.0,Red,35,Basin,49390.91,50,Wheat,6.0,31.62
+2022,Telangana,5,1001.0,Red,28,Sprinkler,2974.71,60,Cotton,0.12,78.85
+2022,Telangana,4,992.0,Black,38,Drip,2278.33,35,Cotton,0.12,78.85
+2022,Tamil Nadu,6,1044.0,Laterite,23,Sprinkler,2345.02,60,Cotton,0.12,75.08
+2022,Punjab,1,796.0,Alluvial,24,Drip,4067.95,50,Wheat,6.0,32.96
+2022,Telangana,28,1126.0,Red,31,Drip,44884.01,35,Groundnut,5.0,87.96
+2022,Andhra Pradesh,49,936.0,Red,44,Sprinkler,42329.75,50,Groundnut,5.0,85.32
+2022,Uttar Pradesh,37,1008.0,Black,44,Sprinkler,11335.69,50,Cotton,0.12,71.32
+2022,West Bengal,44,2295.0,Laterite,43,Surface,4272.87,40,Cotton,0.12,68.8
+2022,Tamil Nadu,35,1127.0,Red,35,Drip,116779.73,50,Paddy,7.0,35.95
+2022,Punjab,21,527.0,Alluvial,29,Sprinkler,63071.17,50,Paddy,7.0,35.95
+2022,Andhra Pradesh,12,816.0,Black,40,Drip,3145.03,35,Cotton,0.12,76.34
+2022,Punjab,43,518.0,Black,35,Sprinkler,21379.43,50,Cotton,0.12,68.8
+2022,Andhra Pradesh,8,1024.0,Laterite,26,Drip,16457.22,60,Groundnut,5.0,85.32
+2022,Tamil Nadu,10,1179.0,Laterite,29,Surface,26473.08,60,Paddy,7.0,35.95
+2022,Chhattisgarh,31,1523.0,Laterite,25,Basin,72635.29,60,Paddy,7.0,34.6
+2022,Tamil Nadu,17,1136.0,Red,24,Sprinkler,43456.78,60,Paddy,7.0,35.95
+2022,Punjab,33,532.0,Black,28,Sprinkler,93269.37,60,Paddy,7.0,35.95
+2022,Telangana,35,1186.0,Red,34,Basin,36688.31,50,Groundnut,5.0,87.96
+2022,Andhra Pradesh,3,815.0,Red,27,Drip,912.32,45,Cotton,0.12,76.34
+2022,Chhattisgarh,21,1255.0,Red,29,Basin,47174.66,45,Paddy,7.0,34.6
+2022,Odisha,13,1614.0,Laterite,27,Basin,20370.82,60,Paddy,7.0,38.64
+2022,Andhra Pradesh,37,958.0,Red,43,Sprinkler,10505.55,50,Cotton,0.12,76.34
+2022,Odisha,35,1408.0,Laterite,36,Surface,52462.77,40,Paddy,7.0,38.64
+2022,Punjab,7,750.0,Alluvial,23,Drip,23554.8,60,Wheat,6.0,32.96
+2022,Punjab,40,645.0,Black,36,Sprinkler,136580.09,50,Paddy,7.0,35.95
+2022,West Bengal,5,2638.0,Laterite,33,Basin,8146.68,50,Groundnut,5.0,78.74
+2022,Odisha,43,1345.0,Red,40,Basin,75977.27,35,Paddy,7.0,38.64
+2022,Chhattisgarh,46,1245.0,Laterite,34,Surface,92248.74,35,Paddy,7.0,34.6
+2022,Assam,8,2095.0,Alluvial,33,Basin,16751.6,40,Paddy,7.0,35.95
+2022,West Bengal,23,1780.0,Alluvial,34,Basin,14126.27,50,Greengram,-7.0,104.74
+2022,Uttar Pradesh,24,853.0,Alluvial,27,Furrow,64338.79,50,Paddy,7.0,34.6
+2022,Chhattisgarh,15,1133.0,Red,23,Sprinkler,28671.79,45,Paddy,7.0,34.6
+2022,Punjab,43,795.0,Alluvial,29,Sprinkler,113093.13,50,Paddy,7.0,35.95
+2022,Tamil Nadu,46,1128.0,Laterite,35,Sprinkler,103520.22,35,Paddy,7.0,35.95
+2022,Assam,17,2315.0,Laterite,25,Surface,26557.28,50,Jute,5.0,65.57
+2022,Andhra Pradesh,34,1097.0,Black,36,Sprinkler,44905.21,50,Paddy,7.0,37.29
+2022,West Bengal,24,2931.0,Laterite,24,Surface,32688.34,60,Groundnut,5.0,78.74
+2022,Chhattisgarh,2,1009.0,Red,28,Sprinkler,5679.92,60,Paddy,7.0,34.6
+2022,West Bengal,4,1502.0,Saline,43,Surface,7312.29,40,Paddy,7.0,33.27
+2022,Assam,32,2821.0,Laterite,42,Surface,36609.17,40,Jute,5.0,65.57
+2022,Telangana,31,856.0,Black,24,Sprinkler,66332.15,60,Groundnut,5.0,87.96
+2022,Uttar Pradesh,22,1192.0,Alluvial,43,Surface,45025.28,40,Groundnut,5.0,72.16
+2022,Tamil Nadu,28,1148.0,Laterite,23,Sprinkler,10766.08,45,Cotton,0.12,75.08
+2022,Assam,47,2548.0,Alluvial,44,Basin,88296.78,40,Paddy,7.0,35.95
+2022,West Bengal,22,2181.0,Saline,29,Basin,43326.44,50,Paddy,7.0,33.27
+2022,Odisha,14,1214.0,Red,40,Surface,2946.18,40,Cotton,0.12,78.85
+2022,Uttar Pradesh,7,989.0,Black,42,Sprinkler,11588.22,40,Paddy,7.0,34.6
+2022,Telangana,8,1172.0,Laterite,31,Basin,19727.46,50,Paddy,7.0,38.64
+2022,West Bengal,42,2165.0,Alluvial,35,Basin,73870.47,50,Groundnut,5.0,78.74
+2022,Telangana,31,800.0,Black,28,Furrow,14174.37,60,Cotton,0.12,78.85
+2022,Tamil Nadu,16,1147.0,Laterite,33,Drip,7033.05,35,Cotton,0.12,75.08
+2022,Uttar Pradesh,4,1064.0,Black,33,Sprinkler,1185.68,50,Cotton,0.12,71.32
+2022,Chhattisgarh,17,1080.0,Red,37,Drip,53223.51,50,Maize,1.9,29.12
+2022,Andhra Pradesh,32,813.0,Black,27,Sprinkler,47482.14,45,Paddy,7.0,37.29
+2022,Telangana,41,959.0,Red,30,Sprinkler,61860.83,60,Groundnut,5.0,87.96
+2022,Tamil Nadu,23,888.0,Red,42,Drip,28956.8,50,Groundnut,5.0,82.7
+2022,Uttar Pradesh,46,1018.0,Alluvial,26,Drip,143082.78,60,Paddy,7.0,34.6
+2022,Assam,12,3081.0,Alluvial,33,Basin,20128.69,50,Jute,5.0,65.57
+2022,Uttar Pradesh,48,1018.0,Black,24,Drip,25212.7,50,Greengram,-7.0,98.91
+2022,Punjab,45,546.0,Black,37,Furrow,24554.32,50,Cotton,0.12,68.8
+2022,Telangana,35,843.0,Black,34,Sprinkler,99648.29,50,Paddy,7.0,38.64
+2022,Chhattisgarh,8,1537.0,Laterite,27,Surface,14165.74,60,Paddy,7.0,34.6
+2022,Uttar Pradesh,38,728.0,Laterite,44,Drip,69112.94,50,Paddy,7.0,34.6
+2022,Uttar Pradesh,1,1069.0,Laterite,29,Drip,2020.04,60,Paddy,7.0,34.6
+2022,Telangana,49,953.0,Red,37,Drip,23834.87,35,Cotton,0.12,78.85
+2022,Punjab,39,557.0,Alluvial,36,Furrow,15166.16,50,Cotton,0.12,68.8
+2022,Chhattisgarh,43,1355.0,Red,25,Basin,87547.33,60,Maize,1.9,29.12
+2022,Tamil Nadu,6,896.0,Red,35,Sprinkler,6497.01,50,Groundnut,5.0,82.7
+2022,Chhattisgarh,28,1377.0,Laterite,23,Basin,65999.46,60,Wheat,6.0,31.62
+2022,Assam,20,3494.0,Alluvial,36,Surface,31182.03,50,Jute,5.0,65.57
+2022,Tamil Nadu,38,1157.0,Laterite,29,Surface,15505.54,60,Cotton,0.12,75.08
+2022,Andhra Pradesh,8,1083.0,Laterite,42,Sprinkler,12170.82,35,Paddy,7.0,37.29
+2022,West Bengal,49,1742.0,Saline,37,Basin,23393.14,40,Greengram,-7.0,104.74
+2022,Odisha,21,1626.0,Red,31,Basin,4352.25,35,Cotton,0.12,78.85
+2022,West Bengal,14,2976.0,Alluvial,31,Basin,22638.86,40,Groundnut,5.0,78.74
+2022,Uttar Pradesh,49,1170.0,Alluvial,43,Surface,10603.29,50,Cotton,0.12,71.32
+2022,Chhattisgarh,39,1337.0,Laterite,25,Surface,82507.07,45,Maize,1.9,29.12
+2022,West Bengal,24,2307.0,Alluvial,27,Surface,13793.48,60,Greengram,-7.0,104.74
+2022,Assam,15,3314.0,Laterite,37,Basin,32722.33,50,Paddy,7.0,35.95
+2022,Andhra Pradesh,44,988.0,Black,30,Sprinkler,11197.87,45,Cotton,0.12,76.34
+2022,Chhattisgarh,31,1323.0,Red,29,Surface,61884.33,60,Paddy,7.0,34.6
+2022,West Bengal,8,2916.0,Laterite,39,Surface,11053.98,50,Groundnut,5.0,78.74
+2022,Odisha,49,1512.0,Red,29,Basin,47980.81,45,Groundnut,5.0,87.96
+2022,Andhra Pradesh,1,1003.0,Laterite,26,Sprinkler,2067.08,45,Paddy,7.0,37.29
+2022,Uttar Pradesh,34,1088.0,Black,40,Drip,20741.88,50,Greengram,-7.0,98.91
+2022,Assam,25,2044.0,Alluvial,39,Basin,31474.03,40,Jute,5.0,65.57
+2022,Telangana,26,938.0,Laterite,29,Sprinkler,50065.78,60,Paddy,7.0,38.64
+2022,Odisha,6,1625.0,Laterite,24,Basin,4315.51,60,Groundnut,5.0,87.96
+2022,Telangana,2,1197.0,Red,23,Surface,953.83,60,Cotton,0.12,78.85
+2022,Tamil Nadu,48,1099.0,Red,30,Drip,49071.3,60,Groundnut,5.0,82.7
+2022,Andhra Pradesh,26,996.0,Laterite,35,Drip,28389.09,50,Groundnut,5.0,85.32
+2022,Uttar Pradesh,29,802.0,Black,29,Furrow,6853.47,60,Cotton,0.12,71.32
+2022,Telangana,13,848.0,Black,34,Furrow,24649.74,35,Paddy,7.0,38.64
+2022,Punjab,40,577.0,Alluvial,24,Furrow,95866.85,60,Paddy,7.0,35.95
+2022,West Bengal,8,2040.0,Saline,40,Basin,3595.87,40,Greengram,-7.0,104.74
+2022,West Bengal,11,2564.0,Alluvial,41,Basin,17603.89,40,Groundnut,5.0,78.74
+2022,Uttar Pradesh,6,1103.0,Alluvial,24,Drip,1593.66,50,Cotton,0.12,71.32
+2022,West Bengal,47,1465.0,Alluvial,39,Basin,6726.06,40,Cotton,0.12,68.8
+2022,Punjab,37,637.0,Black,31,Drip,118715.89,50,Paddy,7.0,35.95
+2022,West Bengal,20,2172.0,Laterite,25,Surface,38148.21,50,Paddy,7.0,33.27
+2022,Tamil Nadu,48,960.0,Red,29,Drip,126919.0,60,Paddy,7.0,35.95
+2022,Telangana,12,948.0,Laterite,38,Sprinkler,19519.55,50,Groundnut,5.0,87.96
+2022,Tamil Nadu,14,1085.0,Red,41,Sprinkler,4409.58,50,Cotton,0.12,75.08
+2022,Tamil Nadu,38,1189.0,Red,28,Surface,13211.41,60,Cotton,0.12,75.08
+2022,Odisha,49,1371.0,Red,31,Surface,48369.41,40,Groundnut,5.0,87.96
+2022,Chhattisgarh,46,1125.0,Laterite,33,Drip,102707.11,35,Maize,1.9,29.12
+2022,Punjab,38,730.0,Black,34,Drip,148214.56,50,Wheat,6.0,32.96
+2022,Punjab,20,585.0,Black,42,Sprinkler,39471.45,40,Paddy,7.0,35.95
+2022,Assam,31,2769.0,Alluvial,27,Surface,40609.99,60,Jute,5.0,65.57
+2022,Uttar Pradesh,22,853.0,Black,41,Drip,53722.89,50,Paddy,7.0,34.6
+2022,Chhattisgarh,37,1299.0,Red,36,Surface,102697.89,50,Wheat,6.0,31.62
+2022,Chhattisgarh,17,1490.0,Red,27,Basin,47060.24,60,Maize,1.9,29.12
+2022,Uttar Pradesh,22,797.0,Black,42,Furrow,33466.87,50,Paddy,7.0,34.6
+2022,Andhra Pradesh,22,903.0,Red,38,Drip,4891.83,35,Cotton,0.12,76.34
+2022,West Bengal,9,1812.0,Saline,32,Basin,4741.4,50,Greengram,-7.0,104.74
+2022,Punjab,38,770.0,Black,39,Sprinkler,23923.35,50,Cotton,0.12,68.8
+2022,Chhattisgarh,44,1550.0,Laterite,38,Surface,86077.65,35,Wheat,6.0,31.62
+2022,Assam,7,3126.0,Red,43,Basin,7167.64,40,Tea,4.0,214.97
+2022,Uttar Pradesh,13,639.0,Laterite,31,Drip,30758.43,50,Groundnut,5.0,72.16
+2022,Odisha,10,1430.0,Laterite,36,Surface,1972.01,40,Cotton,0.12,78.85
+2022,Andhra Pradesh,26,855.0,Red,30,Furrow,35507.51,60,Groundnut,5.0,85.32
+2022,Uttar Pradesh,32,1041.0,Alluvial,35,Drip,21178.44,50,Greengram,-7.0,98.91
+2022,Uttar Pradesh,30,1152.0,Black,36,Surface,71779.08,50,Paddy,7.0,34.6
+2022,Uttar Pradesh,11,1045.0,Laterite,26,Drip,24742.53,60,Groundnut,5.0,72.16
+2022,Odisha,39,1763.0,Red,43,Surface,7392.57,35,Cotton,0.12,78.85
+2022,Uttar Pradesh,13,1065.0,Alluvial,39,Sprinkler,28074.57,40,Paddy,7.0,34.6
+2022,Andhra Pradesh,11,979.0,Black,33,Drip,4103.76,50,Cotton,0.12,76.34
+2022,Andhra Pradesh,33,906.0,Laterite,23,Sprinkler,59342.49,60,Paddy,7.0,37.29
+2022,West Bengal,11,2357.0,Alluvial,30,Basin,1632.32,60,Cotton,0.12,68.8
+2022,Chhattisgarh,43,1168.0,Red,34,Basin,122433.62,50,Maize,1.9,29.12
+2022,Chhattisgarh,35,1505.0,Red,43,Basin,72823.24,50,Wheat,6.0,31.62
+2022,Assam,35,2710.0,Laterite,42,Surface,61120.91,50,Paddy,7.0,35.95
+2022,Tamil Nadu,8,1067.0,Laterite,37,Drip,3375.84,35,Cotton,0.12,75.08
+2022,Telangana,50,931.0,Red,30,Sprinkler,23283.26,45,Cotton,0.12,78.85
+2022,Odisha,37,1730.0,Red,38,Basin,37362.02,40,Groundnut,5.0,87.96
+2022,Andhra Pradesh,31,1010.0,Red,26,Sprinkler,7281.87,60,Cotton,0.12,76.34
+2022,Punjab,47,538.0,Alluvial,32,Sprinkler,151908.31,40,Wheat,6.0,32.96
+2022,West Bengal,2,2109.0,Laterite,34,Surface,3395.77,40,Groundnut,5.0,78.74
+2022,Chhattisgarh,26,1420.0,Red,35,Basin,48892.93,35,Paddy,7.0,34.6
+2022,Punjab,5,515.0,Alluvial,37,Drip,16067.38,50,Paddy,7.0,35.95
+2022,Telangana,37,986.0,Red,24,Sprinkler,19367.99,60,Cotton,0.12,78.85
+2022,Chhattisgarh,20,1077.0,Red,34,Drip,57105.73,50,Maize,1.9,29.12
+2022,Telangana,27,916.0,Red,43,Sprinkler,51668.54,50,Paddy,7.0,38.64
+2022,Assam,28,3462.0,Alluvial,26,Basin,34776.32,50,Tea,4.0,214.97
+2022,Uttar Pradesh,37,1021.0,Alluvial,36,Sprinkler,9199.3,40,Cotton,0.12,71.32
+2022,Assam,44,2642.0,Alluvial,34,Basin,54916.15,50,Jute,5.0,65.57
+2022,Odisha,44,1782.0,Laterite,41,Surface,37471.63,50,Groundnut,5.0,87.96
+2022,Chhattisgarh,1,1132.0,Red,35,Drip,2714.94,35,Wheat,6.0,31.62
+2022,Chhattisgarh,32,1557.0,Laterite,33,Basin,63843.48,50,Wheat,6.0,31.62
+2022,Andhra Pradesh,10,813.0,Red,36,Sprinkler,13278.41,50,Paddy,7.0,37.29
+2022,Assam,19,2232.0,Red,32,Basin,18110.06,40,Tea,4.0,214.97
+2022,Chhattisgarh,38,1550.0,Red,35,Basin,72818.23,50,Maize,1.9,29.12
+2022,Andhra Pradesh,15,1002.0,Red,37,Sprinkler,36868.69,50,Paddy,7.0,37.29
+2022,Tamil Nadu,19,925.0,Laterite,29,Drip,51893.85,45,Paddy,7.0,35.95
+2022,Punjab,29,586.0,Alluvial,31,Drip,63880.11,40,Paddy,7.0,35.95
+2022,Tamil Nadu,2,885.0,Red,23,Drip,3077.03,45,Groundnut,5.0,82.7
+2022,Chhattisgarh,26,1513.0,Laterite,40,Surface,50478.1,50,Maize,1.9,29.12
+2022,Assam,15,3039.0,Alluvial,27,Basin,25711.53,50,Jute,5.0,65.57
+2022,Tamil Nadu,35,1145.0,Laterite,25,Sprinkler,74155.04,45,Paddy,7.0,35.95
+2022,Andhra Pradesh,28,1178.0,Black,36,Surface,5573.72,50,Cotton,0.12,76.34
+2022,Telangana,18,1108.0,Black,37,Drip,50916.0,50,Paddy,7.0,38.64
+2022,Telangana,5,1122.0,Red,39,Drip,13965.09,35,Paddy,7.0,38.64
+2022,Chhattisgarh,47,1555.0,Red,40,Basin,113935.45,50,Wheat,6.0,31.62
+2022,West Bengal,29,2772.0,Alluvial,44,Basin,50721.98,50,Paddy,7.0,33.27
+2022,Assam,16,2616.0,Alluvial,39,Surface,21138.46,50,Jute,5.0,65.57
+2022,Assam,34,2818.0,Laterite,25,Basin,46917.14,50,Jute,5.0,65.57
+2022,Andhra Pradesh,46,1117.0,Red,34,Sprinkler,15827.82,50,Cotton,0.12,76.34
+2022,West Bengal,14,2697.0,Saline,31,Surface,6542.81,40,Greengram,-7.0,104.74
+2022,Telangana,7,979.0,Black,41,Sprinkler,3193.34,50,Cotton,0.12,78.85
+2022,Uttar Pradesh,8,659.0,Laterite,24,Sprinkler,17522.03,60,Groundnut,5.0,72.16
+2022,Uttar Pradesh,20,720.0,Black,42,Drip,9381.15,50,Greengram,-7.0,98.91
+2022,Assam,2,2259.0,Alluvial,37,Surface,2452.49,40,Jute,5.0,65.57
+2022,Andhra Pradesh,8,1067.0,Laterite,41,Drip,8181.34,50,Paddy,7.0,37.29
+2022,Odisha,9,1224.0,Red,31,Surface,2462.98,50,Cotton,0.12,78.85
+2022,Chhattisgarh,30,1099.0,Laterite,35,Sprinkler,82730.65,50,Paddy,7.0,34.6
+2022,Assam,24,2727.0,Laterite,31,Basin,48863.66,40,Paddy,7.0,35.95
+2022,Odisha,26,1424.0,Laterite,29,Basin,22191.01,45,Groundnut,5.0,87.96
+2022,West Bengal,18,1495.0,Alluvial,34,Surface,42805.96,50,Paddy,7.0,33.27
+2022,Andhra Pradesh,9,952.0,Red,27,Sprinkler,24605.43,60,Paddy,7.0,37.29
+2022,Tamil Nadu,35,1126.0,Laterite,31,Sprinkler,25116.75,50,Groundnut,5.0,82.7
+2022,Tamil Nadu,1,1118.0,Red,33,Sprinkler,1690.91,35,Groundnut,5.0,82.7
+2022,Punjab,50,515.0,Black,27,Sprinkler,149912.97,60,Paddy,7.0,35.95
+2022,Uttar Pradesh,18,1187.0,Black,31,Basin,18359.57,50,Groundnut,5.0,72.16
+2022,Assam,49,3499.0,Laterite,42,Basin,84833.5,40,Paddy,7.0,35.95
+2022,Tamil Nadu,20,806.0,Red,41,Drip,18788.86,50,Groundnut,5.0,82.7
+2022,Tamil Nadu,2,1179.0,Red,44,Basin,4610.91,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,8,916.0,Laterite,38,Drip,13253.77,50,Paddy,7.0,34.6
+2022,Telangana,50,1149.0,Red,28,Sprinkler,120280.07,60,Groundnut,5.0,87.96
+2022,Tamil Nadu,32,1095.0,Red,27,Drip,12812.02,45,Cotton,0.12,75.08
+2022,Punjab,36,726.0,Black,30,Sprinkler,138892.77,60,Wheat,6.0,32.96
+2022,Tamil Nadu,41,894.0,Laterite,32,Sprinkler,17646.28,50,Cotton,0.12,75.08
+2022,Tamil Nadu,7,1044.0,Red,25,Drip,3322.06,60,Cotton,0.12,75.08
+2022,Punjab,6,517.0,Black,34,Drip,3184.79,50,Cotton,0.12,68.8
+2022,Assam,35,3220.0,Laterite,36,Surface,37490.04,50,Jute,5.0,65.57
+2022,Assam,20,2437.0,Alluvial,28,Surface,46033.64,50,Paddy,7.0,35.95
+2022,Punjab,33,748.0,Black,33,Furrow,102918.63,50,Paddy,7.0,35.95
+2022,Tamil Nadu,26,836.0,Laterite,24,Drip,22950.25,60,Groundnut,5.0,82.7
+2022,Uttar Pradesh,24,1111.0,Alluvial,24,Sprinkler,13440.62,50,Greengram,-7.0,98.91
+2022,West Bengal,29,2484.0,Laterite,27,Surface,50916.24,60,Paddy,7.0,33.27
+2022,Uttar Pradesh,46,1183.0,Black,30,Surface,13928.31,60,Cotton,0.12,71.32
+2022,West Bengal,14,1325.0,Laterite,31,Surface,30130.62,50,Paddy,7.0,33.27
+2022,Punjab,36,534.0,Black,34,Furrow,102958.51,50,Paddy,7.0,35.95
+2022,Punjab,5,565.0,Alluvial,37,Furrow,12687.88,50,Paddy,7.0,35.95
+2022,Tamil Nadu,7,877.0,Laterite,35,Sprinkler,2414.45,50,Cotton,0.12,75.08
+2022,Odisha,47,1343.0,Red,31,Basin,46574.92,50,Groundnut,5.0,87.96
+2022,Chhattisgarh,47,1505.0,Laterite,39,Surface,113158.9,50,Wheat,6.0,31.62
+2022,Chhattisgarh,12,1335.0,Laterite,31,Surface,23394.23,50,Paddy,7.0,34.6
+2022,Uttar Pradesh,8,1146.0,Black,40,Drip,16040.99,40,Paddy,7.0,34.6
+2022,Uttar Pradesh,27,1073.0,Laterite,36,Drip,73988.17,40,Paddy,7.0,34.6
+2022,Telangana,26,1066.0,Black,23,Sprinkler,13734.45,60,Cotton,0.12,78.85
+2022,Andhra Pradesh,20,887.0,Laterite,33,Sprinkler,42987.82,50,Groundnut,5.0,85.32
+2022,Assam,2,3458.0,Red,31,Basin,2600.27,40,Tea,4.0,214.97
+2022,Uttar Pradesh,40,1070.0,Black,30,Sprinkler,24258.05,60,Greengram,-7.0,98.91
+2022,Telangana,12,1044.0,Laterite,40,Sprinkler,18375.37,50,Groundnut,5.0,87.96
+2022,Tamil Nadu,35,933.0,Laterite,33,Drip,48142.62,35,Groundnut,5.0,82.7
+2022,Telangana,39,980.0,Black,42,Drip,94864.52,35,Paddy,7.0,38.64
+2022,Odisha,26,1340.0,Red,25,Basin,48474.56,60,Paddy,7.0,38.64
+2022,Assam,23,2615.0,Alluvial,42,Surface,25492.32,40,Tea,4.0,214.97
+2022,Telangana,48,922.0,Black,36,Sprinkler,119608.08,50,Paddy,7.0,38.64
+2022,Assam,30,2942.0,Alluvial,27,Surface,74042.84,50,Paddy,7.0,35.95
+2022,Odisha,6,1733.0,Laterite,23,Basin,1552.06,45,Cotton,0.12,78.85
+2022,Chhattisgarh,16,1258.0,Laterite,26,Basin,37715.08,60,Paddy,7.0,34.6
+2022,Uttar Pradesh,42,862.0,Black,43,Sprinkler,12816.06,50,Cotton,0.12,71.32
+2022,Telangana,43,1026.0,Red,40,Drip,20408.15,35,Cotton,0.12,78.85
+2022,Assam,28,2668.0,Red,27,Basin,33003.06,60,Tea,4.0,214.97
+2022,Assam,47,2382.0,Red,34,Surface,56925.19,40,Tea,4.0,214.97
+2022,Andhra Pradesh,20,1021.0,Black,30,Drip,47123.28,60,Groundnut,5.0,85.32
+2022,Punjab,29,748.0,Black,29,Drip,18554.26,50,Cotton,0.12,68.8
+2022,Assam,44,2303.0,Red,36,Basin,45349.89,50,Tea,4.0,214.97
+2022,Assam,43,3276.0,Red,33,Surface,50742.8,40,Tea,4.0,214.97
+2022,Andhra Pradesh,39,1102.0,Black,42,Drip,8144.9,50,Cotton,0.12,76.34
+2022,Odisha,9,1797.0,Laterite,27,Surface,2263.91,45,Cotton,0.12,78.85
+2022,West Bengal,14,2156.0,Alluvial,37,Basin,7502.37,40,Greengram,-7.0,104.74
+2022,Chhattisgarh,40,1324.0,Laterite,23,Basin,97849.47,45,Maize,1.9,29.12
+2022,Telangana,2,871.0,Black,25,Furrow,1034.97,45,Cotton,0.12,78.85
+2022,Andhra Pradesh,8,1165.0,Laterite,24,Surface,4979.12,60,Groundnut,5.0,85.32
+2022,Odisha,37,1738.0,Red,33,Surface,64345.36,50,Paddy,7.0,38.64
+2022,Odisha,3,1727.0,Laterite,43,Basin,1464.19,35,Groundnut,5.0,87.96
+2022,Punjab,2,718.0,Black,39,Sprinkler,4720.18,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,2,884.0,Black,24,Drip,4801.78,60,Paddy,7.0,34.6
+2022,Telangana,44,1079.0,Red,30,Drip,23502.05,60,Cotton,0.12,78.85
+2022,Assam,36,2663.0,Laterite,42,Surface,39523.7,50,Jute,5.0,65.57
+2022,Telangana,45,852.0,Red,32,Drip,132812.45,50,Paddy,7.0,38.64
+2022,Assam,35,2362.0,Laterite,33,Surface,75993.35,40,Paddy,7.0,35.95
+2022,Punjab,32,543.0,Black,32,Sprinkler,92210.52,50,Paddy,7.0,35.95
+2022,Punjab,42,724.0,Black,39,Furrow,21992.71,50,Cotton,0.12,68.8
+2022,Chhattisgarh,41,1145.0,Laterite,31,Sprinkler,101779.23,35,Paddy,7.0,34.6
+2022,Andhra Pradesh,14,1013.0,Black,40,Sprinkler,27015.12,35,Groundnut,5.0,85.32
+2022,Uttar Pradesh,35,1161.0,Laterite,43,Surface,49430.35,50,Paddy,7.0,34.6
+2022,West Bengal,15,1784.0,Alluvial,44,Basin,6802.56,40,Greengram,-7.0,104.74
+2022,Tamil Nadu,25,824.0,Red,39,Furrow,36502.66,50,Groundnut,5.0,82.7
+2022,Uttar Pradesh,11,712.0,Black,34,Sprinkler,6504.7,50,Greengram,-7.0,98.91
+2022,Andhra Pradesh,2,1024.0,Black,36,Drip,470.87,35,Cotton,0.12,76.34
+2022,Assam,31,2554.0,Laterite,31,Surface,38482.19,40,Jute,5.0,65.57
+2022,Assam,38,2413.0,Laterite,37,Surface,72557.86,50,Paddy,7.0,35.95
+2022,Uttar Pradesh,50,633.0,Laterite,33,Furrow,85847.51,50,Paddy,7.0,34.6
+2022,West Bengal,13,1530.0,Alluvial,32,Basin,1727.52,50,Cotton,0.12,68.8
+2022,Chhattisgarh,46,1591.0,Laterite,33,Basin,106080.87,35,Maize,1.9,29.12
+2022,West Bengal,32,2655.0,Alluvial,28,Surface,5228.58,50,Cotton,0.12,68.8
+2022,Punjab,14,787.0,Alluvial,35,Drip,57161.84,50,Wheat,6.0,32.96
+2022,Telangana,49,950.0,Black,42,Drip,20948.71,35,Cotton,0.12,78.85
+2022,Odisha,4,1656.0,Red,30,Basin,4192.71,60,Groundnut,5.0,87.96
+2022,Andhra Pradesh,5,917.0,Laterite,32,Drip,5938.72,35,Paddy,7.0,37.29
+2022,Chhattisgarh,14,1469.0,Laterite,26,Basin,43528.26,60,Wheat,6.0,31.62
+2022,Uttar Pradesh,44,919.0,Black,43,Drip,23314.23,50,Greengram,-7.0,98.91
+2022,West Bengal,39,2269.0,Alluvial,41,Basin,6048.6,40,Cotton,0.12,68.8
+2022,Telangana,9,805.0,Laterite,42,Furrow,13512.1,50,Paddy,7.0,38.64
+2022,West Bengal,35,1755.0,Laterite,35,Surface,70122.08,40,Paddy,7.0,33.27
+2022,Tamil Nadu,31,939.0,Red,34,Drip,90034.21,50,Paddy,7.0,35.95
+2022,Punjab,37,786.0,Black,25,Drip,23882.06,60,Cotton,0.12,68.8
+2022,Chhattisgarh,34,1347.0,Red,23,Surface,76786.29,60,Paddy,7.0,34.6
+2022,Odisha,23,1237.0,Laterite,23,Surface,6098.22,45,Cotton,0.12,78.85
+2022,Tamil Nadu,20,917.0,Laterite,33,Drip,58203.16,35,Paddy,7.0,35.95
+2022,Punjab,37,782.0,Alluvial,28,Furrow,122057.3,60,Paddy,7.0,35.95
+2022,Tamil Nadu,4,970.0,Red,39,Sprinkler,3011.84,50,Groundnut,5.0,82.7
+2022,Chhattisgarh,6,1441.0,Laterite,38,Basin,10475.18,35,Paddy,7.0,34.6
+2022,Telangana,13,917.0,Red,26,Sprinkler,31887.51,60,Paddy,7.0,38.64
+2022,Andhra Pradesh,35,1017.0,Red,38,Drip,26398.86,50,Groundnut,5.0,85.32
+2022,West Bengal,24,1805.0,Laterite,39,Surface,42818.2,40,Groundnut,5.0,78.74
+2022,Uttar Pradesh,25,891.0,Black,37,Furrow,40813.25,50,Paddy,7.0,34.6
+2023,Chhattisgarh,8,1130.0,Red,43,Drip,21594.64,50,Wheat,10.0,35.96
+2023,West Bengal,26,2944.0,Laterite,40,Basin,45905.93,40,Paddy,12.0,38.19
+2023,Odisha,17,1558.0,Red,33,Surface,36796.93,40,Paddy,12.0,44.49
+2023,Telangana,31,942.0,Laterite,42,Drip,52823.47,50,Paddy,12.0,44.49
+2023,Andhra Pradesh,17,1075.0,Black,37,Sprinkler,3986.2,50,Cotton,10.0,93.15
+2023,West Bengal,28,1731.0,Alluvial,27,Basin,60884.21,50,Paddy,12.0,38.19
+2023,Andhra Pradesh,6,1016.0,Red,36,Drip,1596.94,35,Cotton,10.0,93.15
+2023,Assam,34,2657.0,Laterite,38,Basin,53538.64,40,Paddy,12.0,41.34
+2023,Chhattisgarh,21,1485.0,Laterite,36,Basin,44127.62,50,Wheat,10.0,35.96
+2023,Uttar Pradesh,15,729.0,Black,30,Sprinkler,5055.76,60,Cotton,10.0,86.97
+2023,Tamil Nadu,48,1044.0,Red,31,Drip,18291.65,35,Cotton,10.0,91.6
+2023,Chhattisgarh,5,1404.0,Red,37,Surface,10364.33,35,Paddy,12.0,39.76
+2023,Punjab,45,703.0,Black,35,Drip,160382.05,40,Paddy,12.0,41.34
+2023,Assam,8,3455.0,Red,23,Basin,8808.22,60,Tea,5.0,242.33
+2023,Odisha,15,1221.0,Laterite,28,Basin,14862.79,45,Groundnut,4.0,96.83
+2023,Uttar Pradesh,18,979.0,Black,25,Sprinkler,5005.36,50,Cotton,10.0,86.97
+2023,Uttar Pradesh,43,941.0,Black,37,Drip,13179.59,50,Cotton,10.0,86.97
+2023,Telangana,12,956.0,Black,31,Drip,6407.68,35,Cotton,10.0,96.24
+2023,Odisha,14,1643.0,Laterite,26,Basin,13086.84,60,Groundnut,4.0,96.83
+2023,Chhattisgarh,20,1531.0,Laterite,33,Surface,42703.48,35,Paddy,12.0,39.76
+2023,Punjab,20,660.0,Alluvial,36,Furrow,55220.54,40,Paddy,12.0,41.34
+2023,Andhra Pradesh,13,1057.0,Laterite,43,Sprinkler,24329.23,35,Paddy,12.0,42.91
+2023,Punjab,18,670.0,Black,35,Furrow,8761.27,50,Cotton,10.0,83.88
+2023,Punjab,18,507.0,Alluvial,25,Drip,12204.01,50,Cotton,10.0,83.88
+2023,Punjab,7,715.0,Black,23,Furrow,3861.34,60,Cotton,10.0,83.88
+2023,Assam,40,2979.0,Laterite,32,Basin,54977.32,50,Jute,6.0,73.37
+2023,Chhattisgarh,9,1570.0,Laterite,34,Surface,23908.26,50,Wheat,10.0,35.96
+2023,Punjab,40,763.0,Black,29,Drip,21601.65,60,Cotton,10.0,83.88
+2023,Uttar Pradesh,8,638.0,Laterite,39,Sprinkler,5080.82,50,Groundnut,4.0,79.3
+2023,Andhra Pradesh,8,826.0,Black,44,Drip,13931.86,50,Groundnut,4.0,93.91
+2023,Punjab,14,762.0,Alluvial,24,Drip,50876.67,50,Wheat,10.0,37.51
+2023,West Bengal,33,1378.0,Saline,34,Surface,17814.82,50,Greengram,8.0,135.45
+2023,Telangana,14,1083.0,Black,41,Drip,27460.74,35,Groundnut,4.0,96.83
+2023,Uttar Pradesh,4,733.0,Laterite,33,Sprinkler,4910.28,40,Groundnut,4.0,79.3
+2023,Odisha,28,1294.0,Laterite,36,Surface,46978.35,35,Paddy,12.0,44.49
+2023,Chhattisgarh,28,1579.0,Red,42,Basin,58754.38,50,Wheat,10.0,35.96
+2023,Assam,41,3373.0,Alluvial,25,Basin,53088.33,60,Tea,5.0,242.33
+2023,Uttar Pradesh,8,954.0,Alluvial,33,Sprinkler,18026.53,40,Paddy,12.0,39.76
+2023,West Bengal,11,2367.0,Laterite,29,Basin,21230.8,50,Paddy,12.0,38.19
+2023,Uttar Pradesh,10,952.0,Black,27,Sprinkler,5097.12,50,Greengram,8.0,127.86
+2023,Odisha,28,1338.0,Laterite,42,Surface,47665.72,35,Paddy,12.0,44.49
+2023,Chhattisgarh,14,1499.0,Red,43,Surface,23690.69,35,Paddy,12.0,39.76
+2023,Assam,27,2293.0,Laterite,44,Surface,29933.77,40,Jute,6.0,73.37
+2023,Chhattisgarh,42,1133.0,Laterite,32,Drip,112329.45,35,Paddy,12.0,39.76
+2023,West Bengal,42,2619.0,Alluvial,44,Surface,19588.45,40,Greengram,8.0,135.45
+2023,Telangana,4,928.0,Black,43,Sprinkler,1687.04,50,Cotton,10.0,96.24
+2023,Andhra Pradesh,44,1164.0,Black,29,Surface,120720.32,60,Paddy,12.0,42.91
+2023,Tamil Nadu,48,1177.0,Laterite,39,Surface,94046.44,50,Paddy,12.0,41.34
+2023,Chhattisgarh,10,1146.0,Laterite,34,Sprinkler,26972.65,50,Maize,0.07,31.31
+2023,Telangana,29,1178.0,Laterite,31,Basin,46856.17,50,Paddy,12.0,44.49
+2023,Assam,25,3459.0,Alluvial,38,Surface,34911.38,40,Jute,6.0,73.37
+2023,Punjab,46,735.0,Black,29,Furrow,112477.84,50,Paddy,12.0,41.34
+2023,Odisha,34,1621.0,Red,40,Surface,9628.12,50,Cotton,10.0,96.24
+2023,Punjab,6,500.0,Alluvial,38,Furrow,15636.89,50,Wheat,10.0,37.51
+2023,Telangana,29,1056.0,Black,43,Drip,48652.88,35,Paddy,12.0,44.49
+2023,Odisha,30,1455.0,Red,26,Basin,21718.72,50,Groundnut,4.0,96.83
+2023,Telangana,44,895.0,Red,37,Furrow,43767.21,50,Groundnut,4.0,96.83
+2023,West Bengal,24,2300.0,Saline,31,Basin,12135.08,40,Greengram,8.0,135.45
+2023,Assam,21,3026.0,Laterite,34,Basin,30600.36,50,Jute,6.0,73.37
+2023,Andhra Pradesh,32,1107.0,Laterite,41,Drip,43247.03,35,Paddy,12.0,42.91
+2023,Punjab,30,629.0,Alluvial,30,Drip,126264.48,60,Wheat,10.0,37.51
+2023,Tamil Nadu,48,919.0,Red,32,Sprinkler,45547.67,50,Groundnut,4.0,90.99
+2023,Chhattisgarh,11,1167.0,Red,31,Basin,31824.42,50,Wheat,10.0,35.96
+2023,Odisha,22,1254.0,Laterite,44,Surface,5623.25,50,Cotton,10.0,96.24
+2023,Punjab,43,638.0,Alluvial,32,Sprinkler,148841.64,40,Paddy,12.0,41.34
+2023,Andhra Pradesh,20,906.0,Black,40,Sprinkler,24146.37,50,Groundnut,4.0,93.91
+2023,Chhattisgarh,5,1593.0,Red,39,Basin,8071.69,35,Paddy,12.0,39.76
+2023,Odisha,43,1367.0,Laterite,24,Surface,34253.96,45,Groundnut,4.0,96.83
+2023,Odisha,42,1611.0,Red,26,Basin,25400.71,60,Groundnut,4.0,96.83
+2023,Chhattisgarh,40,1101.0,Laterite,41,Sprinkler,73667.09,50,Maize,0.07,31.31
+2023,Assam,4,2629.0,Laterite,35,Surface,8603.07,40,Paddy,12.0,41.34
+2023,West Bengal,50,1770.0,Laterite,32,Surface,95528.51,50,Groundnut,4.0,86.6
+2023,West Bengal,30,2084.0,Laterite,37,Basin,40896.62,40,Groundnut,4.0,86.6
+2023,Punjab,45,513.0,Black,43,Furrow,17922.9,40,Cotton,10.0,83.88
+2023,Telangana,35,1175.0,Black,35,Surface,63426.64,50,Groundnut,4.0,96.83
+2023,Odisha,27,1425.0,Laterite,41,Surface,5384.66,35,Cotton,10.0,96.24
+2023,Tamil Nadu,36,857.0,Laterite,29,Drip,58372.38,45,Groundnut,4.0,90.99
+2023,Chhattisgarh,37,1386.0,Red,32,Surface,68955.08,50,Paddy,12.0,39.76
+2023,Punjab,27,544.0,Alluvial,35,Drip,99539.85,40,Wheat,10.0,37.51
+2023,West Bengal,38,2350.0,Laterite,25,Basin,69501.05,50,Paddy,12.0,38.19
+2023,Odisha,39,1601.0,Laterite,42,Surface,36564.46,35,Groundnut,4.0,96.83
+2023,Punjab,14,655.0,Alluvial,29,Furrow,38569.56,60,Wheat,10.0,37.51
+2023,Punjab,24,573.0,Alluvial,34,Sprinkler,66499.02,50,Paddy,12.0,41.34
+2023,Tamil Nadu,13,965.0,Laterite,42,Drip,14052.66,50,Groundnut,4.0,90.99
+2023,Uttar Pradesh,50,941.0,Black,41,Sprinkler,131058.13,50,Paddy,12.0,39.76
+2023,Chhattisgarh,29,1401.0,Red,37,Surface,51955.1,50,Paddy,12.0,39.76
+2023,Telangana,7,1183.0,Black,44,Surface,14974.31,50,Paddy,12.0,44.49
+2023,Telangana,26,1182.0,Red,44,Basin,10976.99,50,Cotton,10.0,96.24
+2023,Andhra Pradesh,49,989.0,Black,43,Sprinkler,10505.68,35,Cotton,10.0,93.15
+2023,Assam,2,2458.0,Alluvial,31,Surface,2061.78,50,Tea,5.0,242.33
+2023,Chhattisgarh,40,1569.0,Laterite,34,Surface,67887.68,50,Paddy,12.0,39.76
+2023,Chhattisgarh,48,1506.0,Red,44,Basin,101896.89,50,Maize,0.07,31.31
+2023,Assam,18,2416.0,Alluvial,44,Basin,18012.83,50,Tea,5.0,242.33
+2023,West Bengal,12,2343.0,Laterite,40,Basin,1603.05,50,Cotton,10.0,83.88
+2023,Uttar Pradesh,18,1061.0,Laterite,37,Drip,34105.82,50,Paddy,12.0,39.76
+2023,Telangana,47,927.0,Red,27,Sprinkler,65944.8,60,Groundnut,4.0,96.83
+2023,Telangana,42,953.0,Red,33,Sprinkler,71952.59,35,Groundnut,4.0,96.83
+2023,West Bengal,46,1295.0,Laterite,37,Surface,82353.93,40,Groundnut,4.0,86.6
+2023,Chhattisgarh,36,1056.0,Laterite,33,Sprinkler,91494.74,50,Paddy,12.0,39.76
+2023,Punjab,7,754.0,Alluvial,23,Sprinkler,25450.45,50,Wheat,10.0,37.51
+2023,Odisha,46,1345.0,Red,23,Surface,11624.96,45,Cotton,10.0,96.24
+2023,Tamil Nadu,8,800.0,Red,35,Drip,5988.73,50,Groundnut,4.0,90.99
+2023,Andhra Pradesh,24,1073.0,Black,42,Drip,48010.31,50,Groundnut,4.0,93.91
+2023,Uttar Pradesh,28,836.0,Black,24,Furrow,6752.26,60,Cotton,10.0,86.97
+2023,Odisha,12,1509.0,Laterite,27,Basin,22596.26,60,Paddy,12.0,44.49
+2023,Punjab,45,518.0,Black,33,Sprinkler,109706.39,50,Paddy,12.0,41.34
+2023,Tamil Nadu,49,920.0,Laterite,28,Sprinkler,20049.62,60,Cotton,10.0,91.6
+2023,West Bengal,21,1737.0,Alluvial,26,Basin,11768.28,60,Greengram,8.0,135.45
+2023,Tamil Nadu,25,990.0,Laterite,25,Drip,65631.81,45,Paddy,12.0,41.34
+2023,West Bengal,5,2959.0,Alluvial,43,Surface,2209.1,50,Greengram,8.0,135.45
+2023,Andhra Pradesh,36,1133.0,Black,39,Sprinkler,43463.45,50,Paddy,12.0,42.91
+2023,Uttar Pradesh,12,896.0,Laterite,44,Sprinkler,20245.57,40,Paddy,12.0,39.76
+2023,Telangana,23,904.0,Red,40,Drip,11684.7,35,Cotton,10.0,96.24
+2023,West Bengal,10,2014.0,Laterite,25,Basin,1394.46,60,Cotton,10.0,83.88
+2023,Chhattisgarh,2,1442.0,Red,33,Basin,3854.64,35,Maize,0.07,31.31
+2023,Uttar Pradesh,3,1161.0,Alluvial,29,Surface,7971.32,60,Groundnut,4.0,79.3
+2023,Uttar Pradesh,16,617.0,Black,35,Sprinkler,3993.7,40,Cotton,10.0,86.97
+2023,West Bengal,21,1515.0,Laterite,41,Basin,3021.14,40,Cotton,10.0,83.88
+2023,Punjab,3,662.0,Black,23,Sprinkler,10359.52,60,Wheat,10.0,37.51
+2023,Assam,24,2532.0,Laterite,37,Basin,34957.29,50,Jute,6.0,73.37
+2023,Assam,41,2370.0,Laterite,44,Surface,57416.41,40,Paddy,12.0,41.34
+2023,Odisha,33,1543.0,Laterite,39,Surface,6848.97,40,Cotton,10.0,96.24
+2023,West Bengal,36,2624.0,Alluvial,23,Surface,17797.61,50,Greengram,8.0,135.45
+2023,Uttar Pradesh,50,1095.0,Black,25,Sprinkler,18758.82,60,Cotton,10.0,86.97
+2023,Assam,31,2371.0,Alluvial,26,Basin,32526.61,50,Tea,5.0,242.33
+2023,Andhra Pradesh,27,1076.0,Red,39,Drip,6570.06,35,Cotton,10.0,93.15
+2023,Uttar Pradesh,48,687.0,Alluvial,30,Furrow,65966.66,50,Groundnut,4.0,79.3
+2023,Punjab,42,780.0,Alluvial,31,Drip,147627.11,40,Paddy,12.0,41.34
+2023,Andhra Pradesh,12,1101.0,Laterite,26,Drip,21545.38,45,Groundnut,4.0,93.91
+2023,Uttar Pradesh,20,860.0,Alluvial,28,Furrow,10403.07,60,Greengram,8.0,127.86
+2023,Chhattisgarh,37,1216.0,Laterite,27,Surface,98251.07,60,Maize,0.07,31.31
+2023,West Bengal,29,2827.0,Laterite,31,Basin,48499.25,50,Groundnut,4.0,86.6
+2023,Tamil Nadu,40,1110.0,Laterite,23,Drip,48996.06,60,Groundnut,4.0,90.99
+2023,Andhra Pradesh,33,822.0,Red,44,Furrow,56531.7,50,Groundnut,4.0,93.91
+2023,Odisha,35,1445.0,Laterite,32,Basin,58700.12,40,Paddy,12.0,44.49
+2023,Chhattisgarh,31,1289.0,Red,39,Basin,64253.37,50,Paddy,12.0,39.76
+2023,Punjab,41,552.0,Black,34,Sprinkler,18053.59,40,Cotton,10.0,83.88
+2023,Punjab,34,631.0,Black,31,Drip,21642.34,50,Cotton,10.0,83.88
+2023,Tamil Nadu,1,1088.0,Red,33,Drip,3431.56,50,Paddy,12.0,41.34
+2023,Odisha,23,1520.0,Red,23,Basin,19211.28,50,Groundnut,4.0,96.83
+2023,West Bengal,7,1362.0,Alluvial,41,Surface,3727.04,40,Greengram,8.0,135.45
+2023,Assam,22,3331.0,Red,39,Basin,27966.44,50,Tea,5.0,242.33
+2023,Odisha,8,1599.0,Laterite,24,Basin,15121.69,45,Paddy,12.0,44.49
+2023,Tamil Nadu,29,950.0,Red,37,Drip,24484.88,35,Groundnut,4.0,90.99
+2023,Andhra Pradesh,42,1145.0,Red,35,Drip,34150.02,50,Groundnut,4.0,93.91
+2023,Assam,37,3215.0,Red,43,Surface,40606.72,40,Tea,5.0,242.33
+2023,Odisha,25,1476.0,Laterite,37,Surface,15811.32,40,Groundnut,4.0,96.83
+2023,Tamil Nadu,42,888.0,Laterite,26,Drip,52499.16,60,Groundnut,4.0,90.99
+2023,Assam,12,2055.0,Alluvial,39,Basin,15306.79,40,Tea,5.0,242.33
+2023,Andhra Pradesh,50,945.0,Black,23,Sprinkler,91066.83,60,Paddy,12.0,42.91
+2023,West Bengal,45,1365.0,Laterite,24,Surface,85239.93,50,Groundnut,4.0,86.6
+2023,West Bengal,19,2292.0,Laterite,38,Surface,34989.85,40,Paddy,12.0,38.19
+2023,Chhattisgarh,33,1436.0,Red,43,Surface,72946.08,50,Wheat,10.0,35.96
+2023,Chhattisgarh,27,1566.0,Laterite,35,Basin,61258.32,50,Paddy,12.0,39.76
+2023,Telangana,44,1034.0,Laterite,32,Sprinkler,57483.69,50,Groundnut,4.0,96.83
+2023,West Bengal,5,2839.0,Alluvial,31,Basin,2666.82,40,Greengram,8.0,135.45
+2023,Telangana,18,1180.0,Laterite,43,Basin,34481.37,35,Paddy,12.0,44.49
+2023,West Bengal,40,1208.0,Laterite,23,Basin,6681.72,50,Cotton,10.0,83.88
+2023,Andhra Pradesh,39,855.0,Laterite,29,Drip,74949.9,60,Paddy,12.0,42.91
+2023,West Bengal,46,1260.0,Alluvial,30,Basin,28486.27,50,Greengram,8.0,135.45
+2023,Uttar Pradesh,37,1179.0,Laterite,31,Basin,94853.96,50,Paddy,12.0,39.76
+2023,Assam,45,3266.0,Alluvial,42,Surface,90024.78,50,Paddy,12.0,41.34
+2023,Punjab,38,702.0,Alluvial,38,Furrow,17864.95,40,Cotton,10.0,83.88
+2023,Odisha,42,1575.0,Laterite,35,Basin,24946.84,35,Groundnut,4.0,96.83
+2023,Assam,36,2312.0,Alluvial,34,Surface,82752.33,50,Paddy,12.0,41.34
+2023,Odisha,29,1556.0,Laterite,26,Basin,48614.97,50,Paddy,12.0,44.49
+2023,Telangana,5,921.0,Red,30,Sprinkler,2331.03,60,Cotton,10.0,96.24
+2023,Andhra Pradesh,42,1092.0,Black,33,Drip,101112.83,50,Groundnut,4.0,93.91
+2023,Telangana,10,891.0,Laterite,42,Sprinkler,22328.01,50,Paddy,12.0,44.49
+2023,Odisha,18,1593.0,Laterite,40,Basin,4849.47,40,Cotton,10.0,96.24
+2023,West Bengal,16,2740.0,Laterite,31,Basin,1427.14,40,Cotton,10.0,83.88
+2023,Assam,6,3483.0,Laterite,35,Surface,11339.0,40,Paddy,12.0,41.34
+2023,Tamil Nadu,40,866.0,Red,44,Furrow,94039.46,50,Paddy,12.0,41.34
+2023,Odisha,13,1650.0,Laterite,42,Surface,11133.76,40,Groundnut,4.0,96.83
+2023,Assam,44,2233.0,Alluvial,34,Surface,99650.86,50,Paddy,12.0,41.34
+2023,Assam,31,2161.0,Alluvial,23,Basin,38029.23,50,Tea,5.0,242.33
+2023,Assam,25,2437.0,Alluvial,33,Basin,28631.87,40,Tea,5.0,242.33
+2023,Telangana,4,1051.0,Black,23,Sprinkler,9497.8,60,Groundnut,4.0,96.83
+2023,Punjab,15,543.0,Alluvial,36,Furrow,35398.33,50,Wheat,10.0,37.51
+2023,Assam,3,2542.0,Alluvial,44,Basin,3858.7,40,Jute,6.0,73.37
+2023,Telangana,9,909.0,Laterite,31,Drip,15909.23,35,Groundnut,4.0,96.83
+2023,Assam,14,2263.0,Red,40,Surface,16976.34,50,Tea,5.0,242.33
+2023,Uttar Pradesh,46,716.0,Black,40,Furrow,10415.82,50,Cotton,10.0,86.97
+2023,Punjab,40,647.0,Alluvial,25,Furrow,22090.99,60,Cotton,10.0,83.88
+2023,Uttar Pradesh,38,1199.0,Alluvial,24,Surface,12251.04,60,Cotton,10.0,86.97
+2023,Punjab,12,673.0,Alluvial,34,Drip,6586.01,50,Cotton,10.0,83.88
+2023,Odisha,20,1599.0,Laterite,26,Surface,18360.39,45,Groundnut,4.0,96.83
+2023,Odisha,19,1365.0,Red,43,Surface,38697.73,50,Paddy,12.0,44.49
+2023,Odisha,50,1796.0,Laterite,27,Basin,101618.94,45,Paddy,12.0,44.49
+2023,Telangana,33,1167.0,Black,23,Basin,15802.84,60,Cotton,10.0,96.24
+2023,Odisha,50,1559.0,Laterite,31,Basin,82790.3,35,Paddy,12.0,44.49
+2023,Uttar Pradesh,42,664.0,Laterite,44,Sprinkler,41412.23,40,Groundnut,4.0,79.3
+2023,Chhattisgarh,25,1019.0,Red,43,Drip,62176.11,50,Maize,0.07,31.31
+2023,Punjab,50,799.0,Black,43,Sprinkler,156492.06,40,Wheat,10.0,37.51
+2023,Telangana,8,897.0,Laterite,26,Sprinkler,19687.1,60,Paddy,12.0,44.49
+2023,Punjab,17,625.0,Black,34,Sprinkler,57302.78,40,Wheat,10.0,37.51
+2023,Odisha,48,1532.0,Red,23,Surface,84202.73,60,Paddy,12.0,44.49
+2023,Andhra Pradesh,25,1064.0,Laterite,41,Sprinkler,45213.8,50,Groundnut,4.0,93.91
+2023,Punjab,15,685.0,Black,30,Furrow,38656.78,50,Paddy,12.0,41.34
+2023,Punjab,34,552.0,Alluvial,26,Furrow,14824.52,60,Cotton,10.0,83.88
+2023,Uttar Pradesh,5,743.0,Black,43,Furrow,1915.58,50,Greengram,8.0,127.86
+2023,Tamil Nadu,43,1091.0,Red,28,Sprinkler,15182.75,45,Cotton,10.0,91.6
+2023,Andhra Pradesh,33,1114.0,Red,34,Sprinkler,44091.76,35,Groundnut,4.0,93.91
+2023,Uttar Pradesh,34,609.0,Alluvial,32,Sprinkler,17665.08,50,Greengram,8.0,127.86
+2023,Punjab,38,568.0,Black,28,Furrow,113815.13,50,Wheat,10.0,37.51
+2023,Chhattisgarh,28,1249.0,Red,26,Surface,64565.67,60,Wheat,10.0,35.96
+2023,Andhra Pradesh,23,1193.0,Black,30,Surface,44052.09,60,Paddy,12.0,42.91
+2023,Punjab,15,618.0,Alluvial,41,Sprinkler,42190.42,50,Paddy,12.0,41.34
+2023,West Bengal,8,1302.0,Alluvial,41,Surface,12160.79,40,Groundnut,4.0,86.6
+2023,West Bengal,40,2757.0,Laterite,27,Surface,58384.13,50,Groundnut,4.0,86.6
+2023,Uttar Pradesh,17,1100.0,Black,28,Sprinkler,37869.99,60,Groundnut,4.0,79.3
+2023,Uttar Pradesh,9,779.0,Alluvial,24,Furrow,2294.95,50,Cotton,10.0,86.97
+2023,West Bengal,11,2098.0,Alluvial,32,Basin,21241.18,40,Paddy,12.0,38.19
+2023,Punjab,43,569.0,Black,44,Drip,102856.05,40,Wheat,10.0,37.51
+2023,Odisha,26,1589.0,Red,38,Surface,6491.28,40,Cotton,10.0,96.24
+2023,Chhattisgarh,19,1184.0,Red,36,Surface,49280.25,50,Maize,0.07,31.31
+2023,Assam,42,2924.0,Alluvial,31,Basin,50212.34,40,Tea,5.0,242.33
+2023,Chhattisgarh,9,1240.0,Red,35,Surface,26362.0,35,Wheat,10.0,35.96
+2023,Andhra Pradesh,36,1059.0,Red,44,Drip,11123.92,50,Cotton,10.0,93.15
+2023,Andhra Pradesh,36,976.0,Red,27,Drip,11522.15,60,Cotton,10.0,93.15
+2023,Tamil Nadu,3,979.0,Laterite,33,Drip,3084.14,35,Groundnut,4.0,90.99
+2023,Tamil Nadu,19,1071.0,Red,41,Sprinkler,12909.71,35,Groundnut,4.0,90.99
+2023,Odisha,37,1643.0,Laterite,30,Surface,38727.87,45,Groundnut,4.0,96.83
+2023,Uttar Pradesh,47,1181.0,Alluvial,23,Basin,11926.31,60,Cotton,10.0,86.97
+2023,West Bengal,16,2054.0,Saline,44,Surface,25182.87,50,Paddy,12.0,38.19
+2023,Punjab,8,679.0,Black,41,Sprinkler,22484.51,50,Paddy,12.0,41.34
+2023,Telangana,9,956.0,Red,29,Drip,24193.33,45,Paddy,12.0,44.49
+2023,Uttar Pradesh,8,1094.0,Black,23,Sprinkler,10193.03,50,Groundnut,4.0,79.3
+2023,Andhra Pradesh,32,1158.0,Black,40,Surface,33605.88,35,Paddy,12.0,42.91
+2023,Punjab,34,751.0,Black,33,Sprinkler,114789.61,40,Wheat,10.0,37.51
+2023,Assam,48,3246.0,Laterite,36,Basin,76976.97,50,Paddy,12.0,41.34
+2023,West Bengal,30,1305.0,Laterite,43,Basin,57910.3,40,Paddy,12.0,38.19
+2023,Uttar Pradesh,22,1038.0,Alluvial,43,Drip,5090.66,50,Cotton,10.0,86.97
+2023,Telangana,41,945.0,Laterite,32,Sprinkler,66444.93,35,Groundnut,4.0,96.83
+2023,Uttar Pradesh,19,732.0,Alluvial,23,Furrow,5002.66,60,Cotton,10.0,86.97
+2023,Uttar Pradesh,28,1159.0,Alluvial,44,Surface,12075.83,50,Greengram,8.0,127.86
+2023,Assam,12,3214.0,Laterite,41,Basin,20411.43,40,Paddy,12.0,41.34
+2023,Andhra Pradesh,1,1126.0,Black,40,Sprinkler,849.57,35,Groundnut,4.0,93.91
+2023,Telangana,3,1128.0,Black,36,Sprinkler,1635.72,50,Cotton,10.0,96.24
+2023,West Bengal,16,1667.0,Laterite,36,Basin,21715.24,40,Groundnut,4.0,86.6
+2023,West Bengal,49,1956.0,Alluvial,41,Surface,5064.44,50,Cotton,10.0,83.88
+2023,Tamil Nadu,33,1028.0,Laterite,43,Drip,40060.86,35,Groundnut,4.0,90.99
+2023,Telangana,43,1102.0,Black,35,Sprinkler,26549.19,50,Cotton,10.0,96.24
+2023,Uttar Pradesh,29,1197.0,Alluvial,27,Surface,16366.28,60,Greengram,8.0,127.86
+2023,Andhra Pradesh,21,831.0,Laterite,37,Furrow,26325.79,50,Groundnut,4.0,93.91
+2023,Assam,40,2350.0,Laterite,30,Basin,50361.06,60,Jute,6.0,73.37
+2023,Telangana,23,803.0,Laterite,36,Furrow,21558.83,50,Groundnut,4.0,96.83
+2023,Odisha,41,1490.0,Laterite,43,Basin,39305.04,40,Groundnut,4.0,96.83
+2023,Tamil Nadu,30,1129.0,Red,23,Drip,39101.86,45,Groundnut,4.0,90.99
+2023,Chhattisgarh,6,1586.0,Laterite,38,Surface,13044.87,50,Maize,0.07,31.31
+2023,West Bengal,38,2691.0,Alluvial,31,Surface,56499.19,50,Groundnut,4.0,86.6
+2023,Tamil Nadu,44,929.0,Red,24,Drip,55940.5,60,Groundnut,4.0,90.99
+2023,Punjab,42,545.0,Black,26,Furrow,106013.57,50,Wheat,10.0,37.51
+2023,Punjab,5,528.0,Alluvial,40,Sprinkler,14908.26,50,Wheat,10.0,37.51
+2023,Odisha,34,1384.0,Red,29,Basin,40731.83,45,Groundnut,4.0,96.83
+2023,Chhattisgarh,32,1333.0,Red,38,Surface,93374.01,50,Wheat,10.0,35.96
+2023,West Bengal,28,2896.0,Saline,25,Surface,57063.95,60,Paddy,12.0,38.19
+2023,Assam,7,3249.0,Laterite,24,Surface,8659.98,50,Jute,6.0,73.37
+2023,Assam,23,2727.0,Alluvial,28,Surface,57537.32,50,Paddy,12.0,41.34
+2023,Punjab,3,694.0,Alluvial,24,Furrow,9757.48,60,Wheat,10.0,37.51
+2023,Telangana,16,1106.0,Red,41,Drip,31906.35,50,Paddy,12.0,44.49
+2023,Tamil Nadu,36,910.0,Red,39,Drip,23408.69,50,Groundnut,4.0,90.99
+2023,Punjab,22,718.0,Alluvial,43,Drip,68059.69,50,Paddy,12.0,41.34
+2023,Punjab,50,786.0,Black,36,Drip,23279.64,40,Cotton,10.0,83.88
+2023,Uttar Pradesh,20,764.0,Black,33,Furrow,29451.84,40,Groundnut,4.0,79.3
+2023,Odisha,19,1603.0,Red,26,Basin,30161.19,50,Paddy,12.0,44.49
+2023,Odisha,23,1332.0,Laterite,27,Surface,53247.01,50,Paddy,12.0,44.49
+2023,Odisha,31,1647.0,Laterite,41,Surface,43737.74,35,Paddy,12.0,44.49
+2023,Telangana,35,854.0,Black,43,Sprinkler,17196.73,35,Cotton,10.0,96.24
+2023,West Bengal,14,2924.0,Laterite,39,Basin,20306.9,50,Groundnut,4.0,86.6
+2023,Odisha,28,1779.0,Red,34,Surface,49348.3,35,Paddy,12.0,44.49
+2023,Uttar Pradesh,26,948.0,Alluvial,26,Drip,13815.82,50,Greengram,8.0,127.86
+2023,Andhra Pradesh,1,915.0,Red,34,Sprinkler,2199.62,35,Groundnut,4.0,93.91
+2023,Uttar Pradesh,6,815.0,Alluvial,30,Sprinkler,3239.56,50,Greengram,8.0,127.86
+2023,West Bengal,9,1874.0,Saline,23,Basin,18976.81,50,Paddy,12.0,38.19
+2023,Tamil Nadu,2,898.0,Red,40,Furrow,703.05,50,Cotton,10.0,91.6
+2023,Telangana,3,1147.0,Black,27,Drip,5968.74,45,Groundnut,4.0,96.83
+2023,Andhra Pradesh,40,877.0,Red,42,Drip,40256.9,50,Groundnut,4.0,93.91
+2023,Tamil Nadu,38,1102.0,Red,43,Drip,27468.24,50,Groundnut,4.0,90.99
+2023,Odisha,14,1365.0,Red,38,Basin,17300.21,50,Groundnut,4.0,96.83
+2023,Assam,11,3409.0,Alluvial,37,Basin,16798.35,50,Jute,6.0,73.37
+2023,Uttar Pradesh,3,605.0,Black,43,Furrow,3353.37,40,Groundnut,4.0,79.3
+2023,Punjab,16,590.0,Black,43,Furrow,41350.69,50,Wheat,10.0,37.51
+2023,West Bengal,25,2432.0,Saline,31,Basin,11813.03,40,Greengram,8.0,135.45
+2023,Odisha,18,1522.0,Laterite,34,Basin,37488.89,35,Paddy,12.0,44.49
+2023,West Bengal,10,2940.0,Alluvial,31,Surface,16417.17,40,Groundnut,4.0,86.6
+2023,Chhattisgarh,41,1561.0,Laterite,28,Surface,72748.32,45,Maize,0.07,31.31
+2023,Chhattisgarh,32,1498.0,Red,28,Surface,99000.26,60,Wheat,10.0,35.96
+2023,Andhra Pradesh,2,868.0,Red,37,Drip,464.13,50,Cotton,10.0,93.15
+2023,Uttar Pradesh,19,690.0,Alluvial,36,Drip,5035.78,40,Cotton,10.0,86.97
+2023,Telangana,33,1101.0,Red,37,Drip,96403.18,50,Paddy,12.0,44.49
+2023,Chhattisgarh,22,1112.0,Laterite,33,Drip,43790.25,50,Paddy,12.0,39.76
+2023,Odisha,18,1576.0,Laterite,43,Basin,9881.64,40,Groundnut,4.0,96.83
+2023,Punjab,33,534.0,Alluvial,39,Furrow,16571.46,50,Cotton,10.0,83.88
+2023,West Bengal,35,2725.0,Saline,34,Surface,15936.68,50,Greengram,8.0,135.45
+2023,Punjab,30,501.0,Alluvial,31,Sprinkler,83690.68,50,Wheat,10.0,37.51
+2023,Punjab,13,537.0,Black,29,Sprinkler,7756.11,50,Cotton,10.0,83.88
+2023,Tamil Nadu,20,803.0,Red,38,Sprinkler,7992.05,35,Cotton,10.0,91.6
+2023,West Bengal,11,1522.0,Saline,43,Surface,5331.8,40,Greengram,8.0,135.45
+2023,Andhra Pradesh,47,802.0,Red,44,Furrow,51924.29,50,Groundnut,4.0,93.91
+2023,West Bengal,1,1475.0,Alluvial,29,Basin,2300.91,50,Paddy,12.0,38.19
+2023,Chhattisgarh,6,1320.0,Red,35,Basin,11277.25,35,Paddy,12.0,39.76
+2023,Punjab,6,704.0,Black,24,Drip,24769.03,60,Wheat,10.0,37.51
+2023,Odisha,42,1754.0,Laterite,33,Surface,8505.52,50,Cotton,10.0,96.24
+2023,Assam,10,2110.0,Red,32,Basin,13236.72,40,Tea,5.0,242.33
+2023,Telangana,31,869.0,Red,30,Furrow,15037.55,60,Cotton,10.0,96.24
+2023,Odisha,4,1798.0,Laterite,25,Surface,7067.36,45,Paddy,12.0,44.49
+2023,Telangana,2,828.0,Red,26,Sprinkler,2776.83,60,Groundnut,4.0,96.83
+2023,Punjab,39,727.0,Black,25,Drip,132952.86,60,Wheat,10.0,37.51
+2023,Andhra Pradesh,24,1171.0,Black,30,Basin,5631.69,45,Cotton,10.0,93.15
+2023,Tamil Nadu,13,1095.0,Red,23,Drip,10350.05,60,Groundnut,4.0,90.99
+2023,Telangana,38,1193.0,Laterite,23,Basin,62289.99,45,Groundnut,4.0,96.83
+2023,Assam,9,2423.0,Red,44,Basin,6982.75,40,Tea,5.0,242.33
+2023,Punjab,37,598.0,Alluvial,35,Sprinkler,95499.18,50,Paddy,12.0,41.34
+2023,Punjab,41,555.0,Alluvial,39,Drip,99467.67,40,Paddy,12.0,41.34
+2023,Assam,4,2225.0,Red,31,Surface,3850.71,40,Tea,5.0,242.33
+2023,Andhra Pradesh,14,953.0,Black,38,Sprinkler,27901.79,50,Paddy,12.0,42.91
+2023,West Bengal,34,2172.0,Alluvial,33,Basin,3723.88,40,Cotton,10.0,83.88
+2023,Tamil Nadu,10,808.0,Red,42,Furrow,2921.56,50,Cotton,10.0,91.6
+2023,Assam,7,3106.0,Alluvial,23,Basin,14175.0,60,Paddy,12.0,41.34
+2023,Odisha,41,1537.0,Laterite,35,Basin,75694.78,40,Paddy,12.0,44.49
+2023,Odisha,50,1318.0,Red,39,Basin,75368.21,40,Paddy,12.0,44.49
+2023,Assam,23,3475.0,Red,43,Surface,24479.7,40,Tea,5.0,242.33
+2023,West Bengal,46,2771.0,Alluvial,34,Basin,6931.4,40,Cotton,10.0,83.88
+2023,Punjab,35,657.0,Alluvial,24,Drip,24713.8,50,Cotton,10.0,83.88
+2023,Chhattisgarh,19,1340.0,Red,36,Basin,48702.79,35,Wheat,10.0,35.96
+2023,Chhattisgarh,15,1557.0,Laterite,35,Surface,30576.75,35,Maize,0.07,31.31
+2023,Uttar Pradesh,36,979.0,Black,32,Sprinkler,99127.2,40,Paddy,12.0,39.76
+2023,West Bengal,33,1876.0,Laterite,29,Basin,69454.71,50,Paddy,12.0,38.19
+2023,Odisha,50,1591.0,Red,26,Basin,96653.55,45,Paddy,12.0,44.49
+2023,Andhra Pradesh,17,866.0,Red,26,Furrow,22504.7,60,Paddy,12.0,42.91
+2023,Andhra Pradesh,45,802.0,Red,29,Drip,44007.05,60,Groundnut,4.0,93.91
+2023,West Bengal,1,1279.0,Laterite,38,Basin,1568.3,50,Groundnut,4.0,86.6
+2023,Telangana,34,984.0,Red,44,Drip,74088.67,50,Paddy,12.0,44.49
+2023,Chhattisgarh,29,1462.0,Laterite,24,Basin,60229.19,60,Wheat,10.0,35.96
+2023,Tamil Nadu,49,956.0,Red,40,Drip,124649.89,35,Paddy,12.0,41.34
+2023,Odisha,6,1319.0,Red,26,Surface,4867.45,45,Groundnut,4.0,96.83
+2023,Odisha,37,1574.0,Laterite,44,Surface,18442.23,40,Groundnut,4.0,96.83
+2023,Punjab,24,788.0,Black,29,Drip,65587.56,50,Paddy,12.0,41.34
+2023,Assam,32,2212.0,Laterite,23,Surface,63455.39,50,Paddy,12.0,41.34
+2023,Assam,3,3085.0,Red,23,Surface,3343.27,50,Tea,5.0,242.33
+2023,Punjab,46,790.0,Black,35,Furrow,22348.68,50,Cotton,10.0,83.88
+2023,Andhra Pradesh,14,1192.0,Laterite,34,Basin,36421.38,50,Paddy,12.0,42.91
+2023,Andhra Pradesh,4,1177.0,Black,41,Basin,835.04,35,Cotton,10.0,93.15
+2023,Chhattisgarh,22,1174.0,Red,38,Basin,50163.19,35,Wheat,10.0,35.96
+2023,Chhattisgarh,29,1397.0,Red,27,Surface,76932.89,60,Wheat,10.0,35.96
+2023,Odisha,17,1437.0,Laterite,27,Surface,3754.66,60,Cotton,10.0,96.24
+2023,West Bengal,22,2799.0,Laterite,39,Basin,29771.75,50,Groundnut,4.0,86.6
+2023,Chhattisgarh,12,1096.0,Red,29,Sprinkler,34682.03,60,Paddy,12.0,39.76
+2023,Tamil Nadu,15,1029.0,Red,42,Drip,13703.42,50,Groundnut,4.0,90.99
+2023,Assam,39,2555.0,Laterite,41,Surface,60924.87,40,Paddy,12.0,41.34
+2023,Assam,38,2774.0,Red,34,Basin,42754.86,50,Tea,5.0,242.33
+2023,Andhra Pradesh,37,832.0,Laterite,30,Furrow,50788.7,60,Paddy,12.0,42.91
+2023,Tamil Nadu,14,1051.0,Laterite,23,Drip,5214.18,60,Cotton,10.0,91.6
+2023,Punjab,34,770.0,Alluvial,44,Furrow,88979.31,40,Paddy,12.0,41.34
+2023,Chhattisgarh,10,1189.0,Red,43,Basin,24475.17,50,Maize,0.07,31.31
+2023,Chhattisgarh,18,1379.0,Red,29,Basin,40339.06,60,Wheat,10.0,35.96
+2023,Odisha,11,1235.0,Red,38,Basin,11563.35,40,Groundnut,4.0,96.83
+2023,Andhra Pradesh,1,1111.0,Red,31,Drip,2524.52,50,Paddy,12.0,42.91
+2023,Punjab,11,541.0,Black,31,Drip,36455.49,40,Wheat,10.0,37.51
+2023,West Bengal,18,1578.0,Alluvial,36,Surface,2458.09,40,Cotton,10.0,83.88
+2023,Telangana,3,975.0,Laterite,26,Sprinkler,6316.93,60,Paddy,12.0,44.49
+2023,Uttar Pradesh,36,640.0,Black,24,Furrow,17595.22,50,Greengram,8.0,127.86
+2023,Telangana,12,1021.0,Laterite,26,Sprinkler,21077.14,60,Paddy,12.0,44.49
+2023,Tamil Nadu,2,871.0,Red,40,Sprinkler,5118.61,50,Paddy,12.0,41.34
+2023,Assam,32,3488.0,Alluvial,28,Basin,48283.21,50,Jute,6.0,73.37
+2023,Tamil Nadu,50,1028.0,Red,25,Drip,22550.0,60,Cotton,10.0,91.6
+2023,Punjab,26,775.0,Black,41,Drip,57426.53,50,Paddy,12.0,41.34
+2023,Punjab,14,720.0,Alluvial,29,Sprinkler,9979.17,60,Cotton,10.0,83.88
+2023,Punjab,49,775.0,Black,27,Furrow,142490.95,50,Paddy,12.0,41.34
+2023,Telangana,28,1044.0,Black,39,Drip,81094.58,50,Paddy,12.0,44.49
+2023,Andhra Pradesh,9,926.0,Laterite,36,Drip,8818.85,35,Paddy,12.0,42.91
+2023,Tamil Nadu,47,1105.0,Laterite,37,Sprinkler,18322.72,35,Cotton,10.0,91.6
+2023,Telangana,23,1072.0,Black,30,Sprinkler,39447.84,60,Groundnut,4.0,96.83
+2023,Assam,46,3490.0,Alluvial,41,Surface,96337.23,40,Paddy,12.0,41.34
+2023,Chhattisgarh,13,1513.0,Laterite,39,Basin,27592.8,50,Maize,0.07,31.31
+2023,Andhra Pradesh,5,1072.0,Black,24,Sprinkler,1293.37,60,Cotton,10.0,93.15
+2023,West Bengal,41,1511.0,Alluvial,23,Surface,25174.83,60,Greengram,8.0,135.45
+2023,Assam,49,2830.0,Alluvial,30,Surface,125458.85,50,Paddy,12.0,41.34
+2023,Assam,43,2094.0,Alluvial,31,Basin,54585.39,40,Tea,5.0,242.33
+2023,Andhra Pradesh,3,997.0,Red,39,Drip,7756.79,50,Paddy,12.0,42.91
+2023,Odisha,19,1407.0,Laterite,34,Surface,5502.36,35,Cotton,10.0,96.24
+2023,Telangana,24,1169.0,Laterite,40,Basin,26792.59,50,Groundnut,4.0,96.83
+2023,West Bengal,49,2165.0,Alluvial,31,Basin,82746.83,40,Groundnut,4.0,86.6
+2023,Assam,33,2391.0,Alluvial,29,Basin,56239.1,50,Jute,6.0,73.37
+2023,Andhra Pradesh,7,1098.0,Laterite,42,Sprinkler,9391.09,50,Paddy,12.0,42.91
+2023,Punjab,37,703.0,Alluvial,26,Furrow,95702.7,60,Paddy,12.0,41.34
+2023,Telangana,42,1174.0,Red,42,Basin,18995.96,50,Cotton,10.0,96.24
+2023,Telangana,44,870.0,Black,36,Drip,109672.56,50,Paddy,12.0,44.49
+2023,Odisha,36,1452.0,Red,27,Surface,69963.01,45,Paddy,12.0,44.49
+2023,Andhra Pradesh,36,1000.0,Black,26,Drip,12649.86,60,Cotton,10.0,93.15
+2023,Odisha,8,1739.0,Laterite,42,Surface,12654.7,35,Paddy,12.0,44.49
+2023,Tamil Nadu,20,812.0,Laterite,25,Furrow,48086.19,45,Paddy,12.0,41.34
+2023,West Bengal,30,2756.0,Alluvial,24,Basin,59428.14,60,Paddy,12.0,38.19
+2023,Punjab,34,691.0,Alluvial,31,Drip,134010.79,50,Wheat,10.0,37.51
+2023,Odisha,32,1751.0,Red,38,Surface,35071.86,50,Groundnut,4.0,96.83
+2023,Telangana,48,927.0,Red,31,Drip,83413.19,35,Paddy,12.0,44.49
+2023,Assam,28,2547.0,Alluvial,36,Basin,41535.98,40,Jute,6.0,73.37
+2023,Telangana,9,1171.0,Black,38,Basin,17627.33,50,Paddy,12.0,44.49
+2023,Chhattisgarh,16,1107.0,Laterite,42,Drip,36560.49,50,Paddy,12.0,39.76
+2023,Tamil Nadu,23,1138.0,Red,42,Sprinkler,54862.51,50,Paddy,12.0,41.34
+2023,Andhra Pradesh,19,877.0,Black,34,Furrow,47170.82,50,Paddy,12.0,42.91
+2023,Punjab,40,764.0,Black,31,Furrow,100936.39,50,Paddy,12.0,41.34
+2023,Chhattisgarh,34,1264.0,Laterite,40,Surface,73906.26,50,Maize,0.07,31.31
+2023,West Bengal,23,1261.0,Laterite,24,Basin,38857.17,50,Groundnut,4.0,86.6
+2023,Assam,30,3475.0,Laterite,44,Surface,36074.14,40,Jute,6.0,73.37
+2023,Telangana,31,1001.0,Red,40,Sprinkler,67656.72,50,Groundnut,4.0,96.83
+2023,Assam,36,2990.0,Laterite,30,Surface,64096.67,50,Paddy,12.0,41.34
+2023,Telangana,7,1078.0,Red,24,Sprinkler,3645.17,60,Cotton,10.0,96.24
+2023,Telangana,29,997.0,Black,36,Sprinkler,47218.5,50,Groundnut,4.0,96.83
+2023,Andhra Pradesh,46,872.0,Red,26,Drip,55438.44,45,Groundnut,4.0,93.91
+2023,Assam,7,2960.0,Red,40,Basin,7180.35,40,Tea,5.0,242.33
+2023,Tamil Nadu,24,922.0,Laterite,36,Sprinkler,61313.99,50,Paddy,12.0,41.34
+2023,Odisha,16,1563.0,Red,37,Basin,11479.72,35,Groundnut,4.0,96.83
+2023,Odisha,2,1325.0,Laterite,28,Basin,3334.54,50,Paddy,12.0,44.49
+2023,West Bengal,14,2138.0,Alluvial,31,Surface,29294.94,50,Paddy,12.0,38.19
+2023,Chhattisgarh,43,1021.0,Laterite,31,Drip,147856.02,50,Wheat,10.0,35.96
+2023,Tamil Nadu,44,1081.0,Laterite,39,Sprinkler,14629.83,35,Cotton,10.0,91.6
+2023,Odisha,49,1337.0,Red,33,Surface,114117.96,50,Paddy,12.0,44.49
+2023,Uttar Pradesh,29,808.0,Alluvial,27,Sprinkler,39606.69,50,Groundnut,4.0,79.3
+2023,West Bengal,46,2235.0,Laterite,34,Basin,4608.51,50,Cotton,10.0,83.88
+2023,Andhra Pradesh,16,823.0,Red,26,Drip,4620.53,60,Cotton,10.0,93.15
+2023,Assam,24,2008.0,Laterite,44,Surface,26572.65,40,Jute,6.0,73.37
+2023,Odisha,18,1573.0,Laterite,27,Basin,37104.64,45,Paddy,12.0,44.49
+2023,Punjab,19,649.0,Black,28,Sprinkler,12567.68,60,Cotton,10.0,83.88
+2023,Punjab,16,750.0,Alluvial,33,Furrow,8002.15,40,Cotton,10.0,83.88
+2023,West Bengal,9,2129.0,Saline,24,Basin,4221.91,50,Greengram,8.0,135.45
+2023,Uttar Pradesh,1,884.0,Alluvial,24,Sprinkler,303.83,50,Cotton,10.0,86.97
+2023,Andhra Pradesh,5,830.0,Laterite,37,Furrow,7861.13,50,Paddy,12.0,42.91
+2023,Assam,32,3419.0,Alluvial,25,Surface,39286.19,50,Tea,5.0,242.33
+2023,Andhra Pradesh,50,977.0,Red,36,Sprinkler,93443.32,50,Groundnut,4.0,93.91
+2023,Andhra Pradesh,40,1058.0,Red,27,Sprinkler,33608.3,45,Groundnut,4.0,93.91
+2023,West Bengal,22,1397.0,Saline,36,Basin,11212.74,50,Greengram,8.0,135.45
+2023,West Bengal,9,1208.0,Alluvial,28,Surface,1421.86,50,Cotton,10.0,83.88
+2023,Odisha,4,1593.0,Laterite,35,Basin,879.89,40,Cotton,10.0,96.24
+2023,Tamil Nadu,9,1092.0,Red,30,Drip,3379.65,45,Cotton,10.0,91.6
+2023,West Bengal,2,1413.0,Alluvial,26,Basin,3929.38,50,Groundnut,4.0,86.6
+2023,Punjab,14,564.0,Black,37,Sprinkler,6381.94,40,Cotton,10.0,83.88
+2023,Punjab,47,518.0,Black,32,Drip,152493.65,50,Paddy,12.0,41.34
+2023,West Bengal,4,2135.0,Alluvial,33,Surface,8139.55,40,Paddy,12.0,38.19
+2023,West Bengal,22,1703.0,Saline,28,Surface,11728.7,50,Greengram,8.0,135.45
+2023,Telangana,17,921.0,Laterite,26,Drip,22230.91,45,Groundnut,4.0,96.83
+2023,Assam,42,2878.0,Alluvial,43,Surface,51112.98,40,Jute,6.0,73.37
+2023,Odisha,41,1317.0,Red,36,Surface,11971.17,50,Cotton,10.0,96.24
+2023,Uttar Pradesh,7,1152.0,Alluvial,26,Basin,2223.96,60,Cotton,10.0,86.97
+2023,Punjab,27,583.0,Alluvial,37,Drip,70280.36,40,Wheat,10.0,37.51
+2023,Telangana,41,832.0,Black,43,Furrow,16945.57,50,Cotton,10.0,96.24
+2023,Andhra Pradesh,15,890.0,Red,31,Drip,4814.37,50,Cotton,10.0,93.15
+2023,Assam,39,2132.0,Alluvial,41,Basin,40486.29,50,Jute,6.0,73.37
+2023,Punjab,35,784.0,Black,33,Sprinkler,21834.08,50,Cotton,10.0,83.88
+2023,Punjab,10,544.0,Alluvial,41,Sprinkler,26819.8,50,Paddy,12.0,41.34
+2023,Odisha,23,1523.0,Laterite,42,Surface,5272.8,50,Cotton,10.0,96.24
+2023,Odisha,31,1373.0,Laterite,35,Surface,55785.59,50,Paddy,12.0,44.49
+2023,Tamil Nadu,13,952.0,Laterite,36,Sprinkler,13266.78,50,Groundnut,4.0,90.99
+2023,Tamil Nadu,10,1107.0,Red,28,Sprinkler,3855.62,45,Cotton,10.0,91.6
+2023,Chhattisgarh,48,1044.0,Laterite,34,Sprinkler,151579.23,35,Wheat,10.0,35.96
+2023,West Bengal,5,2918.0,Alluvial,43,Surface,678.07,40,Cotton,10.0,83.88
+2023,Punjab,10,660.0,Black,41,Furrow,4691.78,50,Cotton,10.0,83.88
+2023,Uttar Pradesh,31,1075.0,Laterite,35,Sprinkler,63076.5,50,Paddy,12.0,39.76
+2023,Uttar Pradesh,9,1168.0,Alluvial,33,Basin,4471.78,50,Greengram,8.0,127.86
+2023,Tamil Nadu,38,1054.0,Laterite,28,Sprinkler,15213.85,60,Cotton,10.0,91.6
+2023,Uttar Pradesh,8,1099.0,Alluvial,32,Drip,2947.38,50,Cotton,10.0,86.97
+2023,Odisha,35,1749.0,Red,30,Basin,8812.38,45,Cotton,10.0,96.24
+2023,Tamil Nadu,22,802.0,Laterite,23,Drip,30625.04,60,Groundnut,4.0,90.99
+2023,Uttar Pradesh,36,929.0,Alluvial,38,Sprinkler,17489.34,50,Greengram,8.0,127.86
+2023,Telangana,39,1184.0,Black,36,Basin,84358.18,35,Paddy,12.0,44.49
+2023,West Bengal,29,1202.0,Laterite,27,Basin,68074.07,60,Paddy,12.0,38.19
+2023,West Bengal,16,2599.0,Laterite,38,Basin,2399.33,50,Cotton,10.0,83.88
+2023,Telangana,42,1054.0,Black,26,Sprinkler,21583.84,60,Cotton,10.0,96.24
+2023,Andhra Pradesh,49,1146.0,Red,32,Drip,117032.72,35,Paddy,12.0,42.91
+2023,Tamil Nadu,10,890.0,Laterite,37,Drip,23367.33,50,Paddy,12.0,41.34
+2023,Uttar Pradesh,35,1034.0,Alluvial,26,Drip,101494.5,60,Paddy,12.0,39.76
+2023,Punjab,42,708.0,Alluvial,41,Drip,114922.43,50,Paddy,12.0,41.34
+2023,Odisha,28,1461.0,Red,25,Basin,17296.04,45,Groundnut,4.0,96.83
+2023,Assam,44,3265.0,Laterite,27,Basin,87484.15,60,Paddy,12.0,41.34
+2023,Odisha,46,1726.0,Red,30,Surface,12239.22,60,Cotton,10.0,96.24
+2023,Assam,31,3359.0,Alluvial,37,Basin,37116.77,50,Tea,5.0,242.33
+2023,Chhattisgarh,37,1143.0,Red,44,Sprinkler,84625.16,35,Paddy,12.0,39.76
+2023,Punjab,40,542.0,Black,41,Sprinkler,19835.95,50,Cotton,10.0,83.88
+2023,Chhattisgarh,26,1203.0,Red,33,Basin,64943.41,35,Wheat,10.0,35.96
+2023,Telangana,21,867.0,Black,37,Drip,54495.64,50,Paddy,12.0,44.49
+2023,Assam,31,2660.0,Alluvial,44,Surface,36371.3,40,Tea,5.0,242.33
+2023,Odisha,23,1703.0,Laterite,40,Surface,13389.02,50,Groundnut,4.0,96.83
+2023,Uttar Pradesh,46,764.0,Laterite,32,Sprinkler,116702.74,50,Paddy,12.0,39.76
+2023,Andhra Pradesh,31,1073.0,Laterite,31,Drip,25735.77,50,Groundnut,4.0,93.91
+2023,Tamil Nadu,47,944.0,Laterite,32,Drip,21393.54,50,Cotton,10.0,91.6
+2023,Chhattisgarh,4,1326.0,Red,33,Surface,10545.47,50,Paddy,12.0,39.76
+2023,Punjab,15,697.0,Black,28,Drip,9026.41,50,Cotton,10.0,83.88
+2023,Andhra Pradesh,3,882.0,Laterite,24,Drip,3432.0,45,Paddy,12.0,42.91
+2023,West Bengal,14,2496.0,Laterite,36,Surface,18203.66,50,Groundnut,4.0,86.6
+2023,Telangana,42,1034.0,Red,31,Sprinkler,48685.77,50,Groundnut,4.0,96.83
+2023,Odisha,47,1366.0,Laterite,34,Surface,77842.35,50,Paddy,12.0,44.49
+2023,Assam,17,3439.0,Alluvial,39,Basin,19973.43,40,Jute,6.0,73.37
+2023,Punjab,7,523.0,Black,35,Sprinkler,19372.2,40,Wheat,10.0,37.51
+2023,Andhra Pradesh,7,862.0,Red,23,Furrow,2072.91,60,Cotton,10.0,93.15
+2023,Punjab,16,516.0,Black,41,Furrow,7545.43,40,Cotton,10.0,83.88
+2023,Uttar Pradesh,27,824.0,Alluvial,39,Sprinkler,12659.85,40,Greengram,8.0,127.86
+2023,Telangana,37,1151.0,Black,25,Basin,18829.14,60,Cotton,10.0,96.24
+2023,West Bengal,16,1979.0,Laterite,32,Surface,2937.45,40,Cotton,10.0,83.88
+2023,Tamil Nadu,28,870.0,Red,30,Sprinkler,75971.75,60,Paddy,12.0,41.34
